@@ -60,16 +60,16 @@ def wb_to_txt_file(in_wb, out_file):
         
     
 #main 
-wb1 = load_workbook('CAData1.xlsx')
-wb2 = load_workbook('CAData2.xlsx')
-wb3 = load_workbook('CAData3.xlsx')
+wb1 = load_workbook('CADataOct1019.xlsx')
+#wb2 = load_workbook('CAData2.xlsx')
+#wb3 = load_workbook('CAData3.xlsx')
 
-fout = open('CADataOut.txt','at')
+fout = open('CADataOut101019.txt','at')
 fout.truncate() # clear out file
 
 wb_to_txt_file(wb1, fout)
-wb_to_txt_file(wb2, fout)
-wb_to_txt_file(wb3, fout)
+#wb_to_txt_file(wb2, fout)
+#wb_to_txt_file(wb3, fout)
 
 fout.close()
     
