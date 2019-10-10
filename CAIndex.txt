@@ -1,0 +1,756 @@
+w1,18-05-02, CA, Toronto Star, https://www.thestar.com/news/canada/2018/05/02/canadian-class-action-launched-over-facebook-data-scraping-scandal.html
+w2,18-05-02, GB, Government Europa, https://www.governmenteuropa.eu/european-data-protection-supervisor-gdpr/87059/
+w3,18-05-02, IN, The Quint, https://www.thequint.com/news/qbullet-cambridge-analytica-shuts-down-jail-for-chhota-rajan
+w4,18-04-30, SG, The News Minute, https://www.thenewsminute.com/article/twitter-also-sold-data-cambridge-analytica-researcher-telegraph-report-80441
+w5,18-04-30, ZA, Independent Online, https://www.iol.co.za/business-report/international/twitter-sold-data-access-to-cambridge-analytica-14713621
+w6,18-04-27, SG, YourStory.com, https://yourstory.com/2018/04/future-digital-theres-no-way-press-forward-without-making-data-protection-top-priority/
+w7,18-04-25, MY, malaysiandigest.com, http://malaysiandigest.com/business/735073-facebook-profit-hits-an-all-time-high-unaffected-by-recent-scandals-so-far.html
+w8,18-04-25, ZA, MyBroadband, https://mybroadband.co.za/news/business/257659-twitter-tops-revenue-and-profit-projections.html
+w9,18-04-25, NG, Pulse Nigeria, http://www.pulse.ng/news/world/privacy-fears-weigh-on-facebook-with-earnings-ahead-id8299874.html
+w10,18-04-24, GB, Verdict, https://www.verdict.co.uk/facebook-rule-book-bans-certain-content/
+w11,18-04-24, PH, Manila Bulletin, https://news.mb.com.ph/2018/04/24/academic-says-ex-cambridge-analytica-ceo-lied/
+w12,18-04-21, GB, University World News, http://www.universityworldnews.com/article.php?story=20180421044000654
+w13,18-04-21, IN, Times of India, https://timesofindia.indiatimes.com/city/hyderabad/ap-government-uploads-vital-poll-info-online-experts-warn-of-privacy-violation/articleshow/63856207.cms
+w14,18-04-21, IN, BloombergQuint, https://www.bloombergquint.com/business/2018/04/20/facebook-set-lobbying-record-ahead-of-cambridge-analytica-furor
+w15,18-04-19, CA, Toronto Star, https://www.thestar.com/opinion/contributors/2018/04/19/loreena-mckennitt-why-im-leaving-facebook.html
+w16,18-04-19, CA, iPolitics.ca, https://ipolitics.ca/2018/04/19/at-committee-today-facebook-execs-face-mps-over-cambridge-analytica-data-leak/
+w17,18-04-19, ZA, The South African, https://www.thesouthafrican.com/barack-obama-ai-video/
+w18,18-04-17, IE, Siliconrepublic.com, https://www.siliconrepublic.com/enterprise/oireachtas-facebook-cambridge-analytica-privacy
+w19,18-03-17, US, The Guardian, https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm
+w20,18-03-17, IN, BloombergQuint, https://www.bloombergquint.com/uselections/2018/03/17/facebook-suspends-trump-election-data-firm-for-policy-violations
+w21,18-03-17, MY, The Sun Daily, http://www.thesundaily.my/news/2018/03/17/facebook-suspends-trump-campaign-data-firm-cambridge-analytica
+w22,18-03-17, US, The Guardian, https://www.theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump
+w23,18-03-19, GH, Pulse.com.gh, http://www.pulse.com.gh/bi/tech/facebook-stock-is-down-4-after-an-enormous-data-breach-fb-id8135597.html
+w24,18-03-19, ZA, Independent Online, https://www.iol.co.za/news/world/norwegian-government-faces-no-confidence-vote-after-ministers-fb-post-13913814
+w25,18-03-19, US, NDTV, https://www.ndtv.com/world-news/meet-the-psychologist-at-the-center-of-facebooks-data-scandal-1826035
+w26,18-03-20, NZ, The National Business Review, https://www.nbr.co.nz/article/tech-stocks-rebound-amazon-poised-overtake-alphabet-google-ng-213965
+w27,18-03-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12017287
+w28,18-03-20, IE, JOE, https://www.joe.ie/tech/cambridge-analytica-suspended-619973
+w29,18-03-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12016925
+w30,18-03-20, IN, THE WEEK, https://www.theweek.in/news/world/2018/03/20/zuckerberg-saved-tens-of-millions-of-dollars-on-facebook-worst-day.html
+w31,18-03-20, IN, Mumbai Mirror, https://mumbaimirror.indiatimes.com/deepdive-how-facebook-helped-weaponise-your-data/articleshow/63389300.cms
+w32,18-03-20, NZ, Scoop.co.nz (press release), http://www.scoop.co.nz/stories/HL1803/S00103/your-vote-caught-in-the-web.htm
+w33,18-03-20, NZ, Otago Daily Times, https://www.odt.co.nz/news/world/claim-uk-firm-played-key-role-trump-campaign
+w34,18-03-20, AU, The Sydney Morning Herald, https://www.smh.com.au/world/europe/cambridge-analytica-ceo-suspended-after-boasts-of-putting-trump-in-white-house-20180321-p4z5dg.html
+w35,18-03-20, IE, BreakingNews.ie, https://www.breakingnews.ie/business/stock-mostly-higher-but-facebook-sinks-again-833486.html
+w36,18-03-20, GB, The Register, https://www.theregister.co.uk/2018/03/20/mozilla_firefox_test_of_privacy_mechanism_prompts_privacy_worries/
+w37,18-03-20, GB, The Sun, https://www.thesun.co.uk/news/5860250/facebook-whistleblower-millions-users-data-harvest/
+w38,18-03-20, GB, Evening Standard, https://www.standard.co.uk/news/uk/delete-facebook-scores-of-people-vow-to-shut-down-their-accounts-after-cambridge-analytica-data-leak-a3794256.html
+w39,18-03-20, US, TechCrunch, https://techcrunch.com/2018/03/20/facebook-washington-westminster/
+w40,18-03-21, SG, Janta Ka Reporter, http://www.jantakareporter.com/india/bjp-not-congress-lot-answer-cambridge-analytica-scandal/177657/
+w41,18-03-21, PK, RS-Tech, https://www.researchsnipers.com/how-a-facebook-quiz-helped-trump-in-winning-us-elections-2016/
+w42,18-03-21, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/cofounder-company-facebook-bought-19-billion-just-told-followers-delete-facebook
+w43,18-03-21, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/wall-st-starts-trim-facebook-targets-shares-fall
+w44,18-03-21, SG, Yahoo Singapore News, https://sg.news.yahoo.com/eu-rules-data-breaches-very-expensive-firms-012001399.html
+w45,18-03-21, IN, Business Today, https://www.businesstoday.in/current/economy-politics/cambridge-analytica-facebook-data-breach-ravi-shankar-prasad-indian-national-congress-bharatiya-janata-party/story/273080.html
+w46,18-03-21, IN, Times of India, https://timesofindia.indiatimes.com/india/cambridge-analyticas-indian-partners-site-suspended/articleshow/63404677.cms
+w47,18-03-21, IN, The New Indian Express, http://www.newindianexpress.com/world/2018/mar/21/facebook-knew-of-loopholes-in-2011-austrian-privacy-campaigner-1790592.html
+w48,18-03-21, IN, Business Standard, http://www.business-standard.com/article/pti-stories/prasad-warns-fb-of-stringent-action-if-it-sways-electoral-process-118032100638_1.html
+w49,18-03-21, IN, News18, https://www.news18.com/news/business/news-live-congress-bjp-level-charges-at-each-other-over-cambridge-analytica-links-1695371.html
+w50,18-03-21, IN, BloombergQuint, https://www.bloombergquint.com/opinion/2018/03/21/facebook-s-public-relations-crisis-is-a-mess-of-its-own-making
+w51,18-03-21, IN, Moneycontrol.com, https://www.moneycontrol.com/news/business/what-changed-for-the-market-while-you-were-sleeping-15-things-you-should-know-35-2533625.html
+w52,18-03-21, AU, ABC Online, http://www.abc.net.au/news/2018-03-22/facebook-cambridge-analytica-digital-surveillance-data-privacy/9575160
+w53,18-03-21, IE, The Irish Sun, https://www.thesun.ie/news/2338709/facebook-to-be-called-to-appear-before-the-dail-as-data-harvesting-scandal-grows-and-users-vow-to-boycott-social-network/
+w54,18-03-21, IE, Entertainment.ie, http://entertainment.ie/trending/news/The-co-founder-of-Whatsapp-is-urging-people-to-delete-Facebook/403385.htm
+w55,18-03-21, CA, Globalnews.ca, https://globalnews.ca/news/4097287/cambridge-analytica-christopher-wylie-justin-trudeau/
+w56,18-03-21, CA, iPolitics.ca, https://ipolitics.ca/2018/03/21/cambridge-analytica-shows-the-perils-of-voter-analytics-industry/
+w57,18-03-21, GB, Yahoo Finance UK, https://uk.finance.yahoo.com/news/zuckerberg-haven-apos-t-seen-033000568.html
+w58,18-03-21, US, Ars Technica, https://arstechnica.com/tech-policy/2018/03/zuckerberg-cambridge-analytica-leak-a-breach-of-trust-with-users/
+w59,18-03-21, US, The Guardian, https://www.theguardian.com/uk-news/2018/mar/21/mod-cambridge-analytica-parent-company-scl-group-list-x
+w60,18-03-22, ZA, Memeburn, https://memeburn.com/2018/03/cambridge-analytica-facebook-news/
+w61,18-03-22, NG, BellaNaija, https://www.bellanaija.com/2018/03/deletefacebook-controversy-facebook-says-cracking-platform-abuse/
+w62,18-03-22, IN, Times of India, https://timesofindia.indiatimes.com/city/kolkata/users-in-kolkata-wary-of-social-media-data-theft/articleshow/63423177.cms
+w63,18-03-22, PK, DAWN.com, https://www.dawn.com/news/1397037/mueller-to-examine-ties-between-data-firm-and-trump-team
+w64,18-03-22, MY, Malay Mail, http://www.themalaymailonline.com/opinion/boo-su-lyn/article/is-facebook-to-blame-for-data-mining
+w65,18-03-22, IN, The New Indian Express, http://www.newindianexpress.com/world/2018/mar/22/facebook-scandal-could-push-other-tech-companies-to-tighten-data-sharing-1790854.html
+w66,18-03-22, AU, ABC Online, http://www.abc.net.au/news/2018-03-22/new-sa-forecasting-system-could-predict-civil-unrest/9576746
+w67,18-03-22, CA, CBC.ca, http://www.cbc.ca/news/politics/trudeau-facebook-new-brunswick-1.4588396
+w68,18-03-22, GB, ITV News, http://www.itv.com/news/2018-03-22/facebook-users-left-reviewing-relationship-with-social-media-giant-in-wake-of-cambridge-analytica-scandal/
+w69,18-03-23, PK, The Express Tribune, https://tribune.com.pk/story/1667447/8-facebook-dropped-australian-ethical-etf/
+w70,18-03-23, AU, The Sydney Morning Herald, https://www.smh.com.au/technology/pr-skills-of-kim-jong-un-time-for-tech-giants-to-dump-their-egos-20180324-p4z60s.html
+w71,18-03-23, GB, Daily Mail, http://www.dailymail.co.uk/wires/pa/article-5538859/Data-watchdog-search-Cambridge-Analytica-office-continues-overnight.html
+w72,18-03-23, IE, BreakingNews.ie, https://www.breakingnews.ie/world/judge-grants-search-warrant-for-cambridge-analytica-offices-834056.html
+w73,18-03-23, AU, The Australian Financial Review, http://www.afr.com/news/politics/national/get-prepared-major-parties-eye-off-social-media-for-next-federal-election-20180322-h0xtsb
+w74,18-03-23, US, The Guardian, https://www.theguardian.com/technology/2018/mar/23/facebook-digital-politics-tories-labour-online-advertising-marketing
+w75,18-03-24, IN, India Today, https://www.indiatoday.in/technology/news/story/elon-musk-deletes-facebook-pages-of-tesla-and-spacex-with-a-little-help-from-twitter-1196961-2018-03-24
+w76,18-03-24, IN, India Today, https://www.indiatoday.in/india/story/rahul-gandhi-takes-aim-at-law-minister-pm-modi-over-pendency-of-cases-1197366-2018-03-25
+w77,18-03-24, SG, Catch News, http://www.catchnews.com/international-news/elon-musk-deletes-facebook-page-of-space-x-and-tesla-after-accepting-deletefacebook-challenge-104523.html
+w78,18-03-24, NZ, Stuff.co.nz, https://www.stuff.co.nz/technology/102572193/steve-bannon-distances-himself-from-cambridge-analytica-data-mining
+w79,18-03-24, IN, The New Indian Express, http://www.newindianexpress.com/nation/2018/mar/24/rahul-gandhi-targets-law-minister-ravi-shankar-prasad-over-pendency-of-cases-in-courts-1791965.html
+w80,18-03-24, IN, Livemint, https://www.livemint.com/Politics/QOEIp72IngtkLPGN5vpXHL/Rahul-Gandhi-targets-Ravi-Shankar-Prasad-for-pendency-of-cas.html
+w81,18-03-24, IN, Scroll.in, https://scroll.in/article/873171/narendra-modi-app-shares-private-data-of-users-with-american-firm-without-consent-says-cyber-expert
+w82,18-03-24, GB, Channel 4 News, https://www.channel4.com/news/brexit-campaign-was-totally-illegal-claims-whistleblower
+w83,18-03-24, GB, HeraldScotland, http://www.heraldscotland.com/news/homenews/16114614.A_Brief_Encounter_with_Emily_Thornberry_Labour_front_bencher_promises_to_be_one_tough___39_Cookie__39__if_she_makes_it_to_the_Foreign_office/
+w84,18-03-24, US, UPI.com, https://www.upi.com/Class-action-filed-against-Facebook-Cambridge-Analytica-on-behalf-of-50-million-users/1471521927863/
+w85,18-03-25, MY, Lowyat.NET (blog), https://www.lowyat.net/2018/158514/apple-ceo-tim-cook-calls-for-more-regulation-on-personal-data-collection/
+w86,18-03-25, SG, The Straits Times, http://www.straitstimes.com/world/europe/former-cambridge-analytica-employees-say-firm-sent-dozens-of-foreigners-to-advise-us
+w87,18-03-25, IN, Morung Express, http://morungexpress.com/rahul-accuses-modi-of-giving-namo-app-user-data-to-us-firms/
+w88,18-03-25, US, NDTV, https://www.ndtv.com/india-news/facebook-records-data-of-all-your-calls-and-text-messages-makes-it-difficult-for-users-to-delete-acc-1828574
+w89,18-03-25, CA, National Post, http://nationalpost.com/pmn/news-pmn/the-latest-facebook-questioned-about-scraping-phone-data
+w90,18-03-25, CA, iPolitics.ca, https://ipolitics.ca/2018/03/25/what-were-watching-gun-laws-data-leaks-and-pot-legalization-plans/
+w91,18-03-25, CA, CanIndia News, https://www.canindia.com/rahul-accuses-modi-of-giving-namo-app-user-data-to-us-firms/
+w92,18-03-25, GB, Telegraph.co.uk, https://www.telegraph.co.uk/technology/2018/03/26/facebook-questioned-pulling-android-call-text-data/
+w93,18-03-25, GB, Metro Newspaper UK, https://www.metro.news/data-firms-parent-boasted-of-manipulating-elections/991612/
+w94,18-03-26, ZA, Fin24, https://www.fin24.com/Companies/ICT/facebook-denies-reports-it-secretly-logs-your-call-data-20180326
+w95,18-03-26, IN, BloombergQuint, https://www.bloombergquint.com/opinion/2018/03/26/users-built-facebook-s-empire-and-they-can-crumble-it
+w96,18-03-26, IN, Livemint, https://www.livemint.com/Politics/8U78kIKkTzj1v5UTqUrfjK/Facebook-faces-probe-by-US-trade-commission.html
+w97,18-03-26, AU, Livewire Markets, https://www.livewiremarkets.com/wires/is-facebook-still-a-buy
+w98,18-03-26, CA, CBC.ca, http://www.cbc.ca/news/business/facebook-privacy-investigation-1.4593195
+w99,18-03-26, GB, Telegraph.co.uk, https://www.telegraph.co.uk/news/2018/03/26/cambridge-analytica-accused-breaking-us-election-law/
+w100,18-03-27, NG, Wetinhappen Magazine (blog), https://www.wetinhappen.com.ng/british-parliament-demand-zuckerberg-testify-on-data-row-reject-deputy/
+w101,18-03-27, PK, The Express Tribune, https://tribune.com.pk/story/1670453/8-zuckerberg-will-not-answer-uk-lawmakers-questions-data-scandal/
+w102,18-03-27, AU, PC Authority, https://www.pcauthority.com.au/news/nearly-13-of-tech-workers-will-delete-facebook-accounts-amid-scandal-study-487886
+w103,18-03-27, US, The American Prospect, http://prospect.org/article/facebook-big-brother
+w104,18-03-27, CA, Toronto Star, https://www.thestar.com/opinion/star-columnists/2018/03/27/relax-mark-zuckerberg-we-millennials-wont-be-deletingfacebook-anytime-soon.html
+w105,18-03-28, IN, Livemint, https://www.livemint.com/Opinion/fjb0WuvkldAVcLnLkR05oK/Lessons-to-be-learnt-from-the-Facebook-data-compromise.html
+w106,18-03-28, US, 6abc.com, http://6abc.com/facebook-announces-overhaul-of-security-and-privacy-settings/3273850/
+w107,18-03-28, US, New York Times, https://www.nytimes.com/2018/03/28/technology/facebook-privacy-security-settings.html
+w108,18-03-28, CA, TheTyee.ca, https://thetyee.ca/News/2018/03/28/Facebook-Data-Mining-Dirty-Tricks/
+w109,18-03-28, IE, Capital.com, https://capital.com/5-warning-signs-of-a-corporate-share-price-collapse
+w110,18-03-29, IN, Economic Times, https://economictimes.indiatimes.com/news/politics-and-nation/why-relying-on-big-data-analytics-for-strategies-is-a-risky-move-for-political-parties/articleshow/63537291.cms
+w111,18-03-29, PK, The Express Tribune, https://tribune.com.pk/story/1672436/9-cambridge-analytica-worked-extensively-india-claims-christopher-wylie/
+w112,18-03-29, BD, ... (satire) (press release) (blog), http://www.unb.com.bd/tech-news/India-sends-notice-to-Facebook-over-alleged-data-breach/66793
+w113,18-03-29, IN, Financial Express, http://www.financialexpress.com/industry/technology/facebook-begins-fact-checking-photos-and-videos-to-reduce-fake-news-soon/1115656/
+w114,18-03-29, IN, Livemint, https://www.livemint.com/Opinion/hyS6H9b3K0MIyEcvtSJmgP/Friedrich-Hayek-in-the-age-of-Cambridge-Analytica.html
+w115,18-03-30, CA, CanIndia News, http://www.canindia.com/facebook-users-data-still-out-in-the-wild-report/
+w116,18-04-01, NZ, Interest.co.nz, https://www.interest.co.nz/personal-finance/92878/aussie-consumer-groups-cite-facebook-cambridge-analytica-type-data-dangers
+w117,18-04-01, IN, Business Insider India, https://www.businessinsider.in/No-one-thinks-this-is-the-end-of-Facebook-yet-investors-sense-blood-in-the-water/articleshow/63565807.cms
+w118,18-04-01, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/make-social-media-players-root-out-fake-accounts-rather-fake-news
+w119,18-03-31, US, Chicago Daily Herald, http://www.dailyherald.com/business/20180331/facebook-longtime-friend-of-data-brokers-becomes-their-stiffest-competition
+w120,18-04-02, NG, TODAY.NG, https://www.today.ng/technology/social/102317/facebook-force-advertisers-prove-user-consent-targeting-email
+w121,18-04-04, ZA, The Media Online, http://themediaonline.co.za/2018/04/why-facebook-is-the-reason-fake-news-is-here-to-stay/
+w122,18-04-04, NG, Nigerian Entertainment Today, http://thenet.ng/zuckerberg-says-will-take-longer-expected-solve-facebook-privacy-problems/
+w123,18-04-04, IN, VCCircle, http://techcircle.vccircle.com/2018/04/05/this-startup-is-trying-to-thwart-trackers-on-your-data-trail
+w124,18-04-04, IN, Scroll.in, https://scroll.in/latest/874480/the-big-news-nda-mps-will-forego-salary-for-disrupted-budget-session-and-nine-other-top-stories
+w125,18-04-04, MY, The Malaysian Reserve, https://themalaysianreserve.com/2018/04/04/indonesia-threatens-to-ban-facebook-over-fake-news-privacy/
+w126,18-04-04, IE, The Parliament Magazine, https://www.theparliamentmagazine.eu/articles/news/cambridge-analyticafacebook-scandal-%E2%80%98-stab-heart-democracy%E2%80%99-warn-meps
+w127,18-04-04, AU, NEWS.com.au, http://www.news.com.au/technology/online/social/facebook-ceo-mark-zuckerberg-to-testify-before-congress/news-story/32fec65dda9bf6c858aadc95fa61f0f2
+w128,18-04-04, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12026454
+w129,18-04-05, KE, Kenya Broadcasting Corporation, http://www.kbc.co.ke/facebook-scandal-hit-87-million-users/
+w130,18-04-05, GB, The Times, https://www.thetimes.co.uk/article/facebook-urged-to-tell-users-of-breach-gvnq6fmmg
+w131,18-04-06, IE, AdWorld, http://www.adworld.ie/2018/04/06/research-shows-insights-facebooks-irish-users-online-concerns/
+w132,18-04-06, GB, Evening Standard, https://www.standard.co.uk/news/uk/facebook-to-verify-identity-of-people-running-popular-pages-amid-fake-news-crack-down-a3808051.html
+w133,18-04-08, CA, Times Colonist, http://www.timescolonist.com/opinion/columnists/monique-keiran-social-media-debate-is-shifting-1.23259543
+w134,18-04-09, IN, India Today, https://www.indiatoday.in/technology/news/story/ahead-of-senate-hearing-mark-zuckerberg-is-getting-training-from-former-bush-aide-1207925-2018-04-09
+w135,18-04-08, US, Toledo Blade, http://www.toledoblade.com/Paddy-O-Gara/2018/04/09/Facebook-The-art-of-sharing.html
+w136,18-04-09, CA, CBC.ca, http://www.cbc.ca/news/canada/toronto/former-privacy-commissioner-ontario-facebook-scandal-ann-cavoukian-1.4611147
+w137,18-04-09, CA, BNN, https://www.bnn.ca/bnn-s-daily-chase-trans-mountain-expansion-on-ice-trade-worries-ease-1.1050868
+w138,18-04-09, GB, Evening Standard, https://www.standard.co.uk/business/james-ashton-facebook-scandal-hasn-t-reduced-techies-to-the-level-of-bankers-yet-a3809516.html
+w139,18-04-09, AU, NEWS.com.au, http://www.news.com.au/technology/online/social/facebook-users-await-notification-of-data-breach-before-mark-zuckerberg-faces-grilling/news-story/9fcb92e298c4ebdab3fadfbac7944226
+w140,18-04-17, GB, Isle of Wight County Press, http://www.iwcp.co.uk/news/national/16164453.Facebook_facial_recognition_technology_facing_lawsuit_in_US/
+w141,18-04-17, AU, The Australian Financial Review, http://www.afr.com/markets/equity-markets/doing-good-and-making-money-an-investment-challenge-20180417-h0ywm4
+w142,18-04-17, SG, The Straits Times, http://www.straitstimes.com/asia/se-asia/indonesian-mps-grill-facebook-officials-on-data-breaches
+w143,18-04-17, PH, State of Reform, https://stateofreform.com/5-things/2018/04/5-things-california-melanie-fontes-rainer-networking-reception-thosewecarry/
+w144,18-04-17, ZA, Moneyweb.co.za, https://www.moneyweb.co.za/news-fast-news/blackrocks-biggest-stock-picking-fund-likes-facebook-shares-2/
+w145,18-04-16, CA, Toronto Star, https://www.thestar.com/news/canada/2018/04/16/facebook-canada-offers-closed-door-briefings-to-mps-ahead-of-meeting.html
+w146,18-04-15, AU, The Sydney Morning Herald, https://www.smh.com.au/technology/would-you-pay-for-an-ad-free-facebook-20180416-p4z9td.html
+w147,18-04-14, PK, The Express Tribune, https://tribune.com.pk/story/1685290/6-apprehension-amidst-zuckerberg-testimony/
+w148,18-04-12, AU, The Australian Financial Review, http://www.afr.com/business/legal/its-a-good-time-to-be-a-data-lawyer-20180411-h0ymgw
+w149,18-04-12, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/tencents-us50-billion-plunge-isnt-enough-scare-analysts
+w150,18-04-11, US, Gizmodo, https://gizmodo.com/how-to-watch-day-2-of-mark-zuckerbergs-capitol-hill-apo-1825168054
+w151,18-04-11, CA, Macleans.ca, http://www.macleans.ca/politics/washington/mark-zuckerbergs-insane-to-do-list-for-facebook-after-facing-congress/
+w152,18-04-11, CA, Macleans.ca, http://www.macleans.ca/politics/washington/mark-zuckerbergs-second-day-of-testimony-at-congress-live-video/
+w153,18-04-11, GB, London South East (blog), http://www.lse.co.uk/FinanceNews.asp?code=5jds307c&headline=LIVE_MARKETSBeware_leveraged_finance_as_credit_cycle_peaks
+w154,18-04-11, AU, The Australian Financial Review, http://www.afr.com/technology/social-media/google/facebook-is-in-the-privacy-spotlight-but-should-google-be-next-20180412-h0ynog
+w155,18-04-11, PK, Samaa Web Desk, https://www.samaa.tv/pakistan/2018/04/facebook-ceo-vows-to-take-measures-to-protect-integrity-of-elections-in-pakistan/
+w156,18-04-11, SG, Yahoo News, https://sg.news.yahoo.com/diamond-silk-pro-trump-sisters-center-facebook-controversy-230104809.html
+w157,18-04-11, KE, ZIPO.CO.KE, http://zipo.co.ke/32520/miguna-now-turns-his-focus-on-mutahi-ngunyi/
+w158,18-04-10, US, TIME, http://time.com/5235461/mark-zuckerberg-facebook-ted-cruz/
+w159,18-04-10, CA, Toronto Star, https://www.thestar.com/news/gta/2018/04/10/canadian-facebook-user-feels-manipulated-amid-cambridge-analytica-scandal.html
+w160,18-04-10, GB, Jamestown Sun, http://www.jamestownsun.com/news/government-and-politics/4429994-klobuchar-questions-facebooks-zuckerberg-capitol-hill
+w161,18-04-10, IN, The Asian Age, http://www.asianage.com/technology/in-other-news/110418/facebook-launches-bounty-program-for-reports-of-data-misuse-by-app-developers.html
+w162,18-05-02, US, The Guardian, https://www.theguardian.com/technology/2018/may/02/eu-tech-firms-privacy-emails-gdpr-data-protection-supervisor
+w163,18-05-02, IE, JOE, https://www.joe.ie/tech/company-centre-facebook-data-scandal-shut-624725
+w164,18-05-02, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/cambridge-analytica-shuts-operations-after-facebook-scandal
+w165,18-05-02, HK, Hong Kong Standard (press release), http://www.thestandard.com.hk/section-news.php?id=195322&sid=11
+w166,18-05-02, NG, Daily Post Nigeria, http://dailypost.ng/2018/05/02/facebook-mark-zuckerberg-reveals-plans-add-dating-service/
+w167,18-05-02, KE, Daily Nation, https://www.nation.co.ke/news/world/Cambridge-Analytica-announces--ceasing-all-operations-/1068-4541740-fatth/index.html
+w168,18-04-26, CA, iPolitics.ca, https://ipolitics.ca/2018/04/26/facebook-releases-first-quarter-earnings-as-data-scandal-unfolds/
+w169,18-04-26, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/technow/canadian-data-firm-spent-2m-dollars-on-facebook-adverts-about-brexit-839424.html
+w170,18-04-26, IE, Irish Tech News, https://irishtechnews.ie/facebook-ceo-to-appear-before-european-parliament/
+w171,18-04-24, CA, CBC.ca, http://www.cbc.ca/news/canada/edmonton/dna-testing-1.4632272
+w172,18-04-24, SG, YourStory.com, https://yourstory.com/2018/04/youtube-community-guidelines-enforcement-report/
+w173,18-04-24, GH, Myjoyonline.com, https://www.myjoyonline.com/technology/2018/April-25th/whatsapp-says-users-must-be-16-or-older-to-access-the-app-in-europe.php
+w174,18-04-23, IN, BloombergQuint, https://www.bloombergquint.com/technology/2018/04/23/after-cambridge-analytica-facebook-has-a-new-british-foe
+w175,18-04-20, SG, Wisden India, https://www.wisdenindia.com/print-run/fair-players/297249
+w176,18-04-18, US, New Republic, https://newrepublic.com/article/148025/crisis-pro-trump-journalism
+w177,18-04-18, IE, Screen International, https://www.screendaily.com/news/david-puttnam-data-misuse-by-digital-giants-threatens-democracy-itself/5128364.article
+w178,18-04-17, US, The Guardian, https://www.theguardian.com/technology/2018/apr/17/facebook-people-first-ever-mark-zuckerberg-harvard
+w179,18-04-17, AU, Yahoo7 News, https://au.news.yahoo.com/a/39925113/u-s-official-warns-of-unintended-consequences-of-european-data-privacy-law/
+w180,18-03-17, US, The Guardian, https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm
+w181,18-03-18, US, The Guardian, https://www.theguardian.com/news/2018/mar/18/facebook-cambridge-analytica-joseph-chancellor-gsr
+w182,18-03-19, NG, TODAY.NG, https://www.today.ng/technology/social/98100/european-union-alleged-facebook-data-breach
+w183,18-03-19, AU, The Queensland Times, https://www.qt.com.au/news/facebook-is-in-the-centre-of-yet-another-databreac/3365331/
+w184,18-03-20, ZA, eNCA, http://www.enca.com/technology/british-lawmakers-invite-facebook-s-zuckerberg-to-explain-data-policy
+w185,18-03-20, IE, Irish Times, https://www.irishtimes.com/news/ireland/irish-news/q-a-what-s-going-on-with-facebook-and-cambridge-analytica-1.3433914
+w186,18-03-20, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/world/concerned-by-cambridge-analytica-revelations-heres-how-to-change-your-facebook-settings-to-help-keep-your-data-more-private-833460.html
+w187,18-03-20, KE, PulseLive Kenya (satire), http://www.pulselive.co.ke/news/politics/nasa-speaks-after-cambridge-analytica-admits-working-for-uhuru-id8144304.html
+w188,18-03-20, AU, CNET, https://www.cnet.com/au/news/brave-publisher-donation-system-works-on-chrome-with-extension/
+w189,18-03-20, IE, TodayFM, https://www.todayfm.com/News/Cambridge-Analytica-Suspends-CEO-Alexander-Nix
+w190,18-03-20, IE, Evening Echo Cork, http://www.eveningecho.ie/nationalnews/We-must-guard-against-people-interfering-in-elections-says-Taoiseach-82a9f4d4-e778-4ba3-b486-1d3ecf978257-ds
+w191,18-03-20, IE, Irish Times, https://www.irishtimes.com/news/ireland/irish-news/q-a-what-s-going-on-with-facebook-and-cambridge-analytica-1.3433914
+w192,18-03-20, AU, Yahoo7 News, https://au.news.yahoo.com/a/39573847/malaysia-says-never-hired-british-data-firm-at-center-of-scrutiny/
+w193,18-03-20, GB, Metro Newspaper UK, https://www.metro.news/masters-of-the-digital-dark-arts/984230/
+w194,18-03-20, US, Washington Post, https://www.washingtonpost.com/news/global-opinions/wp/2018/03/20/were-you-a-victim-of-cambridge-analyticas-dirty-tricks-the-fact-you-dont-know-is-the-problem/
+w195,18-03-21, PH, CNN Philippines, http://cnnphilippines.com/business/2018/03/21/facebook-data-debacle-fyi.html
+w196,18-03-21, LK, Newsfirst, https://www.newsfirst.lk/2018/03/whatsapp-co-founder-says-it-is-time-to-delete-facebook/
+w197,18-03-21, IN, Business Standard, http://www.business-standard.com/article/opinion/ravi-shankar-prasad-warns-fb-of-strict-action-says-can-summon-zuckerberg-118032101422_1.html
+w198,18-03-21, IN, Moneycontrol.com, https://www.moneycontrol.com/news/business/what-changed-for-the-market-while-you-were-sleeping-15-things-you-should-know-35-2533625.html
+w199,18-03-21, AU, iTnews, https://www.itnews.com.au/news/zuckerberg-admits-mistakes-in-cambridge-analytica-scandal-487510
+w200,18-03-21, GB, The Sun, https://www.thesun.co.uk/tech/5863002/facebook-spying-apps-data/
+w201,18-03-21, IE, Irish Tech News, https://irishtechnews.ie/mark-zuckerberg-acknowledges-a-breach-of-trust-between-facebook-and-the-people-who-share-their-data-with-us/
+w202,18-03-22, AU, 9news.com.au, https://www.9news.com.au/world/2018/03/23/15/05/facebook-apology-does-little-to-satisfy
+w203,18-03-22, IE, IPE.com, https://www.ipe.com/news/esg/nordea-puts-temporary-block-on-facebook-shares/10023780.article
+w204,18-03-23, NG, Concise News, https://www.concisenews.global/tech/elon-musk-deletes-spacex-tesla-facebook-pages/
+w205,18-03-23, GH, Pulse.com.gh, http://www.pulse.com.gh/bi/politics/steve-bannon-blames-brits-educated-at-oxford-and-cambridge-for-the-facebook-data-scandal-id8156010.html
+w206,18-03-22, US, Newser, http://www.newser.com/story/256903/creator-of-world-wide-web-has-advice-for-zuckerberg.html
+w207,18-03-23, IN, The Quint, https://www.thequint.com/news/india/election-commission-meets-on-facebook-data-breach
+w208,18-03-23, IE, AdWorld, http://www.adworld.ie/2018/03/23/win-tickets-to-inm-events-dublin-data-sec-conference-2018/
+w209,18-03-23, AU, Shepparton News, http://www.sheppnews.com.au/2018/03/24/137241/facing-up-to-privacy-issues
+w210,18-03-24, LK, Hiru News, http://www.hirunews.lk/186805/india-queries-cambridge-analytica-over-alleged-facebook-data-breach
+w211,18-03-24, IN, The New Indian Express, http://www.newindianexpress.com/nation/2018/mar/24/rahul-gandhi-targets-law-minister-ravi-shankar-prasad-over-pendency-of-cases-in-courts-1791965.html
+w212,18-03-24, IN, Livemint, https://www.livemint.com/Politics/QOEIp72IngtkLPGN5vpXHL/Rahul-Gandhi-targets-Ravi-Shankar-Prasad-for-pendency-of-cas.html
+w213,18-03-24, IN, Times of India, https://timesofindia.indiatimes.com/india/rahul-gandhi-targets-govt-over-pendency-of-court-cases-law-minister-hits-back/articleshow/63444441.cms
+w214,18-03-24, GB, BBC News, http://www.bbc.co.uk/news/uk-politics-43527924
+w215,18-03-24, US, Beckley Register-Herald, http://www.register-herald.com/news/christian-martine-of-facebook-speaks-at-job-fair/article_66bee524-0243-54db-b016-973ac5cffb7b.html
+w216,18-03-25, IN, Times of India, https://timesofindia.indiatimes.com/india/rahul-targets-pm-modi-over-alleged-data-sharing-by-namo-app-bjp-hits-back/articleshow/63457910.cms
+w217,18-03-25, SG, The Business Times, https://www.businesstimes.com.sg/technology/facebooks-grip-on-political-ads-may-defy-stain-of-data-leak
+w218,18-03-25, SG, The Straits Times, http://www.straitstimes.com/opinion/st-editorial/facing-up-to-the-ills-of-social-media
+w219,18-03-25, CA, iPolitics.ca, https://ipolitics.ca/2018/03/25/the-grave-threat-of-deploying-big-data-to-subvert-democracy/
+w220,18-03-25, IE, thejournal.ie, http://www.thejournal.ie/facebook-uk-ads-3923514-Mar2018/
+w221,18-03-26, PK, RS-Tech, https://www.researchsnipers.com/pakistanis-personal-data-stolen-through-pm-laptop-scheme/
+w222,18-03-26, SG, YourStory.com, https://yourstory.com/2018/03/mark-zuckerberg-newspaper-apology/
+w223,18-03-26, NG, The Streetjournal, http://thestreetjournal.org/2018/03/jonathan-alleges-attempt-to-smear-his-name/
+w224,18-03-26, IN, BloombergQuint, https://www.bloombergquint.com/opinion/2018/03/26/users-built-facebook-s-empire-and-they-can-crumble-it
+w225,18-03-26, IN, Livemint, https://www.livemint.com/Politics/8U78kIKkTzj1v5UTqUrfjK/Facebook-faces-probe-by-US-trade-commission.html
+w226,18-03-26, IN, Business Standard, http://www.business-standard.com/article/international/facebook-scandal-cambridge-analytica-may-be-probed-for-breaking-poll-laws-118032700099_1.html
+w227,18-03-26, GB, Telegraph.co.uk, https://www.telegraph.co.uk/news/2018/03/26/cambridge-analytica-accused-breaking-us-election-law/
+w228,18-03-27, ZA, East Coast Radio, https://www.ecr.co.za/shows/east-coast-breakfast/deletefacebook-backlash-against-giant/
+w229,18-03-27, AU, The Sydney Morning Herald, https://www.smh.com.au/world/europe/brexiters-cheated-using-stolen-facebook-data-whistleblower-says-20180328-p4z6l8.html
+w230,18-03-27, AU, MuMbrella, https://mumbrella.com.au/facebooks-will-easton-apologises-australian-marketers-brands-507672
+w231,18-03-27, US, Chicago Tribune, http://www.chicagotribune.com/news/nationworld/ct-cambridge-analytica-facebook-testimony-20180327-story.html
+w232,18-03-27, US, The Times of Israel, https://www.timesofisrael.com/liveblog-march-27-2018/
+w233,18-03-28, IN, Economic Times, https://economictimes.indiatimes.com/tech/internet/steps-oultined-by-facebook-not-enough-to-protect-users-elliot-alderson/articleshow/63526641.cms
+w234,18-03-28, IN, Financial Express, http://www.financialexpress.com/india-news/jdu-rejects-allegations-of-using-caste-surveys-provided-by-cambridge-analytica/1114173/
+w235,18-03-28, IN, The Quint, https://www.thequint.com/news/politics/cambridge-analytica-whistleblower-christopher-wylie-reveals-past-india-projects
+w236,18-03-28, IN, The Asian Age, http://www.asianage.com/india/all-india/280318/did-ca-misuse-personal-data-of-indian-voters-govt-seeks-facebook-reply-by-apr-7.html
+w237,18-03-28, GB, The Register, https://www.theregister.co.uk/2018/03/29/facebook_to_extend_bug_bounty_to_cover_data_leakage_from_apps/
+w238,18-03-29, IN, The New Indian Express, http://www.newindianexpress.com/states/karnataka/2018/mar/30/all-parties-making-inroads-into-every-medium-possible-ahead-of-karnataka-polls-1794556.html
+w239,18-03-30, SG, The Business Times, https://www.businesstimes.com.sg/technology/facebook-employees-in-an-uproar-over-executives-leaked-memo
+w240,18-03-30, NG, Techpoint.ng, https://techpoint.ng/2018/03/30/falling-bitcoin-prices/
+w241,18-03-29, US, The Guardian (blog), https://www.theguardian.com/politics/blog/live/2018/mar/29/labour-nowhere-near-being-able-to-vote-for-brexit-withdrawal-deal-yet-says-mcdonnell-politics-live
+w242,18-03-30, GB, BBC News, http://www.bbc.co.uk/news/uk-politics-43487301
+w243,18-03-30, NZ, Newshub, http://www.newshub.co.nz/home/new-zealand/2018/03/the-kiwi-social-network-that-still-has-your-deleted-facebook-data.html
+w244,18-04-01, AU, NEWS.com.au, http://www.news.com.au/sport/commonwealth-games/commonwealth-games-swimmers-warned-about-using-social-media/news-story/2f7ec1bd8eb550ff076ebdee9dc54a00
+w245,18-03-31, IN, The Indian Express, http://indianexpress.com/article/technology/social/the-lives-of-others-5118013/
+w246,18-04-02, CA, Toronto Star, https://www.thestar.com/opinion/editorials/2018/04/02/privacy-laws-should-apply-to-political-parties.html
+w247,18-04-03, US, NBCNews.com, https://www.nbcnews.com/think/opinion/facebook-data-breach-scandal-our-own-making-legally-there-s-ncna862211
+w248,18-04-03, IE, Irish Tech News, https://irishtechnews.ie/lessons-from-the-cambridge-analytica-scandal-four-implications-for-business/
+w249,18-04-04, US, San Francisco Chronicle, https://www.sfchronicle.com/business/article/Facebook-s-Zuckerberg-gives-hint-of-what-he-12806395.php
+w250,18-04-04, CA, News1130, http://www.news1130.com/2018/04/04/facebook-info-improperly-accessed/
+w251,18-04-04, GB, ITV News, http://www.itv.com/news/2018-04-05/facebook-data-breach-87-million/
+w252,18-04-05, SG, Catch News, http://www.catchnews.com/world-news/cambridge-analytica-spain-initiates-probe-into-data-breach-case-106531.html
+w253,18-04-05, SG, Catch News, http://www.catchnews.com/international-news/2018-indian-elections-mark-zuckerberg-deploying-some-new-artificial-intelligence-ai-tools-106413.html
+w254,18-04-05, NG, Pulse Nigeria, http://www.pulse.ng/news/politics/if-you-worked-with-cambridge-analytica-in-nig-you-screwed-up-id8209557.html
+w255,18-04-05, GH, Myjoyonline.com, https://www.myjoyonline.com/world/2018/april-5th/nigerias-government-to-investigate-cambridge-analyticas-alleged-role-in-countrys-elections.php
+w256,18-04-05, IN, Times of India, https://timesofindia.indiatimes.com/world/us/facebook-vows-to-protect-poll-integrity-in-india-others/articleshow/63635386.cms
+w257,18-04-05, CA, Kamloops This Week, http://www.kamloopsthisweek.com/entertainment/radio-edit-ad-dollar-action-can-temper-the-giants-of-the-internet-1.23257410
+w258,18-04-06, NG, Nigerian Entertainment Today, http://thenet.ng/cambridge-analytica-scandal-facebook-launch-new-privacy-features-users-news-feed-monday/
+w259,18-04-06, GB, HeraldScotland, http://www.heraldscotland.com/opinion/16143781.Maurice_Smith__We_need_leaders_of_vision_in_this_new__post_truth_world/
+w260,18-04-06, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12027970
+w261,18-04-06, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12027745
+w262,18-04-06, IN, MediaNama.com, https://www.medianama.com/2018/04/223-top-10-stories-of-the-week-april-2nd-to-8th-april-2018/
+w263,18-04-06, US, The Guardian, https://www.theguardian.com/technology/2018/apr/06/facebook-using-secret-tool-to-delete-messages-from-executives
+w264,18-04-06, CA, iPolitics.ca, https://ipolitics.ca/article/what-europe-can-teach-canada-about-protecting-democracy/
+w265,18-04-07, NZ, Stuff.co.nz, https://www.stuff.co.nz/national/102907678/jonathan-milne-new-zealands-privacy-watchdog-is-barking-at-shadows
+w266,18-04-07, IN, Oneindia, https://www.oneindia.com/international/facebook-to-tighten-screws-on-political-ads-ahead-of-palistan-national-election-2018-2673401.html
+w267,18-04-08, IN, BloombergQuint, https://www.bloombergquint.com/technology/2018/04/08/facebook-suspends-data-firm-cubeyou-in-wake-of-privacy-scandal
+w268,18-04-09, IN, Financial Express, http://www.financialexpress.com/industry/mark-zuckerberg-faces-us-senate-hearing-facebook-ceo-to-defend-against-calls-to-regulate-it-companies/1127618/
+w269,18-04-08, CA, The London Free Press, http://lfpress.com/pmn/news-pmn/facebook-to-notify-on-cambridge-analytica-data-misuse-monday/wcm/7453965f-8844-408f-bbaf-0ca0f1b9d2bc
+w270,18-04-09, CA, Toronto Star, https://www.thestar.com/business/tech_news/2018/04/09/mark-zuckerberg-faces-calls-to-step-down-as-chair-of-facebooks-board-of-directors.html
+w271,18-04-17, CA, iPolitics.ca, https://ipolitics.ca/2018/04/17/evening-brief-you-cant-win-them-all-over/
+w272,18-04-17, GB, Spectator.co.uk (blog), https://blogs.spectator.co.uk/2018/04/the-brexit-bounce-making-a-mockery-of-george-osbornes-project-fear/
+w273,18-04-17, GB, BBC News, http://www.bbc.co.uk/news/uk-politics-43793546
+w274,18-04-17, AU, The Australian Financial Review, http://www.afr.com/markets/equity-markets/doing-good-and-making-money-an-investment-challenge-20180417-h0ywm4
+w275,18-04-17, KE, The Standard, https://www.standardmedia.co.ke/article/2001277178/facebook-confirms-it-collects-data-beyond-users
+w276,18-04-16, CA, Squamish Chief, http://www.squamishchief.com/ap-fact-check-trump-twists-comey-role-in-clinton-disclosure-1.23268629
+w277,18-04-16, GB, Alphr, http://www.alphr.com/life-culture/1009075/wetherspoon-killing-facebook-twitter-instagram
+w278,18-04-15, AU, AdNews, http://www.adnews.com.au/youtube-never-to-be-100-brand-safe
+w279,18-04-15, IN, Livemint, https://www.livemint.com/Industry/0QwknPnWW614ncGj3FiddN/Facebook-doesnt-use-WhatsApp-payments-data-for-commercial-p.html
+w280,18-04-12, IN, Moneycontrol.com, https://www.moneycontrol.com/news/technology/shadow-profiles-facebooks-data-mine-of-information-that-none-of-us-handed-over-to-it-2547851.html
+w281,18-04-12, IN, MediaNama.com, https://www.medianama.com/2018/04/223-zuckerberg-congress-hearing-day-2/
+w282,18-04-12, SG, YourStory.com, https://yourstory.com/2018/04/critical-questions-rbi-must-answer-delves-data-sovereignty/
+w283,18-04-11, CA, Macleans.ca, http://www.macleans.ca/politics/washington/mark-zuckerbergs-second-day-of-testimony-at-congress-live-video/
+w284,18-04-11, GB, BBC News, http://www.bbc.co.uk/news/technology-43725643
+w285,18-04-11, GB, Isle of Wight County Press, http://www.iwcp.co.uk/news/national/16152905.Banks_and_healthcare_firms_lead_drops_on_US_market/
+w286,18-04-11, IE, RTE.ie, https://www.rte.ie/news/newslens/2018/0411/953635-key-quotes-zuckerberg/
+w287,18-04-11, AU, NEWS.com.au, http://www.news.com.au/technology/online/social/a-day-in-the-life-of-your-stolen-data/news-story/546598afd93dd9a19dd22d79904eb5f0
+w288,18-04-11, IN, BloombergQuint, https://www.bloombergquint.com/technology/2018/04/11/facebook-ceo-mark-zuckerbergs-testimony-to-us-congress-day-2
+w289,18-04-11, MY, The Sun Daily, http://www.thesundaily.my/news/2018/04/11/eus-tough-new-data-protection-rules
+w290,18-04-10, CA, Toronto Star, https://www.thestar.com/news/world/2018/04/10/mark-zuckerberg-faces-questions-about-role-facebook-plays-in-spreading-hate-speech-in-burma.html
+w291,18-04-10, GB, The Register, https://www.theregister.co.uk/2018/04/10/facebook_bladeroom_settlement/
+w292,18-04-10, AU, ABC Online, http://www.abc.net.au/news/2018-04-11/facebook-boss-mark-zuckerberg-fronts-united-states-congress/9639764
+w293,18-04-10, NZ, The National Business Review, https://www.nbr.co.nz/article/asias-davos-chinas-xi-blasts-cold-war-mentality-us-ns-214561
+w294,18-04-10, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12030092
+w295,18-04-10, IN, The Indian Express, http://indianexpress.com/article/technology/social/steve-wozniack-deletes-facebook-account-says-hed-rather-pay-than-be-used-for-advertising-5131585/
+w296,18-04-10, IN, India Today, https://www.indiatoday.in/pti-feed/story/facebook-committed-to-ensure-integrity-of-elections-in-india-other-countries-zuckerberg-1209494-2018-04-11
+w297,18-05-02, US, New York Times, https://www.nytimes.com/2018/05/02/us/politics/cambridge-analytica-shut-down.html
+w298,18-05-02, GB, Isle of Wight County Press, http://www.iwcp.co.uk/news/national/16200661.Data_scandal_firm_Cambridge_Analytica_closes_down/
+w299,18-05-02, IE, Siliconrepublic.com, https://www.siliconrepublic.com/companies/f8-facebook-dating-privacy-ai
+w300,18-05-02, SG, Yahoo Singapore News, https://sg.news.yahoo.com/cambridge-analytica-announces-ceasing-operations-191518577.html
+w301,18-05-02, HK, Hong Kong Standard (press release), http://www.thestandard.com.hk/section-news.php?id=195322&sid=11
+w302,18-05-02, GH, Myjoyonline.com, https://www.myjoyonline.com/world/2018/May-3rd/cambridge-analytica-is-shutting-down.php
+w303,18-05-02, GH, Primenewsghana, https://www.primenewsghana.com/tech/cambridge-analytica-facebook-data-harvest-firm-to-shut.html
+w304,18-04-30, NG, NEWSTAGE, https://newstage.com.ng/2018/05/01/whatsapp-ceo-jan-koum-to-leave-facebook-amid-privacy-flap/
+w305,18-04-29, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/twitter-sold-cambridge-analytica-researcher-public-data-access
+w306,18-04-28, IN, Livemint, https://www.livemint.com/Companies/WhWUZSXm5NApKnCrw5uVuI/Facebook-privacy-drive-may-crimp-some-political-campaigns.html
+w307,18-04-28, SG, The Sunday Guardian, https://www.sundayguardianlive.com/news/beware-data-thefts-dating-apps
+w308,18-04-27, CA, CTV News, https://www.ctvnews.ca/business/rolling-in-it-striking-facts-about-the-money-tech-companies-are-making-1.3904749
+w309,18-04-27, IN, The Indian Express, http://indianexpress.com/article/opinion/columns/facebook-cambridge-analytica-artificial-intelligence-tale-of-two-whistle-blowers-5154413/
+w310,18-04-24, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/cambridge-analytica-tale-disturbing-democratic-lawmaker-says
+w311,18-04-24, SG, Yahoo Singapore News, https://sg.news.yahoo.com/french-police-grill-tycoon-bollore-over-africa-graft-173655321--finance.html
+w312,18-04-23, GB, HeraldScotland, http://www.heraldscotland.com/opinion/16179177.Interests_of_the_British_people_must_take_precedence_over_those_of_backbenchers/
+w313,18-04-23, IE, World Intellectual Property Review, https://www.worldipreview.com/news/copyright-lawsuit-added-to-cambridge-analytica-s-list-of-problems-15822
+w314,18-04-22, GB, City A.M., http://www.cityam.com/284465/facebook-prepares-reveal-extent-cambridge-analytica-damage
+w315,18-04-20, CA, ...ctive Investors USA & Canada, http://www.proactiveinvestors.com/companies/news/195495/us-senator-pushes-for-stronger-ftc-oversight-of-facebook-195495.html
+w316,18-04-20, IE, BreakingNews.ie, https://www.breakingnews.ie/world/democrats-sue-trump-campaign-russia-and-wikileaks-over-election-conspiracy-838443.html
+w317,18-04-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12036984
+w318,18-04-20, MY, malaysiandigest.com, http://malaysiandigest.com/technology/734259-hamburg-data-protection-officer-opens-non-compliance-procedure-against-facebook.html
+w319,18-04-19, CA, CBC.ca, http://www.cbc.ca/news/politics/facebook-committee-parliament-wherry-1.4626570
+w320,18-04-19, IE, Irish Examiner, https://www.irishexaminer.com/ireland/irish-facebook-users-unlikely-to-be-hit-by-fresh-data-fears-469670.html
+w321,18-04-19, SG, www.MICEtimes.asia (press release), http://micetimes.asia/time-named-the-most-influential-people-in-the-world/
+w322,18-04-19, NG, Daily Trust, https://www.dailytrust.com.ng/lessons-from-facebook-cambridge-analytica.html
+w323,18-04-19, GH, Primenewsghana, https://www.primenewsghana.com/opinion/ellen-mimi-owusu-writes-calling-all-social-media-enthusiasts.html
+w324,18-04-18, IE, Interesting Engineering, https://interestingengineering.com/france-is-developing-an-encrypted-messenger-service-alternative-to-whatsapp
+w325,18-04-18, AU, NEWS.com.au, http://www.news.com.au/technology/online/social/its-zuckerbergs-world-and-were-all-just-a-bunch-of-dumb-fks-living-in-it/news-story/187cd069c1306b9025c5b54bedc04915
+w326,18-03-17, GB, Varsity Online, https://www.varsity.co.uk/news/15193
+w327,18-03-17, US, The Guardian, https://www.theguardian.com/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump
+w328,18-03-17, US, Digital Trends, https://www.digitaltrends.com/social-media/facebook-suspends-cambridge-analytica/
+w329,18-03-18, IN, Business Insider India, https://www.businessinsider.in/Christopher-Wylie-the-28-year-old-whistleblower-of-the-Trump-linked-data-firm-Cambridge-Analytica-says-his-Facebook-account-has-been-disabled/articleshow/63357938.cms
+w330,18-03-18, US, Daily Beast, https://www.thedailybeast.com/the-opening-argument-in-the-trial-of-donald-j-trump
+w331,18-03-19, IN, Business Insider India, https://www.businessinsider.in/Heres-the-personality-test-Cambridge-Analytica-had-millions-of-Facebook-users-take/articleshow/63373003.cms
+w332,18-03-19, GB, Daily Research News Online, http://www.mrweb.com/drno/news25917.htm
+w333,18-03-19, AU, The Queensland Times, https://www.qt.com.au/news/facebook-is-in-the-centre-of-yet-another-databreac/3365331/
+w334,18-03-19, CA, National Post, http://nationalpost.com/news/world/the-u-k-firm-that-took-fake-news-to-the-next-level-using-private-information-from-50m-facebook-profiles
+w335,18-03-19, CA, Philippine Canadian Inquirer, http://www.canadianinquirer.net/2018/03/19/canadian-at-centre-of-facebook-data-scandal-cut-political-teeth-with-liberals/
+w336,18-03-19, GB, The Register, https://www.theregister.co.uk/2018/03/19/carolina_cops_go_minority_report_with_google_location_subpoena/
+w337,18-03-19, GB, IG, https://www.ig.com/uk/indices-news/2018/03/19/trader-thoughts---the-long-and-short-of-it
+w338,18-03-19, US, VICE News, https://news.vice.com/en_us/article/bjp87a/cambridge-analytica-bragged-about-using-fake-news-bribes-and-ukranian-hookers-to-influence-elections
+w339,18-03-20, IN, BloombergQuint, https://www.bloombergquint.com/opinion/2018/03/20/facebook-has-endured-potholes-but-data-crisis-may-be-a-crater
+w340,18-03-20, NZ, Stuff.co.nz, https://www.stuff.co.nz/technology/social-networking/102451320/zuckerberg-summoned-by-politicians-as-data-firm-faces-searches
+w341,18-03-20, AU, SBS, https://www.sbs.com.au/news/us60b-wiped-off-value-of-facebook-shares
+w342,18-03-20, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/technow/mps-air-concerns-over-cambridge-analytica-disclosures-833381.html
+w343,18-03-20, SG, The Independent, http://www.theindependent.sg/facebooks-zuckerberg-called-to-explain-massive-data-breach/
+w344,18-03-20, ZA, eNCA, http://www.enca.com/technology/british-lawmakers-invite-facebook-s-zuckerberg-to-explain-data-policy
+w345,18-03-20, NG, Wetinhappen Magazine (blog), https://www.wetinhappen.com.ng/cambridge-analytica-suspends-ceo-amid-data-misuse-scandal/
+w346,18-03-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12017340
+w347,18-03-20, IN, Times of India, https://timesofindia.indiatimes.com/people/whatsapp-pay-risks-financial-data-of-indians-paytms-vijay-shekhar-sharma/articleshow/63391037.cms
+w348,18-03-20, NZ, Stuff.co.nz, https://www.stuff.co.nz/business/opinion-analysis/102454277/facebook-has-finally-been-hit-where-it-hurts-the-most
+w349,18-03-20, AU, The Sydney Morning Herald, https://www.smh.com.au/world/north-america/catastrophic-failure-of-process-mps-demand-answers-from-facebook-20180321-p4z5ed.html
+w350,18-03-20, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/world/concerned-by-cambridge-analytica-revelations-heres-how-to-change-your-facebook-settings-to-help-keep-your-data-more-private-833460.html
+w351,18-03-20, IE, Irish Times, https://www.irishtimes.com/news/ireland/irish-news/how-to-protect-your-facebook-privacy-or-delete-yourself-completely-1.3433708
+w352,18-03-20, CA, Toronto Star, https://www.thestar.com/business/2018/03/20/a-growing-list-of-reasons-to-unlike-facebook.html
+w353,18-03-20, GB, Metro Newspaper UK, https://www.metro.news/masters-of-the-digital-dark-arts/984230/
+w354,18-03-20, GB, London Loves Business, http://www.londonlovesbusiness.com/business-news/business/billions-wiped-off-of-facebooks-market-cap-over-data-mismanagement-issues/20532.article
+w355,18-03-20, IE, thejournal.ie, http://www.thejournal.ie/cambridge-analytica-alexander-nix-suspension-3915131-Mar2018/
+w356,18-03-20, US, MarketWatch, https://www.marketwatch.com/story/steve-bannon-oversaw-cambridge-analyticas-2014-mining-of-facebook-data-report-2018-03-20
+w357,18-03-20, US, San Francisco Chronicle, https://www.sfchronicle.com/politics/article/California-elected-officials-dismayed-at-use-of-12769078.php
+w358,18-03-21, ZA, Eyewitness News, http://ewn.co.za/2018/03/21/theresa-may-s-party-was-approached-by-cambridge-analytica
+w359,18-03-21, NG, Nigeria Today, http://www.nigeriatoday.ng/2018/03/zuckerberg-admits-mistakes-over-facebook-data-scandal-and-vows-fix/
+w360,18-03-21, SG, Yahoo Singapore News, https://sg.news.yahoo.com/apos-mukhriz-used-data-firm-004210917.html
+w361,18-03-21, SG, Yahoo Singapore News, https://sg.news.yahoo.com/uk-had-three-contracts-cambridge-analytica-parent-company-162104769--sector.html
+w362,18-03-21, IN, Financial Express, http://www.financialexpress.com/india-news/what-cambridge-analytica-does-for-rahul-gandhi-bjp-asks-as-facebook-data-scam-hits-indian-politics/1106263/
+w363,18-03-21, LK, Daily Mirror, http://www.dailymirror.lk/article/Zuckerberg-admits-mistakes-amid-Trump-tied-data-scandal-147644.html
+w364,18-03-21, IN, Telegraph India, https://www.telegraphindia.com/india/bjp-wags-finger-at-fb-cong-217563
+w365,18-03-21, GB, The Times, https://www.thetimes.co.uk/article/advertisers-threaten-to-pull-out-of-facebook-over-cambridge-analytica-lkjp9t0fl
+w366,18-03-21, GB, Yahoo Finance UK, https://uk.finance.yahoo.com/news/mark-zuckerberg-says-apos-open-015032020.html
+w367,18-03-21, GB, Daily Mail, http://www.dailymail.co.uk/sciencetech/article-5528067/Facebook-shock-users-THOUSANDS-snooping-apps.html
+w368,18-03-21, CA, Toronto Star, https://www.thestar.com/news/canada/2018/03/21/liberals-paid-100000-in-2016-to-cambridge-analytica-whistleblower.html
+w369,18-03-22, NG, BellaNaija, https://www.bellanaija.com/2018/03/deletefacebook-controversy-facebook-says-cracking-platform-abuse/
+w370,18-03-22, GH, Graphic Online, https://www.graphic.com.gh/international/international-news/zuckerberg-says-he-is-happy-to-testify-before-congress.html
+w371,18-03-22, SG, Marketing Interactive, http://www.marketing-interactive.com/singapore-government-casts-doubts-over-social-media-firms-in-fighting-fake-news/
+w372,18-03-22, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/petronas-denies-association-cambridge-analytica-scl
+w373,18-03-22, IN, BloombergQuint, https://www.bloombergquint.com/business/2018/03/22/facebook-enhancing-security-features-ahead-of-2019-india-elections
+w374,18-03-22, CA, CTV News, https://www.ctvnews.ca/sci-tech/behind-facebook-s-baby-step-fixes-defending-its-ad-business-1.3854909
+w375,18-03-22, CA, iPolitics.ca, https://ipolitics.ca/2018/03/22/federal-privacy-law-needs-to-be-tightened-commissioner-says/
+w376,18-03-23, ZA, Techfinancials.co.za (blog), https://techfinancials.co.za/2018/03/23/is-it-time-to-give-up-on-facebook-dont-quit-but-dont-trust-it-either/
+w377,18-03-23, AU, The Sydney Morning Herald, https://www.smh.com.au/technology/pr-skills-of-kim-jong-un-time-for-tech-giants-to-dump-their-egos-20180324-p4z60s.html
+w378,18-03-23, AU, The Australian Financial Review, http://www.afr.com/business/worlds-500-wealthiest-people-down-436-billion-since-january-20180323-h0xwkw
+w379,18-03-23, AU, The Sydney Morning Herald, https://www.smh.com.au/technology/pr-skills-of-kim-jong-un-time-for-tech-giants-to-dump-their-egos-20180324-p4z60s.html
+w380,18-03-23, US, The Guardian, https://www.theguardian.com/technology/2018/mar/23/facebook-digital-politics-tories-labour-online-advertising-marketing
+w381,18-03-23, CA, CBC.ca, http://www.cbc.ca/news/opinion/cambridge-analytica-opinion-1.4588857
+w382,18-03-24, ZA, MyBroadband, https://mybroadband.co.za/news/security/253473-tim-cook-calls-for-stronger-privacy-regulations-after-facebook-leak.html
+w383,18-03-24, IN, India Today, https://www.indiatoday.in/pti-feed/story/rahul-targets-prasad-for-pendency-of-cases-1197043-2018-03-24
+w384,18-03-24, IN, Scroll.in, https://scroll.in/article/873171/narendra-modi-app-shares-private-data-of-users-with-american-firm-without-consent-says-cyber-expert
+w385,18-03-24, IN, Times of India, https://timesofindia.indiatimes.com/india/rahul-gandhi-targets-govt-over-pendency-of-court-cases-law-minister-hits-back/articleshow/63444441.cms
+w386,18-03-24, GB, HeraldScotland, http://www.heraldscotland.com/news/homenews/16114616.The_days_of_the_digital___39_Wild_West__39__are_numbered_____regulation_is_on_its_way/
+w387,18-03-25, NG, Nigeria Today, http://www.nigeriatoday.ng/2018/03/foreign-media-ruthless-bid-to-sway-the-vote-in-nigeria/
+w388,18-03-25, IN, Telegraph India, https://www.telegraphindia.com/states/bihar/data-in-time-of-smartphones-stupid-people-218394
+w389,18-03-25, NZ, Otago Daily Times, https://www.odt.co.nz/opinion/editorial/are-we-just-too-hooked-facebook
+w390,18-03-25, IN, Morung Express, http://morungexpress.com/rahul-accuses-modi-of-giving-namo-app-user-data-to-us-firms/
+w391,18-03-25, IN, Times of India, https://timesofindia.indiatimes.com/companies/fcaebook-brass-moves-fast-to-reassure-advertisers/articleshow/63460922.cms
+w392,18-03-25, US, The Spokesman-Review, http://www.spokesman.com/stories/2018/mar/25/kathleen-parker-the-dukes-out-of-hazard/
+w393,18-03-25, US, Ars Technica, https://arstechnica.com/tech-policy/2018/03/cook-county-illinois-sues-facebook-and-cambridge-analytica-over-data-breach/
+w394,18-03-25, CA, CTV News, https://www.ctvnews.ca/canada/canadian-firm-under-scrutiny-after-brexit-volunteer-says-spending-rules-were-breached-1.3858173
+w395,18-03-26, PK, DAWN.com, https://www.dawn.com/news/1397820/facebook-accused-of-saving-data-of-android-users
+w396,18-03-26, SG, The News Minute, https://www.thenewsminute.com/article/congress-sharing-users-data-singapore-based-firm-alleges-bjp-78501
+w397,18-03-26, IN, BloombergQuint, https://www.bloombergquint.com/business/2018/03/26/regulators-are-asleep-at-the-wheel-on-self-driving-cars
+w398,18-03-26, IN, Livemint, https://www.livemint.com/Opinion/RaK8I7CB3JOv5yy34K5MEM/Protect-your-data-then-hope-for-a-tech-revolution.html
+w399,18-03-26, NZ, The Spinoff, https://thespinoff.co.nz/media/27-03-2018/we-downloaded-our-facebook-data-and-all-we-got-was-this-lousy-list-of-random-stuff/
+w400,18-03-26, GB, The New European, http://www.theneweuropean.co.uk/top-stories/paul-connew-potus-donald-trump-white-house-1-5446700
+w401,18-03-26, US, Engadget, https://www.engadget.com/2018/03/26/watchdog-says-cambridge-analytica-violated-us-election-law/
+w402,18-03-27, NG, TODAY.NG, https://www.today.ng/technology/social/100419/facebook-shares-decline-regulator-announces-privacy-probe
+w403,18-03-27, NG, THISDAY Newspapers, https://www.thisdaylive.com/index.php/2018/03/27/cambridge-analytica-whistle-blower-names-israeli-spy-firm-that-hacked-buhari/
+w404,18-03-27, IN, Livemint, https://www.livemint.com/Opinion/PxuSxzy9yYvR7NCtDQjMMO/The-hidden-pitfalls-of-digital-regulation.html
+w405,18-03-27, ZA, East Coast Radio, https://www.ecr.co.za/shows/east-coast-breakfast/deletefacebook-backlash-against-giant/
+w406,18-03-27, IN, Economic Times, https://economictimes.indiatimes.com/magazines/panache/chris-wylie-had-no-direct-knowledge-of-the-companys-work-or-practices-since-2014-cambridge-analytica/articleshow/63499405.cms
+w407,18-03-27, GB, Design Week, https://www.designweek.co.uk/issues/26-march-1-april-2018/hope-nope-design-museum-power-graphic-design-politics-protest/
+w408,18-03-27, GB, The National, http://www.thenational.scot/news/16120125.Cambridge_Analytica_s_shock_indyref_link/
+w409,18-03-27, AU, Business Insider Australia, https://www.businessinsider.com.au/twitter-stock-price-sinks-citron-research-says-most-vulnerable-to-regulation-2018-3
+w410,18-03-28, NG, Guardian (blog), https://guardian.ng/features/did-facebook-and-cambridge-analytica-attack-nigeria/
+w411,18-03-28, JM, Loop Jamaica, http://www.loopjamaica.com/content/hunt-cambridge-analytica-evidence-govt-announces-audits-0
+w412,18-03-27, US, Chicago Tribune, http://www.chicagotribune.com/news/nationworld/ct-cambridge-analytica-facebook-testimony-20180327-story.html
+w413,18-03-28, IN, Livemint, https://www.livemint.com/Politics/CHlxMZEbw24tzCoirSGdGJ/Cambrige-Analytica-whistleblower-Christopher-Wylie-tweets-de.html
+w414,18-03-28, IN, Livemint, https://www.livemint.com/Opinion/fjb0WuvkldAVcLnLkR05oK/Lessons-to-be-learnt-from-the-Facebook-data-compromise.html
+w415,18-03-28, SG, Marketing Interactive, http://www.marketing-interactive.com/facebook-cleans-up-privacy-measures-in-new-update/
+w416,18-03-28, PH, CNN Philippines, http://cnnphilippines.com/business/2018/03/28/facebook-privacy-settings.html
+w417,18-03-28, ZA, East Coast Radio, https://www.ecr.co.za/shows/damon-beard/facebook-data-breach-has-it-affected-your-usage/
+w418,18-03-28, AU, Business Insider Australia, https://www.businessinsider.com.au/facebook-advertising-market-share-chart-2018-3
+w419,18-03-28, IN, The New Indian Express, http://www.newindianexpress.com/nation/2018/mar/28/jdu-rejects-allegations-of-using-caste-surveys-provided-by-cambridge-analytica-1793847.html
+w420,18-03-28, GB, ...ty of Manchester (press release), http://www.manchester.ac.uk/discover/news/mark-zuckerberg-too-much-power-facebook/
+w421,18-03-28, IE, anna.aero, http://www.anna.aero/2018/03/28/vote-best-cake-week-s18-part/
+w422,18-03-29, SG, The Straits Times, http://www.straitstimes.com/opinion/the-flawed-magic-sauce-behind-facebooks-personality-profiling
+w423,18-03-29, AU, CNET, https://www.cnet.com/au/news/facebook-exec-describes-fallout-of-growth-in-leaked-memo/
+w424,18-03-29, AU, The Sydney Morning Herald, https://www.smh.com.au/world/north-america/tech-frankensteins-need-reining-in-20180329-p4z6x8.html
+w425,18-03-29, IN, DailyO, https://www.dailyo.in/politics/facebook-cambridge-analytica-fake-news-lok-sabha-polls-narendra-modi-rahul-gandhi/story/1/23172.html
+w426,18-03-29, IN, The Quint, https://www.thequint.com/entertainment/movie-reviews/ready-player-one-review
+w427,18-03-30, ZA, Techfinancials.co.za (blog), https://techfinancials.co.za/2018/03/30/how-cambridge-analyticas-facebook-targeting-model-really-worked/
+w428,18-03-30, KE, Lankaweb, http://www.lankaweb.com/news/items/2018/03/30/how-shady-was-cambridge-analytica/
+w429,18-03-31, IN, THE WEEK, https://www.theweek.in/theweek/cover/2018/03/31/facebook-cambridge-analytica-scandal.html
+w430,18-03-30, GB, Worcester News, http://www.worcesternews.co.uk/news/16128105.LETTER_OF_THE_DAY__Sorry_Boris__it__39_s_definitely_a_snub/
+w431,18-03-30, GB, Daily Mail, http://www.dailymail.co.uk/sciencetech/article-5561901/Thousands-Facebook-employees-react-anger-company-traitors-leaked-memo.html
+w432,18-04-01, NG, Nigeria Today, http://www.nigeriatoday.ng/2018/04/cambridge-analytica-apc-is-chasing-shadows-pdp/
+w433,18-03-31, US, Aljazeera.com, https://www.aljazeera.com/programmes/countingthecost/2018/03/china-petro-yuan-dollar-hegemony-180331091248813.html
+w434,18-03-31, CA, Winnipeg Free Press, https://www.winnipegfreepress.com/opinion/editorials/putting-human-face-to-elusive-issue-478448523.html
+w435,18-04-02, MY, Malay Mail, http://www.themalaymailonline.com/malaysia/article/pointing-to-south-china-morning-posts-lies-salleh-touts-importance-of-anti
+w436,18-04-02, SG, The Straits Times, http://www.straitstimes.com/world/europe/eu-plans-crackdown-on-fake-news-in-social-media-report
+w437,18-04-03, SG, YourStory.com, https://yourstory.com/2018/04/deletefacebook-fury-no-action-reveal-usage-stats/
+w438,18-04-04, SG, The Straits Times, http://www.straitstimes.com/tech/games-apps/facebook-scans-what-you-send-other-people-on-messenger-app
+w439,18-04-04, IE, RTE.ie, https://www.rte.ie/eile/brainstorm/2018/0330/951174-an-irish-cambridge-analytica-not-if-we-get-our-ethics-in-order/
+w440,18-04-04, IE, RTE.ie, https://www.rte.ie/news/ireland/2018/0405/952258-facebook/
+w441,18-04-04, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12026454
+w442,18-04-05, KE, Kenya Broadcasting Corporation, http://www.kbc.co.ke/facebook-scandal-hit-87-million-users/
+w443,18-04-04, US, The Guardian, https://www.theguardian.com/us-news/2018/apr/04/mark-zuckerberg-facebook-testify-data-cambridge-analytica-house
+w444,18-04-05, NG, Pulse Nigeria, http://www.pulse.ng/news/politics/if-you-worked-with-cambridge-analytica-in-nig-you-screwed-up-id8209557.html
+w445,18-04-06, IN, Economic Times, https://economictimes.indiatimes.com/tech/internet/is-our-data-safe-there-clients-ask-app-makers/articleshow/63651167.cms
+w446,18-04-06, PK, The Express Tribune, https://tribune.com.pk/story/1679626/3-2-7-million-europeans-affected-facebook-data-scandal-eu/
+w447,18-04-07, SG, The News Minute, https://www.thenewsminute.com/article/facebook-make-unsend-feature-available-all-soon-report-79192
+w448,18-04-07, GB, HeraldScotland, http://www.heraldscotland.com/news/homenews/16144600.SNP_MP_to_quiz_Cambridge_Analytica_chief_Alexander_Nix_over_Scottish_independence_referendum/
+w449,18-04-07, IN, Oneindia, https://www.oneindia.com/international/facebook-to-tighten-screws-on-political-ads-ahead-of-palistan-national-election-2018-2673401.html
+w450,18-04-08, AU, Pursuit, https://pursuit.unimelb.edu.au/articles/who-should-own-research-data
+w451,18-04-08, NZ, Newstalk ZB, http://www.newstalkzb.co.nz/news/national/facebook-thousands-of-nzers-have-had-data-accessed/
+w452,18-04-09, IN, Atlantic Council (blog), http://www.atlanticcouncil.org/blogs/new-atlanticist/five-questions-for-facebook-s-mark-zuckerberg
+w453,18-04-09, PK, RS-NEWS, https://www.researchsnipers.com/boycott-facebook-instagram-messenger-and-whatsapp-for-24-hours-on-april-11th/
+w454,18-04-09, US, Dallas Observer, http://www.dallasobserver.com/news/texas-biggest-unnecessary-screw-ups-10555720
+w455,18-04-09, US, New York Times, https://www.nytimes.com/2018/04/09/technology/mark-zuckerberg-facebook.html
+w456,18-04-09, CA, Toronto Star, https://www.thestar.com/business/tech_news/2018/04/09/mark-zuckerberg-faces-calls-to-step-down-as-chair-of-facebooks-board-of-directors.html
+w457,18-04-09, CA, Tolerance.ca, https://www.tolerance.ca/ArticleExt.aspx?ID=389295&L=en
+w458,18-04-17, IN, Business Insider India, https://www.businessinsider.in/Second-Cambridge-Analytica-whistleblower-says-sex-compass-app-gathered-more-Facebook-data-beyond-the-87-million-we-already-knew-about/articleshow/63800741.cms
+w459,18-04-17, PH, Philippine Star, https://www.philstar.com/world/2018/04/18/1807075/cambridge-analytica-ex-ceo-refuses-testify-uk
+w460,18-04-16, NZ, Stuff.co.nz, https://www.stuff.co.nz/business/opinion-analysis/103148979/facebook-an-example-of-accidental-world-domination
+w461,18-04-16, SG, AsiaOne, http://www.asiaone.com/digital/facebook-confirms-we-collect-peoples-data-beyond-social-network-use
+w462,18-04-15, CA, Globalnews.ca, https://globalnews.ca/news/4145731/the-west-block-episode-32-season-7/
+w463,18-04-15, IN, Livemint, https://www.livemint.com/Industry/0QwknPnWW614ncGj3FiddN/Facebook-doesnt-use-WhatsApp-payments-data-for-commercial-p.html
+w464,18-04-13, GB, BBC News, http://www.bbc.co.uk/news/technology-43747421
+w465,18-04-13, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/zuckerberg-survived-two-days-grilling-congress-facebooks-troubles-are-not-over-yet
+w466,18-04-13, SG, The Straits Times, http://www.straitstimes.com/singapore/whats-news-april-14-2018
+w467,18-04-13, NG, Techpoint.ng, https://techpoint.ng/2018/04/13/global-linkup-hard-times-for-crypto/
+w468,18-04-13, NG, SundiataPost (press release) (blog), https://sundiatapost.com/2018/04/13/philippines-privacy-commission-investigates-facebook-data-breach/
+w469,18-04-12, US, Marketplace.org, https://www.marketplace.org/2018/04/11/tech/data-economy-policies-or-lack-thereof
+w470,18-04-12, US, Business Insider, http://www.businessinsider.com/delete-facebook-statistics-nearly-10-percent-americans-deleted-facebook-account-study-2018-4
+w471,18-04-12, SG, Yahoo Singapore News, https://sg.news.yahoo.com/eu-privacy-watchdogs-look-harvesting-data-social-media-091807339--finance.html
+w472,18-04-12, PH, CNN Philippines, http://cnnphilippines.com/news/2018/04/13/Duterte-2016-election-Cambridge-Analytica.html
+w473,18-04-11, US, BullionVault, https://www.bullionvault.com/gold-news/fb-big-tech-041120181
+w474,18-04-11, IN, India Today, https://www.indiatoday.in/india/story/mark-zuckerberg-sorry-for-breach-says-facebook-will-protect-integrity-of-india-s-elections-1209480-2018-04-11
+w475,18-04-11, IN, Business Insider India, https://www.businessinsider.in/Mark-Zuckerberg-finished-his-second-day-of-marathon-grilling-over-user-data-and-Facebook-bias-heres-what-you-need-to-know/articleshow/63722032.cms
+w476,18-04-11, GH, Pulse.com.gh, http://www.pulse.com.gh/bi/tech/mark-zuckerberg-says-that-even-he-had-his-personal-facebook-data-scraped-by-cambridge-analytica-id8239837.html
+w477,18-04-10, US, WIRED, https://www.wired.com/story/cambridge-analytica-private-facebook-messages/
+w478,18-04-10, US, 9to5Mac, https://9to5mac.com/2018/04/10/zuckerberg-testimony-roundup/
+w479,18-04-10, CA, Toronto Star, https://www.thestar.com/business/2018/04/10/mark-zuckerbergs-testimony-shows-facebook-is-a-monster-too-big-to-control.html
+w480,18-04-10, GB, TechRadar, https://www.techradar.com/news/facebook-will-pay-you-a-cash-bounty-to-hunt-down-the-next-cambridge-analytica
+w481,18-04-10, AU, Gizmodo Australia, https://www.gizmodo.com.au/2018/04/how-to-avoid-being-tracked-online/
+w482,18-05-02, IE, JOE, https://www.joe.ie/tech/company-centre-facebook-data-scandal-shut-624725
+w483,18-05-02, AU, International Business Times AU, http://www.ibtimes.com.au/cambridge-analytica-declares-bankruptcy-wake-facebook-trump-scandal-1567887
+w484,18-04-28, AU, Business Insider Australia, https://www.businessinsider.com.au/facebook-f8-what-to-expect-2018-4
+w485,18-04-27, US, PYMNTS.com, https://www.pymnts.com/sizzlefizzle/2018/sizzle-fizzle-facebook-amazon-netflix-google/
+w486,18-04-25, CA, CBC.ca, http://www.cbc.ca/news/politics/brexit-aiq-information-commissioner-1.4635846
+w487,18-04-25, PK, The Express Tribune, https://tribune.com.pk/story/1694980/8-whatsapp-raises-minimum-age-europe-16/
+w488,18-04-25, PK, Samaa Web Desk, https://www.samaa.tv/technology/2018/04/privacy-fears-weigh-on-facebook-with-earnings-ahead/
+w489,18-04-25, ZA, Bizcommunity.com, http://www.bizcommunity.com/Article/196/669/176396.html
+w490,18-04-24, SG, Business Insider, http://www.businessinsider.sg/facebook-gave-aleksandr-kogan-data-prior-to-cambridge-analytica-breach-2018-4/
+w491,18-04-23, GB, HeraldScotland, http://www.heraldscotland.com/opinion/16179177.Interests_of_the_British_people_must_take_precedence_over_those_of_backbenchers/
+w492,18-04-22, CA, iPolitics.ca, https://ipolitics.ca/2018/04/22/what-were-watching-pm-back-in-the-house-and-national-security-bill-back-to-committee-drafting-table/
+w493,18-04-22, IN, Scroll.in, https://scroll.in/article/876427/they-have-your-psychographic-profile-from-social-media-how-will-they-use-it-these-books-explain
+w494,18-04-20, IN, ...Chronicle (press release) (blog), http://www.mydigitalfc.com/fc-weekend/spy%E2%80%99s-eye-information-success
+w495,18-04-20, KE, KDRTV Kenya News, https://www.kdrtv.com/uhuru-denies-links-cambridge-analytica/
+w496,18-04-17, IN, Economic Times, https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/data-storage-norm-splits-digital-payments-industry/articleshow/63808280.cms
+w497,18-03-17, MY, The Sun Daily, http://www.thesundaily.my/news/2018/03/17/facebook-suspends-trump-campaign-data-firm-cambridge-analytica
+w498,18-03-17, US, NBCNews.com, https://www.nbcnews.com/news/us-news/cambridge-analytica-harvested-data-millions-unsuspecting-facebook-users-n857591
+w499,18-03-18, NZ, TVNZ, https://www.tvnz.co.nz/one-news/world/facebook-under-fire-over-reports-improper-data-harvesting-users
+w500,18-03-18, IE, Irish Times, https://www.irishtimes.com/news/ireland/irish-news/facebook-privacy-flaw-was-flagged-with-irish-regulator-in-2011-1.3432013
+w501,18-03-18, US, The Guardian, https://www.theguardian.com/news/2018/mar/18/facebook-cambridge-analytica-joseph-chancellor-gsr
+w502,18-03-19, IN, Business Standard, http://www.business-standard.com/article/news-ians/facebook-suffers-drop-of-stocks-amid-alleged-data-leak-crisis-118032000144_1.html
+w503,18-03-19, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/facebook-suspends-trump-election-data-firm-policy-breach
+w504,18-03-19, AU, The Queensland Times, https://www.qt.com.au/news/facebook-is-in-the-centre-of-yet-another-databreac/3365331/
+w505,18-03-19, GB, IG, https://www.ig.com/uk/indices-news/2018/03/19/trader-thoughts---the-long-and-short-of-it
+w506,18-03-19, US, The INQUIRER, https://www.theinquirer.net/inquirer/news/3028688/facebook-suspends-cambridge-analytica-for-illegally-harvesting-data-of-50-million-users
+w507,18-03-20, SG, The Straits Times, http://www.straitstimes.com/world/europe/britain-seeks-warrant-to-enter-cambridge-analytica-hq
+w508,18-03-20, BD, ... (satire) (press release) (blog), http://www.unb.com.bd/world-news/UK-seeking-warrant-to-access-Cambridge-Analytica-servers/65999
+w509,18-03-20, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/cambridge-analyticas-board-suspends-ceo-nix-amid-inquiry
+w510,18-03-20, AU, The Sydney Morning Herald, https://www.smh.com.au/world/europe/cambridge-analytica-ceo-suspended-after-boasts-of-putting-trump-in-white-house-20180321-p4z5dg.html
+w511,18-03-20, SG, The Independent, http://www.theindependent.sg/facebooks-zuckerberg-called-to-explain-massive-data-breach/
+w512,18-03-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12016925
+w513,18-03-20, CA, Toronto Star, https://www.thestar.com/news/canada/2018/03/20/facebook-investigating-whether-canadians-caught-up-in-data-harvesting-scheme.html
+w514,18-03-20, GB, Kashmir Reader, https://kashmirreader.com/2018/03/21/facebook-outraged-by-misuse-of-data-by-cambridge-analytica/
+w515,18-03-20, US, MarketWatch, https://www.marketwatch.com/story/steve-bannon-oversaw-cambridge-analyticas-2014-mining-of-facebook-data-report-2018-03-20
+w516,18-03-21, SG, The Straits Times, http://www.straitstimes.com/world/united-states/timeline-of-facebook-cambridge-analytica-scandal
+w517,18-03-21, MY, Malaysiakini, https://www.malaysiakini.com/news/416605
+w518,18-03-21, MY, Malaysiakini, https://www.malaysiakini.com/news/416668
+w519,18-03-21, IN, APN Live, http://www.apnlive.com/politics/cambridge-analyticas-india-connection-minister-prasad-accuses-congress-links-firm-39931
+w520,18-03-21, IN, Business Standard, http://www.business-standard.com/article/news-ians/india-warns-facebook-zuckerberg-of-action-over-data-breach-118032100845_1.html
+w521,18-03-21, IN, The New Indian Express, http://www.newindianexpress.com/world/2018/mar/21/facebook-knew-of-loopholes-in-2011-austrian-privacy-campaigner-1790592.html
+w522,18-03-21, NZ, Newstalk ZB, http://www.newstalkzb.co.nz/on-air/larry-williams-drive/audio/troy-hunt-cambridge-analytica-scandal-not-the-end-of-facebook/
+w523,18-03-21, IN, News18, https://www.news18.com/news/politics/facebook-data-mining-scandal-rahul-gandhi-says-govt-invented-story-to-take-attention-off-indians-deaths-in-iraq-1696475.html
+w524,18-03-21, IN, Livemint, http://www.livemint.com/Technology/ywgmAAZSkA8uhmFsoJUGGN/Change-settings-on-your-social-media-accounts-to-delink-thir.html
+w525,18-03-21, AU, Coolum News, https://www.coolum-news.com.au/news/wheres-zuckerberg-facebook-founder-goes-to-ground-/3367595/
+w526,18-03-21, AU, The Australian Financial Review, http://www.afr.com/news/greens-call-for-accc-inquiry-action-over-facebook-breach-20180321-h0xrne
+w527,18-03-21, GB, Verdict, https://www.verdict.co.uk/cambridge-analytica-update-ceo-boasts-involvement-trump-campaign-facebook-stays-quiet/
+w528,18-03-21, IE, Mobile World Live, https://www.mobileworldlive.com/featured-content/home-banner/facebook-chief-zuckerberg-decries-data-breach/
+w529,18-03-21, CA, Macleans.ca, http://www.macleans.ca/opinion/when-it-comes-to-our-data-privacy-we-dont-really-have-a-choice/
+w530,18-03-21, GB, Telegraph.co.uk, https://www.telegraph.co.uk/technology/2018/03/21/mps-ramp-pressure-facebook-whistle-blower-gives-evidence/
+w531,18-03-21, US, Axios, https://www.axios.com/mark-zuckerberg-cambridge-analytica-facebook-1521660072-1c8a6a80-9802-44f4-943b-939e5e077420.html
+w532,18-03-21, US, CBS News, https://www.cbsnews.com/news/mark-zuckerberg-facebook-interview-cambridge-analytica-data-scandal-fallout-today-live-stream/
+w533,18-03-22, NG, Concise News, https://www.concisenews.global/tech/zuckerberg-concedes-to-regulation-of-facebook/
+w534,18-03-22, SG, Yahoo Singapore News, https://sg.news.yahoo.com/u-senate-subcommittee-seeks-information-facebook-data-175429338--finance.html
+w535,18-03-22, SG, The Straits Times, http://www.straitstimes.com/politics/doubts-whether-social-media-firms-can-help-to-fight-fake-news
+w536,18-03-22, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/petronas-denies-association-cambridge-analytica-scl
+w537,18-03-22, IN, Moneycontrol.com, https://www.moneycontrol.com/news/business/markets/dow-drops-more-than-700-points-on-trade-fears-posts-worst-day-since-feb-8-2534433.html
+w538,18-03-22, IN, News18, https://www.news18.com/news/tech/facebook-data-row-after-political-storm-ovleno-director-removes-reference-of-managing-elections-for-bjp-1697309.html
+w539,18-03-22, IE, Evening Echo Cork, http://www.eveningecho.ie/nationalnews/Calls-for-regulation-around-use-of-digital-data-ahead-of-8th-campaign-a663e334-9f4b-49a4-8119-5f003299f060-ds
+w540,18-03-22, CA, CTV News, https://www.ctvnews.ca/sci-tech/behind-facebook-s-baby-step-fixes-defending-its-ad-business-1.3854909
+w541,18-03-23, IN, Business Standard, http://www.business-standard.com/article/politics/cambridge-analytica-behind-rahul-gandhi-s-gabbar-singh-tax-says-bjp-s-ravi-shankar-prasad-congress-hits-back-top-10-developments-118032300170_1.html
+w542,18-03-23, SG, YourStory.com, https://yourstory.com/2018/03/mycrop-data-harvesting-social-media-profiles-harvesting-natures-bounty/
+w543,18-03-23, ZA, Independent Online, https://www.iol.co.za/news/opinion/take-cambridge-analyticas-role-in-africa-with-a-pinch-of-salt-14015971
+w544,18-03-23, GB, HeraldScotland, http://www.heraldscotland.com/news/homenews/16113792.New_rules_will_protect_against_the_abuse_of_personal_data__EU_says/
+w545,18-03-24, ZA, Independent Online, https://www.iol.co.za/ios/news/facebook-users-warned-about-toxic-sa-polls-in-2019-14027854
+w546,18-03-24, GB, HeraldScotland, http://www.heraldscotland.com/news/homenews/16114553.The_fast_and_furious__How_to_slow_down_in_a_helter_skelter_world/
+w547,18-03-24, IE, Irish Tech News, https://irishtechnews.ie/how-silly-personality-quizzes-helped-get-trump-elected/
+w548,18-03-25, SG, Yahoo Singapore News, https://sg.news.yahoo.com/wall-streets-beloved-fang-stock-quartet-may-breaking-160838148--sector.html
+w549,18-03-25, NG, Pulse Nigeria, http://www.pulse.ng/news/politics/cambridge-analytica-linked-firm-rigged-nigerias-2007-polls-id8164654.html
+w550,18-03-25, IN, Times of India, https://timesofindia.indiatimes.com/city/kozhikode/experts-fear-privacy-breach-citizen-profiling/articleshow/63456628.cms
+w551,18-03-25, SG, The Business Times, https://www.businesstimes.com.sg/technology/facebooks-grip-on-political-ads-may-defy-stain-of-data-leak
+w552,18-03-25, IN, Economic Times, https://economictimes.indiatimes.com/industry/services/advertising/indian-advertisers-grill-facebook-over-data-breach/articleshow/63459018.cms
+w553,18-03-25, CA, iPolitics.ca, https://ipolitics.ca/2018/03/25/the-grave-threat-of-deploying-big-data-to-subvert-democracy/
+w554,18-03-25, IE, The Irish Sun, https://www.thesun.ie/news/2354869/oliver-callan-taoiseach-leo-varadkar-has-some-nerve-targeting-russia-while-ignoring-facebook/
+w555,18-03-25, IE, thejournal.ie, http://www.thejournal.ie/facebook-uk-ads-3923514-Mar2018/
+w556,18-03-26, SG, YourStory.com, https://yourstory.com/2018/03/wasting-time-ivrs-scienaptic-solutions-make-banking-simpler/
+w557,18-03-26, ZA, TechCentral, https://techcentral.co.za/facebook-denies-logging-users-call-data/80396/
+w558,18-03-26, IN, The Indian Express, http://indianexpress.com/article/explained/facebook-data-cambridge-analytica-voters-elections-5112559/
+w559,18-03-26, IN, India Today, https://www.indiatoday.in/pti-feed/story/fec-urged-to-investigate-cambridge-analytica-for-election-law-breach-1198568-2018-03-27
+w560,18-03-26, GB, BT.com, http://home.bt.com/news/uk-news/whistleblowers-information-gives-grounds-of-suspicion-vote-leave-broke-law-11364260592376
+w561,18-03-27, IN, Livemint, https://www.livemint.com/Industry/AcQFIWVQFJ1eeSDXjjZ5pJ/Facebook-data-breach-Cyber-agency-cautions-internet-users-a.html
+w562,18-03-27, SG, The Straits Times, http://www.straitstimes.com/world/europe/different-brexit-vote-likely-if-no-cheating-says-whistle-blower
+w563,18-03-27, GB, The National, http://www.thenational.scot/news/16120125.Cambridge_Analytica_s_shock_indyref_link/
+w564,18-03-27, AU, Business Insider Australia, https://www.businessinsider.com.au/stock-market-news-today-march-27-2018-2018-3
+w565,18-03-27, AU, SBS, https://www.sbs.com.au/news/very-disturbed-will-ferrell-quits-facebook
+w566,18-03-28, JM, Loop Jamaica, http://www.loopjamaica.com/content/hunt-cambridge-analytica-evidence-govt-announces-audits-0
+w567,18-03-27, CA, VICE, https://www.vice.com/en_ca/article/qvxbgq/its-time-for-mark-zuckerberg-to-give-up-control-of-facebook
+w568,18-03-28, IN, Economic Times, https://economictimes.indiatimes.com/tech/internet/steps-oultined-by-facebook-not-enough-to-protect-users-elliot-alderson/articleshow/63526641.cms
+w569,18-03-28, ZA, eNCA, https://www.enca.com/technology/new-zealand-privacy-commissioner-joins-criticism-of-facebook-data-handling
+w570,18-03-28, AU, The Sydney Morning Herald, https://www.smh.com.au/world/europe/cambridge-analyticas-alexander-nix-bond-villain-tech-genius-or-hustler-20180328-p4z6n2.html
+w571,18-03-28, IN, India Today, https://www.indiatoday.in/india/story/now-whistleblower-christopher-wylie-names-jd-u-says-cambridge-analytica-did-caste-surveys-1199684-2018-03-28
+w572,18-03-28, GB, www.computing.co.uk, https://www.computing.co.uk/ctg/news/3029309/aggregateiq-accused-of-using-purloined-facebook-data-to-target-us-voters
+w573,18-03-29, MY, malaysiandigest.com, http://www.malaysiandigest.com/technology/730450-cambridge-analytica-can-targeted-online-ads-really-change-a-voter-s-behaviour.html
+w574,18-03-29, GB, TechRadar, https://www.techradar.com/news/facebook-suspends-approval-of-new-third-party-apps
+w575,18-03-29, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/views/analysis/world-still-getting-to-grips-with-evolving-digital-revolution-834951.html
+w576,18-03-31, IN, Economic Times, https://economictimes.indiatimes.com/tech/internet/facebook-gets-support-from-man-who-won-over-million-dollars-from-mark-zuckerberg-in-ip-infringement/articleshow/63563281.cms
+w577,18-03-30, GB, The Times, https://www.thetimes.co.uk/article/big-brothers-of-tech-watch-every-stroke-on-your-keyboard-bpwvcsshq
+w578,18-03-30, AU, NEWS.com.au, http://www.news.com.au/technology/online/facebook-executive-andrew-boz-bosworth-defends-ugly-truth-memo/news-story/ed7247a41e44c17d879a530ff83bda69
+w579,18-04-01, IE, thejournal.ie, http://www.thejournal.ie/psc-adoption-card-issued-3929475-Apr2018/
+w580,18-04-01, IN, Business Insider India, https://www.businessinsider.in/No-one-thinks-this-is-the-end-of-Facebook-yet-investors-sense-blood-in-the-water/articleshow/63565807.cms
+w581,18-03-31, IN, The New Indian Express, http://www.newindianexpress.com/thesundaystandard/2018/apr/01/pollitical-science-of-campaign-management-1795347.html
+w582,18-04-02, BD, ... (satire) (press release) (blog), http://www.unb.com.bd/tech-news/Facebook-CEO-defends-advertising-supported-business-model/67198
+w583,18-04-02, SG, The Business Times, http://www.businesstimes.com.sg/banking-finance/regulation-failure-poses-the-greatest-risk-to-financial-systems
+w584,18-04-03, IN, News18, https://www.news18.com/news/opinion/opinion-by-lt-gen-ds-hooda-if-facebook-can-use-our-data-so-can-enemy-states-1707423.html
+w585,18-04-03, SG, The Straits Times, http://www.straitstimes.com/asia/se-asia/jakarta-threatens-to-ban-facebook-over-fake-news
+w586,18-04-04, JM, Loop Jamaica, http://www.loopjamaica.com/content/facebook-founder-face-us-congress-over-data-row
+w587,18-04-03, US, Irish Times, https://www.irishtimes.com/news/world/uk/theresa-may-displays-grit-of-the-old-fashioned-english-footballer-1.3449064
+w588,18-04-04, SG, The Straits Times, http://www.straitstimes.com/world/united-states/facebook-says-cambridge-analytica-may-have-had-data-on-87-million-people
+w589,18-04-04, IE, RTE.ie, https://www.rte.ie/eile/brainstorm/2018/0330/951174-an-irish-cambridge-analytica-not-if-we-get-our-ethics-in-order/
+w590,18-04-04, AU, ABC Online, http://www.abc.net.au/news/2018-04-05/facebook-says-your-data-has-probably-been-scraped-by-outsiders/9620678
+w591,18-04-04, US, The Guardian, https://www.theguardian.com/technology/2018/apr/04/facebook-gdpr-stronger-privacy-protections-eu-data-protection-law-mark-zuckerberg
+w592,18-04-04, US, New York Times, https://www.nytimes.com/2018/04/04/business/dealbook/china-us-tariffs.html
+w593,18-04-04, GB, The Independent, https://www.independent.co.uk/news/world/americas/facebook-cambridge-analytica-data-scandal-a8289091.html
+w594,18-04-05, SG, Yahoo News, https://sg.news.yahoo.com/morning-brief-jpmorgan-ceo-dimon-stresses-americas-leadership-role-world-103615264.html
+w595,18-04-05, PH, CNN Philippines, http://cnnphilippines.com/lifestyle/2018/04/06/Facebook-Messenger-scan.html
+w596,18-04-05, IE, Evening Echo Cork, http://www.eveningecho.ie/corknews/In-politics-it-helps-if-you-are-a-good-sport-965fab47-4d0f-4d62-851c-28c282ecb760-ds
+w597,18-04-05, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12026903
+w598,18-04-05, IN, Gadgets Now, https://www.gadgetsnow.com/tech-news/facebook-logs-out-thousands-of-tinder-users/articleshow/63625827.cms
+w599,18-04-05, CA, Straight.com, https://www.straight.com/life/1054136/ndp-mps-call-digital-bill-rights-response-facebook-data-breach
+w600,18-04-05, CA, Globalnews.ca, https://globalnews.ca/news/4125131/canada-privacy-commissioner-facebook-2009/
+w601,18-04-05, CA, TheTyee.ca, https://thetyee.ca/News/2018/04/06/Watchdogs-Combine-Investigation-Into-Facebook-And-AggregateIQ/
+w602,18-04-06, NG, NAIJA.NG, https://www.naija.ng/1161926-i-aware-alleged-cambridge-analytica-electoral-fraud-gej.html
+w603,18-04-06, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12027902
+w604,18-04-06, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/consumer-groups-approach-ftc-over-facebooks-facial-recognition
+w605,18-04-08, NG, Concise News, https://www.concisenews.global/tech/24-hour-boycott-of-facebook-operation-faceblock-set-for-april-11th/
+w606,18-04-07, CA, Globalnews.ca, https://globalnews.ca/news/4113403/youtube-filter-bubble/
+w607,18-04-08, MY, malaysiandigest.com, http://malaysiandigest.com/world/732065-cambridge-analytica-boss-dined-with-duterte-campaign-staff-in-2015.html
+w608,18-04-09, AU, ABC Local, http://www.abc.net.au/news/2018-04-10/facebook-is-real-over-sharer-zuckerberg-faces-congress/9635522
+w609,18-04-09, IN, Livemint, https://www.livemint.com/Companies/eR26GNijqz4WIXmwT3ER3O/Mark-Zuckerberg-to-face-angry-lawmakers-as-Facebook-firestor.html
+w610,18-04-10, PK, The News International (blog), https://www.thenews.com.pk/latest/302800-facebook-chief-top-priority-to-protect-integrity-of-elections-in-pakistan-other-country
+w611,18-04-09, US, Wrestling Inc., http://www.wrestlinginc.com/wi/news/2018/0409/638821/live-coverage-of-the-post-wrestlemania-34-wwe-conference-call/
+w612,18-04-09, IE, PublicTechnology, http://www.publictechnology.net/articles/news/ico-make-%E2%80%98clear-policy-recommendations%E2%80%99-light-facebook-data-probe
+w613,18-04-17, IN, Times of India, https://timesofindia.indiatimes.com/india/google-card-lobby-want-aadhaar-to-fail-uidai/articleshow/63807235.cms
+w614,18-04-16, CA, Squamish Chief, http://www.squamishchief.com/ap-fact-check-trump-twists-comey-role-in-clinton-disclosure-1.23268629
+w615,18-04-13, US, Slate Magazine, https://slate.com/technology/2018/04/what-if-instead-of-watching-the-facebook-hearings-you-tried-to-follow-them-just-through-memes.html
+w616,18-04-12, SG, Catch News, http://www.catchnews.com/tech-news/facebook-data-leak-here-s-how-you-can-check-if-your-facebook-data-has-been-leaked-by-cambridge-analytica-107593.html
+w617,18-04-12, PH, ABS-CBN News, http://news.abs-cbn.com/business/04/13/18/eu-urges-facebook-to-cooperate-fully-in-data-scandal
+w618,18-04-11, US, The Punch, http://punchng.com/cambridge-analytica-shared-my-own-data-too-zuckerberg-says/
+w619,18-04-11, GB, London South East (blog), http://www.lse.co.uk/FinanceNews.asp?code=5jds307c&headline=LIVE_MARKETSBeware_leveraged_finance_as_credit_cycle_peaks
+w620,18-04-11, AU, CNET, https://www.cnet.com/au/news/some-senators-in-congress-capitol-hill-just-dont-get-facebook-and-mark-zuckerberg/
+w621,18-04-11, NZ, New Zealand Herald, http://www.nzherald.co.nz/technology/news/article.cfm?c_id=5&objectid=12029605
+w622,18-04-11, IN, Times Now, http://www.timesnownews.com/technology-science/article/mark-zuckerberg-denies-that-facebook-uses-your-conversations-to-target-ads/216288
+w623,18-04-11, IN, India Today, https://www.indiatoday.in/india/story/5-questions-india-would-like-to-ask-facebook-ceo-mark-zuckerberg-1209682-2018-04-11
+w624,18-04-11, NG, SundiataPost (press release) (blog), https://sundiatapost.com/2018/04/11/facebook-ceo-zuckerberg-says-his-own-data-shared-by-cambridge-analytica/
+w625,18-04-10, AU, ABC Online, http://www.abc.net.au/news/2018-04-11/facebook-boss-mark-zuckerberg-fronts-united-states-congress/9639764
+w626,18-04-10, IN, Business Standard, http://www.business-standard.com/article/economy-policy/examine-possibility-of-converting-gstn-into-govt-owned-firm-fm-to-adhia-118041001348_1.html
+w627,18-04-10, IN, Financial Express, http://www.financialexpress.com/industry/technology/facebook-wants-to-ensure-protection-of-integrity-of-elections-facebook-ceo-zuckerberg/1128744/
+w628,18-04-30, ZA, IT News Africa, http://www.itnewsafrica.com/2018/04/more-than-20k-malicious-apps-use-facebook-apis/
+w629,18-04-28, GB, The Times, https://www.thetimes.co.uk/article/scarlett-curtis-on-the-good-side-of-social-media-lh6jppstf
+w630,18-04-28, GH, Pulse.com.gh, http://www.pulse.com.gh/the-new-york-times/world/stores-of-dna-for-anybody-to-pore-over-id8315067.html
+w631,18-04-27, US, New York Times, https://www.nytimes.com/2018/04/27/health/dna-privacy-golden-state-killer-genealogy.html
+w632,18-04-26, HK, Hong Kong Standard (press release), http://www.thestandard.com.hk/breaking-news.php?id=106485&sid=2
+w633,18-04-25, CA, National Post, http://nationalpost.com/pmn/news-pmn/facebook-advertisers-shrug-off-scandal
+w634,18-04-25, GB, Channel 4 News, https://www.channel4.com/news/clarence-mitchell-the-new-face-of-cambridge-analytica
+w635,18-04-25, SG, YourStory.com, https://yourstory.com/2018/04/ola-sets-up-safety-council-for-road-safety-amazon-launches-video-enabled-echo-spot-daily-capsule/
+w636,18-04-23, CA, Toronto Star, https://www.thestar.com/business/personal_finance/advice/2018/04/23/customers-shocked-to-find-their-rogers-yahoo-email-being-read.html
+w637,18-04-22, GB, HeraldScotland, http://www.heraldscotland.com/news/16176757.David_Torrance__The_rise_of_political_tribalism_has_little_to_do_with_policy_and_everything_to_do_with_identity/
+w638,18-04-22, GB, City A.M., http://www.cityam.com/284448/facebook-google-and-twitter-warned-new-government
+w639,18-04-21, IN, Times of India, https://timesofindia.indiatimes.com/city/hyderabad/ap-government-uploads-vital-poll-info-online-experts-warn-of-privacy-violation/articleshow/63856207.cms
+w640,18-04-20, US, Fox News, http://www.foxnews.com/tech/2018/04/20/facebook-to-put-1-5-billion-users-beyond-reach-new-eu-privacy-law-report-says.html
+w641,18-04-20, IN, ...Chronicle (press release) (blog), http://www.mydigitalfc.com/fc-weekend/spy%E2%80%99s-eye-information-success
+w642,18-04-19, IN, Times Now, http://www.timesnownews.com/technology-science/article/facebook-to-put-around-15-billion-users-out-of-reach-of-the-new-eu-privacy-law/219226
+w643,18-04-17, CA, iPolitics.ca, https://ipolitics.ca/2018/04/17/evening-brief-you-cant-win-them-all-over/
+w644,18-03-17, CA, National Post, http://nationalpost.com/pmn/news-pmn/uk-probing-facebook-after-cambridge-analytica-suspension
+w645,18-03-17, US, NBCNews.com, https://www.nbcnews.com/news/us-news/cambridge-analytica-harvested-data-millions-unsuspecting-facebook-users-n857591
+w646,18-03-17, US, The Guardian, https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election
+w647,18-03-19, GB, BBC News, http://www.bbc.co.uk/news/business-43462423
+w648,18-03-19, US, The Guardian, https://www.theguardian.com/uk-news/2018/mar/19/cambridge-analytica-execs-boast-dirty-tricks-honey-traps-elections
+w649,18-03-20, IN, Times of India, https://timesofindia.indiatimes.com/world/us/whatsapp-co-founder-tweets-it-is-time-delete-facebook/articleshow/63390661.cms
+w650,18-03-20, IN, BloombergQuint, https://www.bloombergquint.com/opinion/2018/03/20/facebook-has-endured-potholes-but-data-crisis-may-be-a-crater
+w651,18-03-20, AU, ABC Online, http://www.abc.net.au/news/2018-03-20/privacy-commissioner-investigating-facebook-breach/9568552
+w652,18-03-20, SG, The Independent, http://www.theindependent.sg/facebooks-zuckerberg-called-to-explain-massive-data-breach/
+w653,18-03-20, IN, BloombergQuint, https://www.bloombergquint.com/technology/2018/03/20/facebook-s-long-history-of-resolving-privacy-claims-on-the-cheap
+w654,18-03-20, NZ, New Zealand Herald, http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12017340
+w655,18-03-20, NZ, The National Business Review, https://www.nbr.co.nz/article/tech-stocks-rebound-amazon-poised-overtake-alphabet-google-ng-213965
+w656,18-03-20, IE, PublicTechnology, http://www.publictechnology.net/articles/news/mps-summon-zuckerberg-explain-%E2%80%98catastrophic-failure-process%E2%80%99
+w657,18-03-20, GB, The Sun, https://www.thesun.co.uk/news/5860250/facebook-whistleblower-millions-users-data-harvest/
+w658,18-03-20, US, The Guardian, https://www.theguardian.com/commentisfree/2018/mar/20/cambridge-analytica-data-mining-democracy-channel-4
+w659,18-03-21, KE, Daily Nation, https://www.nation.co.ke/news/politics/ODM-Jubilee-Cambridge-Analytica/1064-4351268-ehugh/index.html
+w660,18-03-21, SG, The Straits Times, http://www.straitstimes.com/tech/fed-up-of-facebook-heres-how-to-delete-your-account-for-good
+w661,18-03-21, SG, Yahoo Singapore News, https://sg.news.yahoo.com/apos-mukhriz-used-data-firm-004210917.html
+w662,18-03-21, SG, Yahoo News, https://sg.news.yahoo.com/big-techs-accountability-avoidance-problem-getting-worse-144004344.html
+w663,18-03-21, IN, Business Standard, http://www.business-standard.com/article/news-ians/india-warns-facebook-zuckerberg-of-action-over-data-breach-118032100845_1.html
+w664,18-03-21, IN, Moneycontrol.com, https://www.moneycontrol.com/news/business/what-changed-for-the-market-while-you-were-sleeping-15-things-you-should-know-35-2533625.html
+w665,18-03-21, AU, ABC Online, http://www.abc.net.au/news/2018-03-22/facebook-cambridge-analytica-digital-surveillance-data-privacy/9575160
+w666,18-03-21, AU, The Australian Financial Review, http://www.afr.com/news/world/cambridge-analytica-exploited-facebook-data-with-style-20180321-h0xsx0
+w667,18-03-21, AU, The Australian Financial Review, http://www.afr.com/news/greens-call-for-accc-inquiry-action-over-facebook-breach-20180321-h0xrne
+w668,18-03-21, IE, Irish Examiner, https://www.irishexaminer.com/breakingnews/world/facebook-had-a-wild-west-approach-to-user-data-says-ex-employee-833621.html
+w669,18-03-21, US, The New Yorker, https://www.newyorker.com/tech/elements/cambridge-analytica-and-our-lives-inside-the-surveillance-machine
+w670,18-03-21, US, The Guardian, https://www.theguardian.com/uk-news/2018/mar/21/cambridge-analytica-facebook-exploited-trust
+w671,18-03-22, IN, Times of India, https://timesofindia.indiatimes.com/city/kolkata/users-in-kolkata-wary-of-social-media-data-theft/articleshow/63423177.cms
+w672,18-03-22, NZ, Scoop.co.nz (press release), http://www.scoop.co.nz/stories/PO1803/S00313/internetnz-calls-for-conversation-about-big-data.htm
+w673,18-03-22, IN, BloombergQuint, https://www.bloombergquint.com/business/2018/03/22/zuckerberg-in-his-own-words-a-summary-of-media-interviews
+w674,18-03-22, AU, The Sydney Morning Herald, https://www.smh.com.au/technology/is-the-age-of-one-click-consent-over-in-wake-of-facebook-scandal-20180323-p4z5td.html
+w675,18-03-22, US, ABC News, http://abcnews.go.com/Politics/house-intelligence-committee-vote-releasing-gop-russia-report/story?id=53930805
+w676,18-03-23, NG, Concise News, https://www.concisenews.global/tech/facebook-data-harvest-stop-sharing-private-information-online-nigerian-it-experts-warn/
+w677,18-03-23, KE, Capital FM Kenya, https://www.capitalfm.co.ke/news/2018/03/what-made-headlines-this-past-week/
+w678,18-03-23, IN, Times of India, https://timesofindia.indiatimes.com/business/india-business/facebook-data-breach-case-government-issues-notice-to-cambridge-analytica/articleshow/63433451.cms
+w679,18-03-23, SG, Yahoo News, https://sg.news.yahoo.com/news-sites-paywall-dilemma-202951536.html
+w680,18-03-23, US, Arkansas Online, http://www.arkansasonline.com/news/2018/mar/23/data-firm-draws-eye-of-mueller-in-inqui/
+w681,18-03-24, IN, India Today, https://www.indiatoday.in/technology/news/story/elon-musk-deletes-facebook-pages-of-tesla-and-spacex-with-a-little-help-from-twitter-1196961-2018-03-24
+w682,18-03-24, SG, The Straits Times, http://www.straitstimes.com/world/cambridge-analytica-impact-and-backlash
+w683,18-03-24, SG, Catch News, http://www.catchnews.com/international-news/elon-musk-deletes-facebook-page-of-space-x-and-tesla-after-accepting-deletefacebook-challenge-104523.html
+w684,18-03-24, NG, TheCable, https://www.thecable.ng/garba-shehu-to-pdp-explain-your-role-in-cambridge-analytica-scandal
+w685,18-03-24, IN, Livemint, https://www.livemint.com/Politics/QOEIp72IngtkLPGN5vpXHL/Rahul-Gandhi-targets-Ravi-Shankar-Prasad-for-pendency-of-cas.html
+w686,18-03-25, IN, Business Today, https://www.businesstoday.in/current/economy-politics/narendra-modi-app-data-leak-rahul-gandhi-privacy-policy/story/273348.html
+w687,18-03-25, MY, The Malaysian Reserve, https://themalaysianreserve.com/2018/03/26/facebooks-chronic-evasions/
+w688,18-03-25, AU, Small Caps, https://smallcaps.com.au/facebook-privacy-scandal-markets-media-data-security/
+w689,18-03-25, US, Ars Technica, https://arstechnica.com/tech-policy/2018/03/cook-county-illinois-sues-facebook-and-cambridge-analytica-over-data-breach/
+w690,18-03-25, CA, Globalnews.ca, https://globalnews.ca/news/4104449/the-west-block-season-7-episode-29/
+w691,18-03-25, CA, CanIndia News, https://www.canindia.com/rahul-accuses-modi-of-giving-namo-app-user-data-to-us-firms/
+w692,18-03-25, GB, Telegraph.co.uk, https://www.telegraph.co.uk/technology/2018/03/26/facebook-questioned-pulling-android-call-text-data/
+w693,18-03-26, NG, Daily Post Nigeria, http://dailypost.ng/2018/03/26/fani-kayode-speaks-pdps-involvement-cambridge-analytica-scandal/
+w694,18-03-26, IN, ...for Defence Studies and Analyses, https://idsa.in/idsacomments/influencing-electoral-outcomes-the-ugly-face-of-facebook-msharma-260318
+w695,18-03-26, IN, Times of India, https://timesofindia.indiatimes.com/india/anand-mahindra-looks-to-fund-indian-rival-of-facebook/articleshow/63476316.cms
+w696,18-03-26, AU, Livewire Markets, https://www.livewiremarkets.com/wires/is-facebook-still-a-buy
+w697,18-03-26, AU, ABC Online, http://www.abc.net.au/news/science/2018-03-27/facebook-after-cambridge-analytica:-what-now/9586604
+w698,18-03-26, CA, CanIndia News, http://www.canindia.com/breaking-up-google-into-smaller-companies-should-be-kept-open/
+w699,18-03-26, CA, Globalnews.ca, https://globalnews.ca/news/4104436/canadians-facebook-after-data-scandal/
+w700,18-03-26, GB, City A.M., http://www.cityam.com/282992/post-cambridge-analytica-four-opportunities-new-deal
+w701,18-03-27, SG, The News Minute, https://www.thenewsminute.com/article/amid-facebook-scandal-anand-mahindra-floats-idea-rival-social-media-platform-78562
+w702,18-03-28, SG, AsiaOne, http://www.asiaone.com/digital/tim-cook-facebooks-data-leak-scandal-i-wouldnt-be-situation
+w703,18-03-28, ZA, Memeburn, https://memeburn.com/2018/03/facebook-new-privacy-settings/
+w704,18-03-28, NZ, New Zealand Herald, http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=12022690
+w705,18-03-29, SG, Yahoo News, https://sg.news.yahoo.com/morning-brief-facebook-cuts-ties-third-party-ad-targeters-101625940.html
+w706,18-03-29, NG, Pulse Nigeria, http://www.pulse.ng/gist/pop-culture/you-should-be-worried-that-facebook-has-your-call-records-id8181786.html
+w707,18-03-29, KE, SDE Entertainment News, https://www.sde.co.ke/article/2001274962/larry-madowo-leaves-ntv
+w708,18-03-29, CA, Toronto Star, https://www.thestar.com/opinion/star-columnists/2018/03/29/resistance-isnt-futile-despite-facebook-and-cambridge-analytica.html
+w709,18-03-29, IN, Times of India, https://timesofindia.indiatimes.com/india/policy-for-digital-broadcast-and-news-coming-soon-smriti-irani/articleshow/63539492.cms
+w710,18-03-29, IN, The New Indian Express, http://www.newindianexpress.com/states/karnataka/2018/mar/30/all-parties-making-inroads-into-every-medium-possible-ahead-of-karnataka-polls-1794556.html
+w711,18-03-29, IN, Times of India, https://timesofindia.indiatimes.com/india/cambridge-analyticas-parent-company-worked-on-anti-jihad-project-in-pakistan-christopher-wylie/articleshow/63539000.cms
+w712,18-03-30, KE, SDE Entertainment News, https://www.sde.co.ke/thenairobian/article/2001275016/was-this-mzungu-at-state-house-from-cambridge-analytica
+w713,18-03-29, US, Engadget, https://www.engadget.com/2018/03/29/cambridge-analytica-deleted-data-channel-4/
+w714,18-03-30, GB, Worcester News, http://www.worcesternews.co.uk/news/16128105.LETTER_OF_THE_DAY__Sorry_Boris__it__39_s_definitely_a_snub/
+w715,18-04-01, IN, Times of India, https://timesofindia.indiatimes.com/city/bengaluru/linking-aadhaar-voter-id-not-a-good-idea-union-it-minister/articleshow/63573627.cms
+w716,18-03-31, CA, CBC.ca, http://www.cbc.ca/news/canada/ottawa/cambridge-analytica-scandal-gross-violation-1.4593745
+w717,18-04-03, NG, Osun Defender (blog), http://www.osundefender.com/private-user-data-problems-might-take-years-solve-facebook-ceo/
+w718,18-04-02, US, MarketWatch, https://www.marketwatch.com/story/dating-app-grindr-is-sharing-the-hiv-status-of-users-with-other-companies-2018-04-02
+w719,18-04-04, NG, Nigerian Entertainment Today, http://thenet.ng/zuckerberg-says-will-take-longer-expected-solve-facebook-privacy-problems/
+w720,18-04-03, AU, The Australian Financial Review, http://www.afr.com/technology/apps/business/big-five-great-for-investors-not-so-good-for-public-life-and-social-policy-20180403-h0y9l7
+w721,18-04-03, IN, Business Today, https://www.businesstoday.in/technology/news/apple-vs-facebook-war-words-cook-zuckerberg-heats-up/story/273970.html
+w722,18-04-04, NZ, Stuff.co.nz, https://www.stuff.co.nz/technology/social-networking/102862838/australian-privacy-commissioner-opens-investigation-into-facebook
+w723,18-04-04, MY, malaysiandigest.com, http://www.malaysiandigest.com/technology/731463-facebook-believes-most-of-its-2bn-users-had-their-data-improperly-mined-misused.html
+w724,18-04-04, SG, Yahoo Singapore News, https://sg.news.yahoo.com/australia-privacy-chief-probe-facebook-over-data-breach-050834350.html
+w725,18-04-04, GB, The Independent, https://www.independent.co.uk/news/world/americas/facebook-pages-russia-putin-kremlin-us-election-meddling-a8287621.html
+w726,18-04-04, IE, The Parliament Magazine, https://www.theparliamentmagazine.eu/articles/news/cambridge-analyticafacebook-scandal-%E2%80%98-stab-heart-democracy%E2%80%99-warn-meps
+w727,18-04-04, AU, ABC Online, http://www.abc.net.au/news/2018-04-05/facebook-says-your-data-has-probably-been-scraped-by-outsiders/9620678
+w728,18-04-05, SG, The Independent, http://theindependent.sg/over-65000-facebook-users-in-singapore-may-have-been-affected-by-cambridge-analytica-data-breach/
+w729,18-04-06, JM, Loop Jamaica, http://www.loopjamaica.com/content/watch-eu-says-facebook-admits-27m-europeans-data-improperly-shared-1
+w730,18-04-05, US, NDTV, https://gadgets.ndtv.com/social-networking/news/facebook-says-most-of-its-2-billion-users-had-their-data-scraped-from-profiles-1833126
+w731,18-04-05, US, Quartz, https://qz.com/1245515/facebook-admits-cambridge-analytica-may-have-accessed-the-data-of-over-560000-users-in-india/
+w732,18-04-06, AU, CNET, https://www.cnet.com/au/how-to/how-to-watch-mark-zuckerberg-testify-to-congress-live/
+w733,18-04-06, GB, TrustedReviews, http://www.trustedreviews.com/news/pay-for-facebook-adverts-sheryl-sandberg-3445874
+w734,18-04-08, GH, Primenewsghana, https://www.primenewsghana.com/tech/facebook-suspends-brexit-campaign-data-firm.html
+w735,18-04-07, CA, Winnipeg Free Press, https://www.winnipegfreepress.com/arts-and-life/food/too-much-of-a-good-thing-479042273.html
+w736,18-04-08, GB, The Register, https://www.theregister.co.uk/2018/04/09/facebook_suspends_investigates_cubeyou_another_dataharvester/
+w737,18-04-08, US, MarketWatch, https://www.marketwatch.com/story/whistleblower-says-number-of-facebook-users-with-exposed-data-could-be-much-higher-2018-04-08
+w738,18-04-08, US, The Inquisitr, https://www.inquisitr.com/4857262/eu-says-facebook-confirmed-data-of-europeans-was-improperly-shared/
+w739,18-04-09, US, Daily Beast, https://www.thedailybeast.com/how-every-campaign-will-have-a-troll-farm-of-its-own
+w740,18-04-09, US, Business Insider, http://www.businessinsider.com/people-think-facebook-ceo-mark-zuckerberg-is-a-robot-snl-parody-2018-4
+w741,18-04-09, CA, Toronto Star, https://www.thestar.com/business/tech_news/2018/04/09/mark-zuckerberg-faces-calls-to-step-down-as-chair-of-facebooks-board-of-directors.html
+w742,18-04-09, IE, PublicTechnology, http://www.publictechnology.net/articles/news/ico-make-%E2%80%98clear-policy-recommendations%E2%80%99-light-facebook-data-probe
+w743,18-04-16, GH, Pulse.com.gh, http://www.pulse.com.gh/bi/tech/bumble-wont-make-you-log-in-with-facebook-anymore-after-the-cambridge-analytica-scandal-id8261417.html
+w744,18-04-13, SG, Yahoo Singapore News, https://sg.news.yahoo.com/facebook-unable-make-available-info-use-advertising-government-recent-elections-executive-081219179.html
+w745,18-04-13, PH, Sun.Star, http://www.sunstar.com.ph/manila/local-news/2018/04/13/duterte-cambridge-analytica-i-dont-know-them-598297
+w746,18-04-12, MY, The Edge Markets MY, http://www.theedgemarkets.com/article/tencents-us50-billion-plunge-isnt-enough-scare-analysts
+w747,18-04-11, US, New York Times, https://www.nytimes.com/2018/04/11/technology/zuckerberg-congress-promises-facebook.html
+w748,18-04-11, US, CBS News, https://www.cbsnews.com/live-news/mark-zuckerberg-testimony-to-house-commerce-committee-live-updates/
+w749,18-04-11, US, The Guardian, https://www.theguardian.com/politics/2018/apr/11/hugs-all-round-the-zuck-finds-congress-a-bit-of-a-breeze
+w750,18-04-11, IE, BreakingNews.ie, https://www.breakingnews.ie/world/facebook-in-an-arms-race-with-russia-836768.html
+w751,18-04-11, AU, NEWS.com.au, http://www.news.com.au/technology/online/social/what-zuckerberg-planned-to-say-about-apple-in-us-senate-hearing-revealed/news-story/16db30e68cadc16b921d07cf780a3111
+w752,18-04-11, IN, India Today, https://www.indiatoday.in/india/story/5-questions-india-would-like-to-ask-facebook-ceo-mark-zuckerberg-1209682-2018-04-11
+w753,18-04-11, SG, Yahoo News, https://sg.news.yahoo.com/diamond-silk-pro-trump-sisters-center-facebook-controversy-230104809.html
+w754,18-04-11, SG, Yahoo News, https://sg.news.yahoo.com/facebooks-mark-zuckerberg-returns-second-day-congressional-hearings-133901976.html
+w755,18-04-11, NG, Daily Post Nigeria, http://dailypost.ng/2018/04/11/cambridge-analytica-check-whether-facebook-share-data/
+w756,18-04-10, IN, NewsBytes, https://www.newsbytesapp.com/timeline/Business/20038/94973/the-sorry-tale-of-zuckerberg-s-testimony-before-congress
