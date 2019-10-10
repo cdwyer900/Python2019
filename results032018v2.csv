@@ -1,0 +1,168 @@
+tag_no,date,country,publication,neg_result,compound_result
+w540,18-03-20, SG, The News Minute,0.07,0.0312
+w541,18-03-20, SG, Business Insider,0.05,0.5888
+w543,18-03-20, SG, The Straits Times,0,0
+w544,18-03-20, SG, The New Paper,0.049,-0.7238
+w545,18-03-20, SG, AsiaOne,0.091,-0.8591
+w547,18-03-20, SG, The Straits Times,0,0
+w548,18-03-20, PH, Philippine Star,0.326,-0.4404
+w549,18-03-20, ZA, Moneyweb.co.za,0,0
+w550,18-03-20, ZA, eNCA,0.066,-0.972
+w551,18-03-20, NG, Wetinhappen Magazine (blog),0.109,-0.9423
+w552,18-03-20, NG, Pulse Nigeria,0.186,-0.9889
+w553,18-03-20, GH, Pulse.com.gh,0.05,0.5888
+w554,18-03-20, KE, Daily Nation,0,0
+w555,18-03-20, KE, The Standard,0.065,0.9479
+w556,18-03-20, KE, PulseLive Kenya (satire),0.062,0.7684
+w557,18-03-20, KE, PulseLive Kenya (satire),0.078,-0.7579
+w558,18-03-20, KE, ZIPO.CO.KE,0,0
+w561,18-03-20, IN, BloombergQuint,0.096,-0.9805
+w562,18-03-20, IN, Financial Express,0,0
+w563,18-03-20, IN, BloombergQuint,0.066,-0.872
+w564,18-03-20, IN, BloombergQuint,0.021,0.8225
+w565,18-03-20, IN, Business Today,0.064,0.8591
+w566,18-03-20, IN, BloombergQuint,0.053,-0.583
+w567,18-03-20, IN, Financial Express,0.398,-0.6486
+w568,18-03-20, LK, Newsfirst,0.085,-0.936
+w569,18-03-20, LK, The Sunday Times Sri Lanka,0.029,0.5423
+w570,18-03-20, PK, The Express Tribune,0,0
+w571,18-03-20, BD, ... (satire) (press release) (blog),0,0
+w572,18-03-20, MY, The Edge Markets MY,0.058,-0.0093
+w573,18-03-20, MY, The Edge Markets MY,0.01,0.9747
+w574,18-03-20, MY, Malay Mail,0.018,0.9902
+w575,18-03-20, MY, Malaysiakini,0.085,0.9944
+w576,18-03-20, MY, The Edge Markets MY,0.054,0.9738
+w577,18-03-20, MY, The Edge Markets MY,0.085,0.9367
+w578,18-03-20, MY, The Edge Markets MY,0.142,-0.8555
+w579,18-03-20, MY, malaysiandigest.com,0,0
+w580,18-03-20, SG, The New Paper,0.052,0.8922
+w581,18-03-20, SG, Marketing Interactive,0.333,-0.4215
+w582,18-03-20, SG, Yahoo Singapore News,0.091,0.4588
+w583,18-03-20, SG, The Independent,0.038,0.2263
+w584,18-03-20, NZ, The Spinoff,0.056,-0.6738
+w585,18-03-20, NZ, Radio New Zealand,0,0
+w586,18-03-20, NZ, New Zealand Herald,0.048,0.997
+w587,18-03-20, NZ, New Zealand Herald,0.061,-0.9387
+w588,18-03-20, IN, BloombergQuint,0.037,0.7717
+w589,18-03-20, IN, Mumbai Mirror,0,0
+w590,18-03-20, IN, Times of India,0.156,-0.34
+w591,18-03-20, IN, THE WEEK,0.085,-0.9
+w592,18-03-20, IN, Business Standard,0,0
+w593,18-03-20, IN, Times of India,0,0
+w594,18-03-20, IN, BloombergQuint,0.042,0.9743
+w595,18-03-20, IN, BloombergQuint,0.089,0.9764
+w596,18-03-20, IN, Telangana Today,0.129,-0.9517
+w597,18-03-20, IN, Scroll.in,0.08,-0.9708
+w598,18-03-20, IN, Outlook India,0.082,-0.9371
+w599,18-03-20, IN, News18,0.107,-0.25
+w601,18-03-20, NZ, Stuff.co.nz,0,0
+w602,18-03-20, NZ, Scoop.co.nz (press release),0.023,0.9965
+w603,18-03-20, NZ, Newshub,0,0
+w605,18-03-20, NZ, Stuff.co.nz,0,0
+w606,18-03-20, NZ, Otago Daily Times,0.037,-0.3893
+w607,18-03-20, NZ, New Zealand Herald,0.055,0.9521
+w608,18-03-20, NZ, New Zealand Herald,0.093,0.7545
+w609,18-03-20, NZ, Stuff.co.nz,0,0
+w610,18-03-20, NZ, New Zealand Herald,0.045,0.971
+w611,18-03-20, NZ, New Zealand Herald,0.121,-0.9971
+w613,18-03-20, AU, Nine,0,0
+w614,18-03-20, AU, The Australian Financial Review,0.018,0.9976
+w615,18-03-20, AU, ABC Online (blog),0,0
+w616,18-03-20, AU, Nine,0,0
+w617,18-03-20, AU, NEWS.com.au,0.058,-0.9033
+w618,18-03-20, AU, CNET,0.022,0.9965
+w619,18-03-20, AU, The Sydney Morning Herald,0.121,-0.9841
+w620,18-03-20, AU, AdNews,0.07,0.909
+w621,18-03-20, AU, The Sydney Morning Herald,0.024,0.999
+w622,18-03-20, AU, The Sydney Morning Herald,0.046,0.9295
+w623,18-03-20, AU, Business Insider Australia,0,0.128
+w624,18-03-20, AU, Business Insider Australia,0.156,-0.4404
+w625,18-03-20, AU, Nine,0,0
+w626,18-03-20, AU, Business Insider Australia,0.194,-0.34
+w627,18-03-20, AU, ABC Online,0,0
+w628,18-03-20, AU, ABC Online,0,0
+w629,18-03-20, AU, SBS,0.037,0.8535
+w630,18-03-20, IE, Siliconrepublic.com,0.107,-0.9949
+w631,18-03-20, IE, thejournal.ie,0,0
+w632,18-03-20, IE, Irish Times,0,0
+w633,18-03-20, IE, Irish Examiner,0.064,0.9618
+w634,18-03-20, IE, RTE.ie,0.07,-0.9468
+w635,18-03-20, IE, Irish Times,0,0.3818
+w636,18-03-20, IE, The Parliament Magazine,0,0
+w637,18-03-20, IE, PublicTechnology,0,0
+w638,18-03-20, IE, Evening Echo Cork,0,0
+w639,18-03-20, IE, Irish Times,0,0
+w640,18-03-20, IE, JOE,0.105,-0.9783
+w641,18-03-20, IE, TodayFM,0.042,-0.3832
+w642,18-03-20, IE, Irish Examiner,0.027,0.9312
+w643,18-03-20, IE, Big Issue,0.009,0.4871
+w644,18-03-20, IE, JOE,0.055,-0.8378
+w645,18-03-20, IE, PublicTechnology,0,0
+w646,18-03-20, AU, Yahoo7 News,0.052,-0.6059
+w740,18-03-20, IE, BreakingNews.ie,0,0
+w743,18-03-20, IE, RTE.ie,0.031,0.128
+w745,18-03-20, IE, RTE.ie,0.044,-0.4012
+w749,18-03-20, IE, BreakingNews.ie,0,0
+w756,18-03-20, CA, Toronto Star,0,0
+w757,18-03-20, CA, The London Free Press,0.088,-0.8965
+w758,18-03-20, CA, Toronto Star,0,0.1779
+w759,18-03-20, CA, Toronto Star,0.177,-0.0263
+w760,18-03-20, CA, The Daily Courier,0.038,0.9092
+w761,18-03-20, GB, The Register,0.06,0.9919
+w762,18-03-20, GB, Telegraph.co.uk,0,0.4939
+w763,18-03-20, GB, Metro,0,0
+w764,18-03-20, GB, Yahoo Finance UK,0.074,0.2263
+w765,18-03-20, GB, The Sun,0.08,-0.9571
+w766,18-03-20, GB, Metro Newspaper UK,0.063,-0.8202
+w767,18-03-20, GB, Kashmir Reader,0,0
+w768,18-03-20, GB, Telegraph.co.uk,0.057,-0.1027
+w769,18-03-20, GB, Evening Standard,0.04,0.5122
+w770,18-03-20, GB, Evening Standard,0.02,0.8126
+w771,18-03-20, GB, Evening Standard,0.049,0.9314
+w772,18-03-20, GB, Evening Standard,0.057,0.9368
+w773,18-03-20, GB, London Loves Business,0.049,0.8987
+w774,18-03-20, GB, Economy,0.069,0.9632
+w775,18-03-20, GB, BBC News,0.034,0.9974
+w776,18-03-20, GB, Alphr,0.044,0.9909
+w777,18-03-20, GB, City A.M.,0,0
+w778,18-03-20, GB, The Register,0.099,-0.2865
+w779,18-03-20, GB, Channel 4 News,0,0
+w780,18-03-20, GB, BBC News,0.086,-0.9679
+w786,18-03-20, US, Washington Post,0,0
+w787,18-03-20, US, TechCrunch,0.055,0.9854
+w788,18-03-20, US, Gizmodo,0.067,-0.1531
+w789,18-03-20, US, MassLive.com,0,0
+w790,18-03-20, US, Mother Jones,0.04,0.8834
+w791,18-03-20, US, The Guardian,0.078,0.9336
+w792,18-03-20, CA, National Post,0.093,-0.9899
+w793,18-03-20, CA, CTV News,0,0
+w794,18-03-20, CA, National Post,0.089,-0.9631
+w795,18-03-20, CA, BNN,0.097,-0.9727
+w796,18-03-20, CA, CBC.ca,0,0.3612
+w797,18-03-20, CA, Toronto Star,0,0
+w798,18-03-20, CA, National Post,0.151,-0.7865
+w799,18-03-20, CA, CBC.ca,0.099,-0.9001
+w801,18-03-20, CA, Canada NewsWire (press release),0.009,0.9904
+w802,18-03-20, CA, Toronto Star,0.328,-0.5267
+w804,18-03-20, US, The Inquisitr,0,0
+w805,18-03-20, US, New York Magazine,0.093,-0.9847
+w806,18-03-20, US, Chicago Tribune,0.07,-0.765
+w807,18-03-20, US, The Times of Israel,0.053,-0.7964
+w808,18-03-20, US, Engadget,0.073,0.4497
+w809,18-03-20, US, The Guardian,0.062,0.9953
+w810,18-03-20, US, The Guardian,0.056,0.9867
+w811,18-03-20, US, Gizmodo,0.072,0.9738
+w812,18-03-20, US, The Guardian,0.094,-0.9514
+w813,18-03-20, US, Washington Post,0,0
+w814,18-03-20, US, New York Times,0.046,0.4493
+w815,18-03-20, US, USA TODAY,0.067,-0.9632
+w818,18-03-20, US, Irish Times,0,0
+w819,18-03-20, US, The Times of Israel,0.069,-0.9543
+w820,18-03-20, US, Chicago Tribune,0.052,-0.3873
+w821,18-03-20, US, Business Insider,0.077,-0.9265
+w822,18-03-20, US, MarketWatch,0.025,-0.1695
+w823,18-03-20, US, Firstpost,0.102,-0.8873
+w824,18-03-20, US, San Francisco Chronicle,0,0
+w825,18-03-20, US, Slate Magazine,0.038,0.6326
+w826,18-03-20, US, Haaretz,0,0
+w827,18-03-20, US, ABC News,0.052,0.9545

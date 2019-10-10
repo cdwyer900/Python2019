@@ -1,0 +1,2010 @@
+w1,18-05-02, US, The Guardian,0.084,-0.9774
+w2,18-05-02, US, Slate Magazine,0.032,0.8779
+w3,18-05-02, US, New York Post,0.066,0.8868
+w4,18-05-02, US, The Guardian,0.057,0.9844
+w5,18-05-02, US, Axios,0.058,0.5574
+w6,18-05-02, US, KGO-TV,0.113,0.296
+w7,18-05-02, US, PBS NewsHour,0.05,0.993
+w8,18-05-02, US, New York Times,0.061,-0.8591
+w13,18-05-02, GB, Government Europa,0.075,0.9983
+w14,18-05-02, GB, BBC News,0.087,-0.9899
+w15,18-05-02, GB, Isle of Wight County Press,0.045,0.9501
+w17,18-05-02, GB, TechRadar,0.086,-0.0258
+w18,18-05-02, GB, BT.com,0.067,0.9459
+w19,18-05-02, IE, JOE,0.077,0.9696
+w21,18-05-02, IE, TodayFM,0.08,0.7881
+w23,18-05-02, IE, Siliconrepublic.com,0.051,0.9995
+w26,18-05-02, AU, The Australian Financial Review,0.051,0.9974
+w27,18-05-02, AU, ABC Online,0.053,0.8441
+w28,18-05-02, AU, Human Capital,0.055,0.9973
+w29,18-05-02, AU, SBS,0.074,-0.3737
+w34,18-05-02, NZ, Yahoo News,0.054,0.9534
+w37,18-05-02, IN, The Quint,0.102,-0.7003
+w39,18-05-02, IN, India Today,0.129,-0.9977
+w40,18-05-02, MY, The Edge Markets MY,0.109,-0.9858
+w42,18-05-02, SG, YourStory.com,0.028,0.8047
+w43,18-05-02, SG, Yahoo Singapore News,0.072,-0.9079
+w44,18-05-02, SG, Janta Ka Reporter,0.104,-0.6319
+w45,18-05-02, SG, The News Minute,0.031,0.9734
+w46,18-05-02, SG, Catch News,0.053,-0.4404
+w47,18-05-02, HK, Hong Kong Standard (press release),0.0,0.25
+w48,18-05-02, ZA, HuffPost South Africa,0.031,0.9988
+w49,18-05-02, ZA, HuffPost South Africa,0.08,0.999
+w53,18-05-02, ZA, ITWeb,0.031,0.884
+w54,18-05-02, NG, Wetinhappen Magazine (blog),0.117,-0.9098
+w55,18-05-02, NG, Osun Defender (blog),0.036,0.998
+w56,18-05-02, NG, Daily Post Nigeria,0.025,0.9696
+w57,18-05-02, NG, CHANNELS TELEVISION,0.079,-0.8351
+w58,18-05-02, NG, TODAY.NG,0.09,-0.9364
+w59,18-05-02, GH, Myjoyonline.com,0.093,-0.9917
+w62,18-05-02, KE, The Standard,0.112,-0.929
+w63,18-05-01, MY, New Straits Times Online,0.055,0.738
+w64,18-05-01, MY, Lowyat.NET (blog),0.02,0.7615
+w65,18-05-01, SG, The News Minute,0.046,0.977
+w66,18-04-30, US, Slate Magazine,0.039,0.7338
+w69,18-04-30, IN, News18,0.113,-0.7003
+w70,18-04-30, MY, The Edge Markets MY,0.091,-0.9377
+w71,18-04-30, MY, New Straits Times Online,0.031,0.999
+w72,18-04-30, SG, The News Minute,0.073,0.5174
+w73,18-04-30, SG, The News Minute,0.053,0.8067
+w74,18-04-30, SG, Catch News,0.042,-0.34
+w77,18-04-30, NG, NEWSTAGE,0.052,0.966
+w78,18-04-30, NG, NEWSTAGE,0.05,0.9517
+w79,18-04-29, CA, London Free Press (Blogs) (blog),0.163,-0.9984
+w81,18-04-29, AU, Brisbane Times,0.095,-0.9688
+w83,18-04-29, MY, The Edge Markets MY,0.041,-0.0941
+w84,18-04-28, GB, The National,0.098,0.9649
+w88,18-04-28, IN, News18,0.095,-0.5859
+w89,18-04-28, IN, Livemint,0.056,0.6198
+w90,18-04-28, SG, The Sunday Guardian,0.065,0.9863
+w91,18-04-28, GH, Pulse.com.gh,0.116,-0.9974
+w92,18-04-27, US, New York Times,0.067,-0.6486
+w93,18-04-27, US, Slate Magazine,0.072,0.9996
+w94,18-04-27, US, PYMNTS.com,0.033,0.9995
+w95,18-04-27, US, Business Insider,0.06,0.9994
+w97,18-04-27, CA, CanIndia News,0.073,0.4446
+w102,18-04-27, AU, The Australian Financial Review,0.038,0.9981
+w103,18-04-27, IN, Daily Pioneer,0.023,0.7152
+w105,18-04-27, IN, ETCIO.com,0.028,0.9976
+w106,18-04-27, IN, The Indian Express,0.072,0.5216
+w107,18-04-27, IN, ETtech.com,0.046,0.9893
+w109,18-04-27, IN, Times Now,0.055,0.9157
+w110,18-04-27, MY, The Edge Markets MY,0.075,0.3543
+w111,18-04-27, MY, The Edge Markets MY,0.026,0.9682
+w112,18-04-27, SG, YourStory.com,0.082,0.9904
+w113,18-04-27, NG, NEWSTAGE,0.119,-0.9991
+w114,18-04-26, US, The Mercury News,0.059,0.9978
+w115,18-04-26, US, CNBC,0.032,0.9571
+w117,18-04-26, CA, National Post,0.121,-0.9908
+w121,18-04-26, GB, PCR-online.biz,0.015,0.9952
+w122,18-04-26, GB, BBC News,0.07,-0.9722
+w124,18-04-26, IE, Mobile World Live,0.1,-0.0772
+w125,18-04-26, IE, Irish Examiner,0.049,-0.7783
+w127,18-04-26, IE, Irish Examiner,0.093,-0.6956
+w129,18-04-26, IE, RTE.ie,0.016,0.8411
+w133,18-04-26, SG, YourStory.com,0.0,0.7003
+w134,18-04-26, SG, Nation News,0.0,0.8126
+w135,18-04-26, SG, YourStory.com,0.009,0.9958
+w137,18-04-26, PH, ABS-CBN News,0.087,-0.9451
+w138,18-04-26, PH, Philippine Star,0.036,0.9915
+w139,18-04-26, PH, ABS-CBN News,0.041,0.4939
+w140,18-04-26, HK, Hong Kong Standard (press release),0.0,0.25
+w141,18-04-26, ZA, eNCA,0.08,0.4391
+w142,18-04-26, ZA, MyBroadband,0.047,0.9854
+w144,18-04-26, NG, Nairametrics,0.021,0.9972
+w145,18-04-26, JM, Loop News Jamaica,0.068,-0.8589
+w146,18-04-25, US, Engadget,0.028,0.985
+w147,18-04-25, US, Bloomberg,0.065,0.9651
+w148,18-04-25, US, Fast Company,0.053,0.9967
+w149,18-04-25, US, BuzzFeed News,0.047,0.9997
+w150,18-04-25, CA, National Post,0.105,-0.9963
+w151,18-04-25, CA, Canada NewsWire (press release),0.023,0.9883
+w152,18-04-25, CA, CBC.ca,0.069,0.0938
+w154,18-04-25, CA, Globalnews.ca,0.0,0.7184
+w156,18-04-25, IE, RTE.ie,0.036,0.9766
+w157,18-04-25, IN, News18,0.024,0.1027
+w158,18-04-25, IN, Free Press Journal,0.06,0.979
+w161,18-04-25, MY, The Edge Markets MY,0.039,0.9852
+w165,18-04-25, SG, Marketing Interactive,0.0,0.7351
+w166,18-04-25, SG, YourStory.com,0.023,0.9152
+w167,18-04-25, SG, Campaign Asia-Pacific,0.016,0.9975
+w168,18-04-25, SG, YourStory.com,0.012,0.9963
+w171,18-04-25, SG, YourStory.com,0.0,0.0
+w172,18-04-25, SG, YourStory.com,0.187,-0.9992
+w173,18-04-25, SG, Business Insider,0.068,0.4215
+w175,18-04-25, PH, Philippine Star,0.039,0.9912
+w176,18-04-25, PH, ABS-CBN News,0.049,-0.2023
+w177,18-04-25, ZA, eNCA,0.081,-0.9314
+w178,18-04-25, ZA, Moneyweb.co.za,0.053,0.999
+w179,18-04-25, ZA, BusinessTech,0.082,0.9945
+w180,18-04-25, ZA, ITWeb,0.03,0.9936
+w181,18-04-25, ZA, MyBroadband,0.05,0.9979
+w183,18-04-25, ZA, HuffPost South Africa,0.104,0.9887
+w184,18-04-25, ZA, Bizcommunity.com,0.049,0.998
+w185,18-04-25, NG, Pulse Nigeria,0.087,-0.9713
+w187,18-04-25, JM, Loop News Jamaica,0.064,-0.1643
+w188,18-04-24, US, The Guardian (blog),0.113,-0.9883
+w189,18-04-24, US, The Guardian,0.05,0.9898
+w190,18-04-24, US, WIRED,0.055,0.9985
+w191,18-04-24, US, Los Angeles Times,0.101,-0.9978
+w192,18-04-24, US, Fox News,0.055,0.8723
+w195,18-04-24, CA, CBC.ca,0.18,-0.9618
+w196,18-04-24, CA, CBC.ca,0.106,-0.8724
+w197,18-04-24, GB, Verdict,0.011,0.9571
+w198,18-04-24, GB, BBC News,0.065,-0.9712
+w199,18-04-24, GB, Telecoms.com,0.068,-0.5267
+w200,18-04-24, GB, HeraldScotland,0.08,0.997
+w201,18-04-24, PK, The News International (blog),0.068,-0.7574
+w202,18-04-24, MY, The Edge Markets MY,0.072,-0.9101
+w203,18-04-24, MY, New Straits Times Online,0.088,-0.9884
+w204,18-04-24, MY, The Edge Markets MY,0.053,-0.9163
+w205,18-04-24, SG, Yahoo Singapore News,0.035,0.986
+w206,18-04-24, SG, Yahoo Singapore News,0.032,0.9871
+w207,18-04-24, SG, YourStory.com,0.0,0.0
+w208,18-04-24, SG, YourStory.com,0.061,0.9963
+w210,18-04-24, SG, Marketing Interactive,0.0,0.8316
+w211,18-04-24, SG, Business Insider,0.071,-0.9628
+w212,18-04-24, PH, Manila Bulletin,0.079,0.7003
+w214,18-04-24, NG, TODAY.NG,0.025,0.9475
+w215,18-04-24, NG, Concise News,0.11,-0.9882
+w216,18-04-24, GH, Myjoyonline.com,0.053,-0.7506
+w217,18-04-24, GH, Pulse.com.gh,0.113,-0.9545
+w218,18-04-24, GH, Pulse.com.gh,0.082,-0.9761
+w219,18-04-24, JM, Loop News Jamaica,0.162,-0.9978
+w220,18-04-23, US, New York Times,0.023,0.4215
+w221,18-04-23, US, wtkr.com,0.067,0.4738
+w222,18-04-23, US, Irish Times,0.111,0.6369
+w223,18-04-23, US, Business Insider,0.055,0.9833
+w226,18-04-23, GB, HeraldScotland,0.053,0.9875
+w227,18-04-23, IE, World Intellectual Property Review,0.075,-0.2023
+w229,18-04-23, AU, Yahoo7 News,0.066,-0.0474
+w230,18-04-23, NZ, Newsroom,0.024,0.9954
+w231,18-04-23, NZ, New Zealand Herald,0.062,0.7593
+w233,18-04-23, IN, BloombergQuint,0.054,0.9452
+w234,18-04-23, IN, Business Insider India,0.093,0.9503
+w236,18-04-23, MY, New Straits Times Online,0.068,0.8995
+w237,18-04-23, MY, The Edge Markets MY,0.08,-0.9385
+w238,18-04-23, SG, YourStory.com,0.073,-0.4404
+w239,18-04-23, SG, Yahoo News,0.0,0.0772
+w241,18-04-23, SG, YourStory.com,0.056,0.9941
+w242,18-04-23, ZA, eNCA,0.025,0.9973
+w243,18-04-23, NG, Pulse Nigeria,0.057,0.9652
+w244,18-04-23, NG, Concise News,0.05,0.9754
+w245,18-04-23, GH, Pulse.com.gh,0.066,0.9032
+w246,18-04-22, US, The Guardian,0.048,0.9542
+w247,18-04-22, US, The Nevada Independent,0.0,0.959
+w248,18-04-22, US, Action News Now,0.378,-0.9274
+w250,18-04-22, CA, CanIndia News,0.032,0.9489
+w252,18-04-22, GB, HeraldScotland,0.069,0.9723
+w253,18-04-22, GB, Evening Standard,0.043,0.1543
+w255,18-04-22, AU, Livewire Markets,0.054,0.9987
+w256,18-04-22, AU, The Australian Financial Review,0.048,0.996
+w257,18-04-22, IN, Livemint,0.159,-0.9975
+w258,18-04-22, IN, Scroll.in,0.021,0.9995
+w259,18-04-22, SG, Nation News,0.0,0.6908
+w261,18-04-21, US, The Guardian,0.028,0.9886
+w262,18-04-21, CA, Winnipeg Free Press,0.053,0.9997
+w263,18-04-21, CA, womenspost.ca,0.033,0.9969
+w265,18-04-21, GB, Yahoo Finance UK,0.043,0.9657
+w266,18-04-21, GB, HeraldScotland,0.075,0.9731
+w267,18-04-21, GB, HeraldScotland,0.141,-0.9977
+w268,18-04-21, GB, HeraldScotland,0.085,-0.905
+w269,18-04-21, GB, University World News,0.048,0.9977
+w271,18-04-21, IN, BloombergQuint,0.044,0.9846
+w273,18-04-21, KE, PulseLive Kenya (satire),0.023,0.9081
+w274,18-04-21, KE, The Standard,0.094,0.9725
+w276,18-04-20, US, Fox News,0.039,0.9839
+w277,18-04-20, US, Wired868,0.076,0.8175
+w278,18-04-20, CA, National Post,0.081,-0.9704
+w279,18-04-20, CA, ...ctive Investors USA & Canada,0.05,0.9951
+w280,18-04-20, GB, VRFocus,0.011,0.9973
+w281,18-04-20, GB, The Register,0.146,-0.9943
+w284,18-04-20, AU, Yahoo7 News,0.077,-0.8965
+w285,18-04-20, AU, NEWS.com.au,0.114,0.9827
+w286,18-04-20, NZ, Interest.co.nz,0.0,0.5994
+w287,18-04-20, NZ, New Zealand Herald,0.048,-0.5442
+w288,18-04-20, NZ, New Zealand Herald,0.083,0.9796
+w290,18-04-20, IN, ...Chronicle (press release) (blog),0.105,-0.9809
+w291,18-04-20, IN, India Today,0.041,0.9952
+w293,18-04-20, MY, The Edge Markets MY,0.032,0.8591
+w294,18-04-20, SG, YourStory.com,0.0,0.8316
+w297,18-04-20, SG, Wisden India,0.024,0.9919
+w298,18-04-20, PH, Manila Bulletin,0.013,0.9986
+w300,18-04-20, GH, Pulse.com.gh,0.126,-0.9862
+w301,18-04-20, KE, Kenya Broadcasting Corporation,0.047,0.6526
+w302,18-04-20, KE, KDRTV Kenya News,0.106,-0.983
+w303,18-04-19, US, New York Times,0.058,0.9896
+w304,18-04-19, US, WIRED,0.092,-0.6478
+w305,18-04-19, CA, CBC.ca,0.034,0.9868
+w308,18-04-19, CA, National Post,0.074,-0.9917
+w311,18-04-19, CA, CBC.ca,0.053,0.8858
+w312,18-04-19, GB, CampaignLive,0.0,0.2732
+w314,18-04-19, IE, Irish Examiner,0.047,0.9692
+w315,18-04-19, IE, Capital.com,0.062,0.9601
+w317,18-04-19, IN, ...Chronicle (press release) (blog),0.063,0.6872
+w319,18-04-19, IN, Times Now,0.033,0.9937
+w320,18-04-19, LK, ReadMe Sri Lanka,0.047,0.9998
+w322,18-04-19, SG, YourStory.com,0.087,-0.5267
+w323,18-04-19, SG, www.MICEtimes.asia (press release),0.076,0.7576
+w326,18-04-19, SG, AsiaOne,0.059,0.8459
+w327,18-04-19, SG, finews.asia,0.032,0.9994
+w328,18-04-19, PH, The Yale Politic,0.057,0.9906
+w329,18-04-19, PH, The Yale Politic,0.046,0.6817
+w333,18-04-19, GH, Pulse.com.gh,0.119,-0.6133
+w334,18-04-19, GH, Myjoyonline.com,0.083,-0.9624
+w336,18-04-18, US, New Republic,0.135,-0.9942
+w337,18-04-18, US, New York Times,0.06,-0.4019
+w338,18-04-18, US, Gizmodo,0.09,0.9632
+w339,18-04-18, CA, Winnipeg Free Press,0.077,0.6651
+w340,18-04-18, GB, EU News,0.042,0.9996
+w341,18-04-18, GB, The Times,0.017,0.9313
+w342,18-04-18, GB, HeraldScotland,0.043,0.9991
+w344,18-04-18, IE, Irish Examiner,0.076,-0.9374
+w345,18-04-18, IE, Interesting Engineering,0.052,0.98
+w346,18-04-18, IE, The Irish Sun,0.131,-0.9929
+w348,18-04-18, IE, RTE.ie,0.064,0.8744
+w349,18-04-18, IE, Screen International,0.026,0.8414
+w350,18-04-18, AU, SBS,0.061,0.8898
+w351,18-04-18, AU, NEWS.com.au,0.073,0.8119
+w352,18-04-18, AU, CNET,0.061,0.9989
+w353,18-04-18, AU, AdNews,0.087,0.9856
+w354,18-04-18, NZ, New Zealand Herald,0.051,-0.705
+w356,18-04-18, NZ, New Zealand Herald,0.065,0.965
+w358,18-04-18, IN, Livemint,0.065,0.9933
+w359,18-04-18, LK, Sri Lanka Guardian,0.09,0.9996
+w361,18-04-18, SG, The News Minute,0.103,-0.9348
+w362,18-04-18, SG, Yahoo Singapore News,0.054,0.8225
+w363,18-04-18, SG, Marketing Interactive,0.048,0.5859
+w365,18-04-18, HK, EJ Insight,0.058,0.3369
+w366,18-04-18, ZA, Moneyweb.co.za,0.041,0.9845
+w367,18-04-18, NG, CHANNELS TELEVISION,0.054,-0.6212
+w368,18-04-18, NG, Osun Defender (blog),0.048,0.9985
+w369,18-04-17, US, The Guardian,0.066,0.9987
+w370,18-04-17, US, The Guardian,0.025,0.7673
+w371,18-04-17, US, The Hill,0.0,0.0
+w372,18-04-17, US, TechCrunch,0.057,-0.8043
+w373,18-04-17, US, New York Daily News,0.068,-0.9089
+w374,18-04-17, US, Hindustan Times,0.065,0.9956
+w375,18-04-17, CA, Globalnews.ca,0.0,0.3818
+w382,18-04-17, GB, Isle of Wight County Press,0.05,0.7298
+w383,18-04-17, GB, BBC News,0.097,-0.9868
+w385,18-04-17, GB, The Times,0.046,0.8807
+w386,18-04-17, GB, HeraldScotland,0.089,-0.9903
+w387,18-04-17, GB, Daily Mail,0.049,-0.25
+w390,18-04-17, IE, Mobile World Live (blog),0.0,0.2732
+w391,18-04-17, IE, Siliconrepublic.com,0.056,0.9965
+w392,18-04-17, AU, The Australian Financial Review,0.065,0.9917
+w393,18-04-17, AU, Yahoo7 News,0.087,-0.8455
+w394,18-04-17, AU, The Australian Financial Review,0.043,0.9945
+w395,18-04-17, AU, The Sydney Morning Herald,0.121,-0.9719
+w397,18-04-17, NZ, New Zealand Herald,0.092,-0.9921
+w398,18-04-17, IN, The Indian Express,0.073,0.9963
+w399,18-04-17, IN, Economic Times,0.039,0.9931
+w400,18-04-17, IN, OpIndia,0.07,0.9741
+w401,18-04-17, IN, Business Insider India,0.088,0.7657
+w402,18-04-17, IN, Livemint,0.034,0.9855
+w405,18-03-16, SG, Yahoo Singapore News,0.025,0.9953
+w406,18-03-15, SG, The New Paper,0.082,-0.8519
+w407,18-03-17, US, The Guardian,0.051,0.9962
+w408,18-03-17, CA, National Post,0.111,-0.9973
+w409,18-03-17, CA, Tolerance.ca,0.056,0.8844
+w410,18-03-17, GB, Varsity Online,0.05,0.802
+w411,18-03-17, GB, BBC News,0.053,-0.7874
+w412,18-03-17, GB, Daily Mail,0.0,0.0
+w413,18-03-17, GB, Varsity Online,0.066,-0.9216
+w414,18-03-17, AU, CNET,0.067,0.9942
+w415,18-03-17, AU, The Sydney Morning Herald,0.058,0.3818
+w417,18-03-17, IN, BloombergQuint,0.064,0.3843
+w418,18-03-17, IN, The Indian Express,0.081,-0.7195
+w420,18-03-17, US, The Guardian,0.073,0.9926
+w421,18-03-17, US, Business Insider,0.066,-0.3129
+w422,18-03-17, US, The Guardian,0.043,0.9893
+w424,18-03-17, US, New York Times,0.036,0.9909
+w425,18-03-17, US, The Guardian,0.069,0.8922
+w426,18-03-17, US, NBCNews.com,0.041,0.9825
+w428,18-03-18, NZ, TVNZ,0.113,-0.9946
+w430,18-03-18, IN, Business Insider India,0.077,0.9925
+w431,18-03-18, IN, BloombergQuint,0.039,0.2693
+w434,18-03-17, US, New York Times,0.068,0.9886
+w435,18-03-17, US, The Guardian,0.042,0.9775
+w436,18-03-17, US, The Mercury News,0.079,-0.9842
+w437,18-03-17, US, Slate Magazine,0.025,0.973
+w439,18-03-17, US, Fast Company,0.084,-0.7818
+w442,18-03-18, CA, CBC.ca,0.116,-0.8712
+w443,18-03-18, CA, Tolerance.ca,0.057,0.8732
+w445,18-03-18, GB, ZAWYA,0.041,0.992
+w446,18-03-18, GB, Daily Mail,0.128,-0.6908
+w447,18-03-18, GB, BBC News,0.116,-0.9663
+w448,18-03-18, GB, The Times,0.022,0.9413
+w449,18-03-18, IE, Irish Times,0.086,0.7717
+w453,18-03-19, NG, Ripples Nigeria,0.082,-0.4737
+w454,18-03-19, GH, Pulse.com.gh,0.087,-0.8633
+w455,18-03-19, GH, Pulse.com.gh,0.095,-0.9423
+w456,18-03-19, JM, Loop Jamaica,0.051,-0.2249
+w457,18-03-18, US, The Guardian,0.071,-0.9791
+w458,18-03-18, US, Daily Beast,0.139,-0.9996
+w460,18-03-18, US, CBS News,0.063,0.0516
+w461,18-03-18, US, CBS News,0.06,0.0516
+w462,18-03-18, US, New York Times,0.081,-0.9764
+w463,18-03-18, US, The Guardian,0.058,0.9688
+w465,18-03-19, MY, The Edge Markets MY,0.05,0.0062
+w466,18-03-19, MY, Malay Mail,0.061,0.926
+w467,18-03-19, SG, Business Insider,0.067,-0.7276
+w468,18-03-19, SG, Yahoo News,0.035,0.6249
+w469,18-03-19, SG, Nation News,0.017,0.5423
+w470,18-03-19, SG, Business Insider,0.071,-0.9418
+w475,18-03-19, NG, TODAY.NG,0.031,0.9852
+w476,18-03-19, NG, CHANNELS TELEVISION,0.058,-0.8389
+w480,18-03-19, IN, BloombergQuint,0.084,0.9984
+w481,18-03-19, IN, The Indian Express,0.066,0.451
+w482,18-03-19, IN, Business Standard,0.052,-0.0258
+w483,18-03-19, IN, Business Insider India,0.075,0.998
+w485,18-03-19, IN, BloombergQuint,0.09,-0.964
+w486,18-03-19, IN, Business Insider India,0.073,0.9863
+w487,18-03-19, IN, BloombergQuint,0.039,0.8437
+w488,18-03-19, IN, BloombergQuint,0.109,-0.914
+w489,18-03-19, IN, Scroll.in,0.027,0.999
+w490,18-03-19, IN, The Citizen (press release),0.041,0.9836
+w491,18-03-19, LK, EconomyNext,0.0,0.0
+w494,18-03-19, MY, The Edge Markets MY,0.075,-0.965
+w496,18-03-19, GB, Daily Research News Online,0.102,-0.0258
+w497,18-03-19, GB, Yahoo Finance UK,0.071,0.9618
+w498,18-03-19, GB, BBC News,0.06,0.7434
+w499,18-03-19, IE, RTE.ie,0.072,-0.9109
+w500,18-03-19, IE, Irish Examiner,0.1,-0.9957
+w502,18-03-19, AU, NEWS.com.au,0.06,-0.9881
+w504,18-03-19, AU, AdNews,0.041,0.9978
+w505,18-03-19, AU, ShareCafe,0.019,0.9941
+w507,18-03-19, AU, The Sydney Morning Herald,0.07,-0.9869
+w508,18-03-19, AU, The Queensland Times,0.086,-0.9947
+w511,18-03-19, AU, SBS,0.075,-0.9797
+w513,18-03-19, US, WIRED,0.04,0.9995
+w514,18-03-19, US, NDTV,0.056,0.9807
+w515,18-03-19, US, The Guardian,0.048,0.9992
+w516,18-03-19, CA, CBC.ca,0.035,0.8999
+w517,18-03-19, CA, Globalnews.ca,0.096,-0.7964
+w518,18-03-19, CA, Globalnews.ca,0.098,-0.5994
+w520,18-03-19, CA, National Post,0.124,-0.9992
+w523,18-03-19, CA, CBC.ca,0.06,0.9087
+w524,18-03-19, GB, The Register,0.138,-0.999
+w525,18-03-19, GB, BBC News,0.072,0.8304
+w526,18-03-19, GB, The Register,0.136,-0.9989
+w528,18-03-19, GB, BBC News,0.07,-0.8525
+w529,18-03-19, GB, Evening Standard,0.039,0.997
+w531,18-03-19, US, VICE News,0.04,0.9778
+w532,18-03-19, US, Slate Magazine,0.031,0.9701
+w533,18-03-19, US, The Guardian,0.129,-0.9867
+w534,18-03-19, US, Ars Technica,0.029,0.9897
+w535,18-03-19, US, The Guardian,0.081,-0.8024
+w536,18-03-19, US, The INQUIRER,0.085,-0.9933
+w537,18-03-19, US, Gizmodo,0.042,0.9564
+w538,18-03-19, US, Business Insider,0.058,-0.9672
+w539,18-03-19, US, Slate Magazine,0.047,0.9144
+w540,18-03-20, SG, The News Minute,0.079,-0.6887
+w541,18-03-20, SG, Business Insider,0.044,0.1962
+w544,18-03-20, SG, The New Paper,0.051,0.8821
+w545,18-03-20, SG, AsiaOne,0.131,-0.9643
+w548,18-03-20, PH, Philippine Star,0.169,-0.6249
+w549,18-03-20, ZA, Moneyweb.co.za,0.042,0.9833
+w550,18-03-20, ZA, eNCA,0.062,-0.921
+w551,18-03-20, NG, Wetinhappen Magazine (blog),0.134,-0.9709
+w552,18-03-20, NG, Pulse Nigeria,0.134,-0.9798
+w553,18-03-20, GH, Pulse.com.gh,0.047,0.6155
+w555,18-03-20, KE, The Standard,0.08,0.8696
+w556,18-03-20, KE, PulseLive Kenya (satire),0.054,0.9382
+w557,18-03-20, KE, PulseLive Kenya (satire),0.072,0.2023
+w559,18-03-19, US, New York Times,0.092,-0.9817
+w560,18-03-19, US, Slate Magazine,0.054,0.9939
+w561,18-03-20, IN, BloombergQuint,0.098,-0.9842
+w563,18-03-20, IN, BloombergQuint,0.082,-0.9682
+w564,18-03-20, IN, BloombergQuint,0.019,0.8225
+w565,18-03-20, IN, Business Today,0.045,0.9862
+w566,18-03-20, IN, BloombergQuint,0.056,-0.5056
+w568,18-03-20, LK, Newsfirst,0.054,-0.25
+w569,18-03-20, LK, The Sunday Times Sri Lanka,0.024,0.9431
+w572,18-03-20, MY, The Edge Markets MY,0.055,-0.6251
+w573,18-03-20, MY, The Edge Markets MY,0.013,0.9744
+w574,18-03-20, MY, Malay Mail,0.018,0.9923
+w575,18-03-20, MY, Malaysiakini,0.079,0.9965
+w576,18-03-20, MY, The Edge Markets MY,0.06,0.9801
+w577,18-03-20, MY, The Edge Markets MY,0.079,0.949
+w578,18-03-20, MY, The Edge Markets MY,0.104,-0.8555
+w580,18-03-20, SG, The New Paper,0.052,0.9781
+w581,18-03-20, SG, Marketing Interactive,0.102,0.5267
+w582,18-03-20, SG, Yahoo Singapore News,0.083,-0.1027
+w583,18-03-20, SG, The Independent,0.044,0.8225
+w584,18-03-20, NZ, The Spinoff,0.05,0.9691
+w586,18-03-20, NZ, New Zealand Herald,0.057,0.996
+w587,18-03-20, NZ, New Zealand Herald,0.062,-0.9727
+w588,18-03-20, IN, BloombergQuint,0.087,-0.9725
+w591,18-03-20, IN, THE WEEK,0.076,-0.8537
+w592,18-03-20, IN, Business Standard,0.065,-0.7654
+w594,18-03-20, IN, BloombergQuint,0.058,0.9913
+w595,18-03-20, IN, BloombergQuint,0.096,0.9607
+w596,18-03-20, IN, Telangana Today,0.094,0.7897
+w597,18-03-20, IN, Scroll.in,0.077,0.9561
+w598,18-03-20, IN, Outlook India,0.093,-0.9913
+w599,18-03-20, IN, News18,0.09,-0.1585
+w602,18-03-20, NZ, Scoop.co.nz (press release),0.024,0.9979
+w606,18-03-20, NZ, Otago Daily Times,0.103,-0.9964
+w607,18-03-20, NZ, New Zealand Herald,0.058,0.9796
+w608,18-03-20, NZ, New Zealand Herald,0.089,-0.4746
+w610,18-03-20, NZ, New Zealand Herald,0.057,0.9878
+w611,18-03-20, NZ, New Zealand Herald,0.126,-0.9984
+w614,18-03-20, AU, The Australian Financial Review,0.027,0.9995
+w617,18-03-20, AU, NEWS.com.au,0.058,-0.8404
+w618,18-03-20, AU, CNET,0.02,0.997
+w619,18-03-20, AU, The Sydney Morning Herald,0.117,-0.9836
+w620,18-03-20, AU, AdNews,0.071,0.9645
+w621,18-03-20, AU, The Sydney Morning Herald,0.028,0.9993
+w622,18-03-20, AU, The Sydney Morning Herald,0.068,0.1962
+w629,18-03-20, AU, SBS,0.066,-0.457
+w630,18-03-20, IE, Siliconrepublic.com,0.099,-0.9566
+w632,18-03-20, IE, Irish Times,0.084,0.8316
+w633,18-03-20, IE, Irish Examiner,0.069,0.9767
+w634,18-03-20, IE, RTE.ie,0.077,-0.9489
+w635,18-03-20, IE, Irish Times,0.084,0.8519
+w636,18-03-20, IE, The Parliament Magazine,0.0,0.0
+w637,18-03-20, IE, PublicTechnology,0.0,0.0
+w638,18-03-20, IE, Evening Echo Cork,0.0,0.0
+w639,18-03-20, IE, Irish Times,0.086,0.7717
+w640,18-03-20, IE, JOE,0.09,-0.8583
+w641,18-03-20, IE, TodayFM,0.048,0.9598
+w642,18-03-20, IE, Irish Examiner,0.043,-0.6875
+w643,18-03-20, IE, Big Issue,0.025,0.9259
+w644,18-03-20, IE, JOE,0.065,0.9704
+w645,18-03-20, IE, PublicTechnology,0.0,0.0
+w646,18-03-20, AU, Yahoo7 News,0.048,-0.6059
+w743,18-03-20, IE, RTE.ie,0.028,0.9955
+w745,18-03-20, IE, RTE.ie,0.069,0.5086
+w757,18-03-20, CA, The London Free Press,0.112,-0.9856
+w760,18-03-20, CA, The Daily Courier,0.057,0.9935
+w761,18-03-20, GB, The Register,0.121,-0.9733
+w762,18-03-20, GB, Telegraph.co.uk,0.106,-0.7318
+w764,18-03-20, GB, Yahoo Finance UK,0.033,0.995
+w765,18-03-20, GB, The Sun,0.135,-0.9931
+w766,18-03-20, GB, Metro Newspaper UK,0.06,-0.8044
+w768,18-03-20, GB, Telegraph.co.uk,0.097,-0.8176
+w769,18-03-20, GB, Evening Standard,0.039,0.9657
+w770,18-03-20, GB, Evening Standard,0.046,0.9977
+w771,18-03-20, GB, Evening Standard,0.056,0.9478
+w772,18-03-20, GB, Evening Standard,0.057,0.9584
+w773,18-03-20, GB, London Loves Business,0.039,0.9948
+w774,18-03-20, GB, Economy,0.044,0.9954
+w775,18-03-20, GB, BBC News,0.041,0.9965
+w776,18-03-20, GB, Alphr,0.044,0.998
+w778,18-03-20, GB, The Register,0.137,-0.9965
+w780,18-03-20, GB, BBC News,0.087,-0.9811
+w787,18-03-20, US, TechCrunch,0.055,0.9892
+w788,18-03-20, US, Gizmodo,0.075,-0.9396
+w789,18-03-20, US, MassLive.com,0.0,0.0
+w790,18-03-20, US, Mother Jones,0.038,0.9972
+w791,18-03-20, US, The Guardian,0.084,0.9474
+w792,18-03-20, CA, National Post,0.119,-0.9984
+w794,18-03-20, CA, National Post,0.122,-0.9965
+w795,18-03-20, CA, BNN,0.082,-0.8411
+w796,18-03-20, CA, CBC.ca,0.0,0.6801
+w798,18-03-20, CA, National Post,0.113,-0.9944
+w799,18-03-20, CA, CBC.ca,0.078,0.4201
+w801,18-03-20, CA, Canada NewsWire (press release),0.006,0.9976
+w805,18-03-20, US, New York Magazine,0.09,0.9553
+w806,18-03-20, US, Chicago Tribune,0.04,0.9311
+w807,18-03-20, US, The Times of Israel,0.135,-0.9999
+w808,18-03-20, US, Engadget,0.045,0.8898
+w809,18-03-20, US, The Guardian,0.069,0.993
+w810,18-03-20, US, The Guardian,0.055,0.9116
+w811,18-03-20, US, Gizmodo,0.077,0.9624
+w812,18-03-20, US, The Guardian,0.131,-0.9845
+w814,18-03-20, US, New York Times,0.068,0.4379
+w815,18-03-20, US, USA TODAY,0.059,0.4516
+w817,18-03-21, KE, The Standard,0.152,-0.9969
+w818,18-03-20, US, Irish Times,0.038,0.9186
+w819,18-03-20, US, The Times of Israel,0.078,-0.9857
+w820,18-03-20, US, Chicago Tribune,0.056,0.5849
+w821,18-03-20, US, Business Insider,0.097,-0.9835
+w822,18-03-20, US, MarketWatch,0.036,-0.0941
+w823,18-03-20, US, Firstpost,0.089,-0.9099
+w825,18-03-20, US, Slate Magazine,0.056,0.969
+w827,18-03-20, US, ABC News,0.081,-0.5192
+w828,18-03-21, NG, Pulse Nigeria,0.048,0.9963
+w829,18-03-21, NG, Pulse Nigeria,0.065,0.0813
+w830,18-03-21, GH, Pulse.com.gh,0.133,-0.9928
+w831,18-03-21, GH, Pulse.com.gh,0.089,-0.7845
+w832,18-03-21, GH, Pulse.com.gh,0.015,0.6416
+w834,18-03-21, GH, Pulse.com.gh,0.076,0.1505
+w836,18-03-21, KE, PulseLive Kenya (satire),0.114,-0.9918
+w838,18-03-21, KE, Kenya Broadcasting Corporation,0.102,-0.9842
+w839,18-03-21, KE, PulseLive Kenya (satire),0.038,0.99
+w840,18-03-21, KE, Capital FM Kenya,0.062,0.9737
+w841,18-03-21, KE, Nairobi News,0.072,0.7531
+w842,18-03-21, KE, Tuko.co.ke,0.113,-0.4954
+w844,18-03-21, KE, The Standard,0.115,-0.99
+w845,18-03-21, KE, The Standard,0.11,-0.9945
+w846,18-03-21, SG, Catch News,0.221,-0.9042
+w847,18-03-21, SG, Catch News,0.0,0.0
+w848,18-03-21, SG, YourStory.com,0.0,0.0
+w853,18-03-21, SG, Business Insider,0.034,0.9693
+w854,18-03-21, SG, Yahoo Singapore News,0.058,0.5863
+w855,18-03-21, SG, Yahoo Singapore News,0.06,0.5863
+w856,18-03-21, PH, CNN Philippines,0.049,-0.7897
+w857,18-03-21, HK, EJ Insight,0.074,-0.443
+w858,18-03-21, HK, Hong Kong Standard (press release),0.0,0.25
+w859,18-03-21, HK, Hong Kong Standard (press release),0.0,0.25
+w860,18-03-21, HK, Hong Kong Standard (press release),0.0,0.25
+w862,18-03-21, ZA, eNCA (satire),0.071,0.9608
+w864,18-03-21, ZA, MyBroadband,0.065,0.9834
+w867,18-03-21, NG, Pulse Nigeria,0.049,0.2129
+w868,18-03-21, NG, Ripples Nigeria,0.086,-0.4717
+w869,18-03-21, NG, Nigeria Today,0.065,-0.4939
+w872,18-03-21, SG, Business Times,0.023,0.9597
+w873,18-03-21, SG, Catch News,0.115,-0.8126
+w874,18-03-21, SG, Yahoo News,0.063,0.6872
+w875,18-03-21, SG, The Independent,0.09,-0.994
+w876,18-03-21, SG, Marketing Interactive,0.059,0.5106
+w877,18-03-21, SG, Business Times,0.16,-0.9952
+w878,18-03-21, SG, Yahoo Singapore News,0.016,0.1154
+w879,18-03-21, SG, Catch News,0.28,-0.9274
+w880,18-03-21, SG, Yahoo News,0.014,0.3612
+w881,18-03-21, SG, Yahoo News,0.092,0.977
+w882,18-03-21, SG, Janta Ka Reporter,0.069,0.9909
+w883,18-03-21, SG, Business Insider,0.027,0.9437
+w884,18-03-21, SG, YourStory.com,0.052,0.9871
+w885,18-03-21, SG, Yahoo News,0.109,-0.8254
+w886,18-03-21, SG, Yahoo News,0.03,0.5267
+w887,18-03-21, SG, YourStory.com,0.058,0.919
+w888,18-03-21, SG, The New Paper,0.04,0.9505
+w889,18-03-21, SG, Business Insider,0.071,-0.836
+w890,18-03-21, SG, Business Insider,0.074,-0.2641
+w891,18-03-21, SG, Catch News,0.126,-0.7351
+w892,18-03-21, SG, Catch News,0.0,0.765
+w896,18-03-21, IN, India Today,0.102,-0.9881
+w897,18-03-21, IN, Livemint,0.081,-0.975
+w898,18-03-21, IN, Livemint,0.062,0.7312
+w899,18-03-21, IN, The Asian Age,0.068,0.9948
+w900,18-03-21, LK, The Sunday Times Sri Lanka,0.084,-0.872
+w901,18-03-21, LK, Newsfirst,0.056,-0.891
+w902,18-03-21, LK, Newsfirst,0.12,-0.9914
+w903,18-03-21, LK, Daily Mirror,0.044,0.9872
+w904,18-03-21, PK, The Express Tribune,0.061,0.9657
+w905,18-03-21, PK, The News International (blog),0.107,-0.9545
+w909,18-03-21, MY, The Edge Markets MY,0.074,-0.933
+w910,18-03-21, MY, Malaysiakini,0.083,-0.9864
+w911,18-03-21, MY, SAYS,0.047,0.9747
+w912,18-03-21, MY, The Edge Markets MY,0.076,0.802
+w913,18-03-21, MY, The Edge Markets MY,0.024,0.1154
+w914,18-03-21, MY, Malaysiakini,0.095,-0.9561
+w915,18-03-21, MY, Malaysiakini,0.084,-0.9853
+w918,18-03-21, MY, New Straits Times Online,0.044,0.9975
+w919,18-03-21, MY, New Straits Times Online,0.037,0.981
+w920,18-03-21, MY, The Edge Markets MY,0.057,0.9015
+w922,18-03-21, SG, Yahoo Singapore News,0.079,-0.9246
+w924,18-03-21, IN, APN Live,0.081,0.9885
+w925,18-03-21, IN, Business Standard,0.0,0.296
+w926,18-03-21, IN, Business Today,0.065,0.977
+w927,18-03-21, IN, News18,0.0,0.0
+w928,18-03-21, IN, Business Standard,0.151,-0.9128
+w930,18-03-21, IN, Devdiscourse,0.066,-0.9287
+w932,18-03-21, IN, Business Standard,0.039,0.9246
+w934,18-03-21, IN, Daily Excelsior,0.035,0.6908
+w935,18-03-21, IN, Telegraph India,0.043,0.0772
+w936,18-03-21, IN, BloombergQuint,0.056,-0.7696
+w938,18-03-21, IN, Firstpost,0.074,0.6232
+w939,18-03-21, IN, NewsX,0.089,0.4276
+w940,18-03-21, IN, BloombergQuint,0.082,0.6231
+w941,18-03-21, IN, ETtech.com,0.036,0.9922
+w942,18-03-21, IN, Business Standard,0.167,-0.9595
+w943,18-03-21, IN, Business Standard,0.147,-0.9169
+w944,18-03-21, IN, News18,0.066,0.9942
+w945,18-03-21, IN, India Today,0.095,-0.9571
+w947,18-03-21, NZ, Scoop.co.nz (press release),0.051,0.9993
+w949,18-03-21, NZ, New Zealand Herald,0.083,-0.9703
+w951,18-03-21, IN, News18,0.15,-0.891
+w952,18-03-21, IN, HuffPost India,0.08,-0.8624
+w953,18-03-21, IN, BloombergQuint,0.126,-0.9922
+w954,18-03-21, IN, BloombergQuint,0.112,-0.992
+w957,18-03-21, IN, The Quint,0.079,0.3818
+w958,18-03-21, IN, Livemint,0.069,0.9922
+w959,18-03-21, IN, India Today,0.099,-0.9773
+w960,18-03-21, IN, Livemint,0.056,0.9875
+w961,18-03-21, IN, BloombergQuint,0.067,-0.9148
+w962,18-03-21, IN, BloombergQuint,0.064,0.9084
+w963,18-03-21, IN, THE WEEK,0.075,0.9156
+w965,18-03-21, IN, BloombergQuint,0.139,-0.9976
+w966,18-03-21, IN, Oneindia,0.063,0.998
+w967,18-03-21, IN, Economic Times,0.076,-0.929
+w970,18-03-21, IE, RTE.ie,0.076,0.9305
+w971,18-03-21, IE, Eye For Travel,0.054,0.9744
+w972,18-03-21, IE, Irish Examiner,0.095,0.9918
+w973,18-03-21, IE, RTE.ie,0.082,0.7813
+w974,18-03-21, AU, The Sydney Morning Herald,0.013,0.9967
+w975,18-03-21, AU, Tone Deaf,0.048,0.9957
+w976,18-03-21, AU, NEWS.com.au,0.084,0.9892
+w978,18-03-21, AU, ShareCafe,0.043,0.9972
+w979,18-03-21, AU, AdNews,0.075,0.929
+w980,18-03-21, AU, The Australian Financial Review,0.059,0.9787
+w981,18-03-21, AU, iTnews,0.097,0.7938
+w982,18-03-21, AU, The Sydney Morning Herald,0.097,0.3411
+w985,18-03-21, AU, Yahoo7 News,0.027,0.6124
+w986,18-03-21, AU, NEWS.com.au,0.184,-0.9998
+w987,18-03-21, AU, Coolum News,0.082,0.9701
+w988,18-03-21, AU, The Sydney Morning Herald,0.051,0.9971
+w989,18-03-21, AU, Yahoo7 News,0.088,-0.9437
+w990,18-03-21, AU, The Australian Financial Review,0.044,0.8481
+w992,18-03-21, NZ, The National Business Review,0.0,0.4854
+w994,18-03-21, GB, BBC News,0.08,-0.9533
+w995,18-03-21, GB, The Sun,0.124,-0.9896
+w996,18-03-21, GB, BBC News,0.035,0.7431
+w997,18-03-21, GB, BBC News,0.074,-0.991
+w1000,18-03-21, GB, Verdict,0.011,0.9538
+w1001,18-03-21, GB, CampaignLive,0.0,0.2732
+w1002,18-03-21, GB, Telegraph.co.uk,0.108,-0.9169
+w1003,18-03-21, GB, Daily Mail,0.058,-0.3818
+w1008,18-03-21, IE, Irish Examiner,0.1,-0.985
+w1009,18-03-21, IE, Mobile World Live,0.0,0.2732
+w1010,18-03-21, IE, The Irish Sun,0.134,-0.996
+w1011,18-03-21, IE, RTE.ie,0.09,-0.989
+w1013,18-03-21, IE, TodayFM,0.06,0.9874
+w1014,18-03-21, IE, The Irish Sun,0.145,-0.9937
+w1015,18-03-21, IE, Entertainment.ie,0.07,0.9179
+w1018,18-03-21, CA, CBC.ca,0.037,0.3804
+w1019,18-03-21, CA, CanIndia News,0.03,-0.7964
+w1022,18-03-21, CA, Globalnews.ca,0.103,-0.8779
+w1023,18-03-21, CA, Globalnews.ca,0.132,-0.872
+w1024,18-03-21, CA, Globalnews.ca,0.018,0.128
+w1026,18-03-21, CA, CBC.ca,0.091,-0.1796
+w1027,18-03-21, CA, insauga.com,0.072,0.9727
+w1029,18-03-21, CA, Globalnews.ca,0.104,-0.4019
+w1030,18-03-21, CA, CBC.ca,0.048,0.4754
+w1031,18-03-21, GB, Yahoo Finance UK,0.091,0.943
+w1032,18-03-21, GB, The Times,0.023,0.9022
+w1033,18-03-21, GB, The Times,0.013,0.9885
+w1034,18-03-21, GB, The Times,0.087,-0.7003
+w1035,18-03-21, GB, Yahoo Finance UK,0.057,0.9859
+w1037,18-03-21, GB, Telegraph.co.uk,0.106,-0.8934
+w1039,18-03-21, US, USA TODAY,0.061,0.9295
+w1040,18-03-21, US, The Mercury News,0.06,0.9915
+w1041,18-03-21, US, Slate Magazine,0.06,0.9989
+w1042,18-03-21, US, TechCrunch,0.058,-0.8338
+w1043,18-03-21, US, Axios,0.041,0.9787
+w1044,18-03-21, US, TNW,0.012,0.743
+w1045,18-03-21, US, Ars Technica,0.055,0.9855
+w1046,18-03-21, US, CNET,0.063,0.9967
+w1047,18-03-21, US, Business Insider,0.051,0.9985
+w1048,18-03-21, US, The Guardian,0.114,0.9724
+w1049,18-03-21, US, The Guardian,0.067,0.9478
+w1050,18-03-21, US, MarketWatch,0.064,0.9481
+w1051,18-03-21, US, The Guardian,0.091,0.9713
+w1052,18-03-21, CA, CBC.ca,0.074,-0.5868
+w1053,18-03-21, CA, CBC.ca,0.058,0.4576
+w1055,18-03-21, US, New York Times,0.07,-0.6978
+w1056,18-03-21, US, CBS News,0.108,-0.3182
+w1057,18-03-21, US, New York Times,0.054,0.9995
+w1058,18-03-21, US, Irish Times,0.065,0.93
+w1059,18-03-21, US, New York Times,0.075,0.9946
+w1060,18-03-21, US, RT,0.107,-0.4341
+w1061,18-03-21, US, The New Yorker,0.077,0.5152
+w1062,18-03-21, US, The Times of Israel,0.113,-0.9996
+w1063,18-03-21, US, The Guardian (blog),0.082,-0.9899
+w1065,18-03-21, US, The Guardian,0.119,0.974
+w1066,18-03-21, US, The Guardian,0.056,0.9967
+w1067,18-03-21, US, The Guardian,0.031,0.9737
+w1068,18-03-21, US, The Guardian,0.07,0.7624
+w1073,18-03-22, SG, Yahoo Singapore News,0.05,0.7983
+w1074,18-03-22, SG, www.MICEtimes.asia (press release),0.079,0.7513
+w1075,18-03-22, SG, The New Paper,0.068,0.8871
+w1076,18-03-22, SG, Catch News,0.0,0.0
+w1077,18-03-22, HK, EJ Insight,0.08,-0.4614
+w1079,18-03-22, ZA, Memeburn,0.069,0.9777
+w1080,18-03-22, ZA, DestinyConnect,0.046,0.9927
+w1081,18-03-22, NG, Pulse Nigeria,0.069,0.9583
+w1082,18-03-22, NG, Pulse Nigeria,0.08,-0.9362
+w1083,18-03-22, NG, Pulse Nigeria,0.065,0.9978
+w1084,18-03-22, NG, TODAY.NG,0.061,-0.4595
+w1085,18-03-22, NG, Pulse Nigeria,0.046,0.9959
+w1086,18-03-22, NG, Concise News,0.04,0.9876
+w1087,18-03-22, NG, BellaNaija,0.059,0.9948
+w1089,18-03-22, GH, Pulse.com.gh,0.095,-0.1254
+w1090,18-03-22, GH, Myjoyonline.com,0.072,0.9986
+w1091,18-03-22, KE, Kenya Broadcasting Corporation,0.054,0.9989
+w1094,18-03-22, KE, PulseLive Kenya (satire),0.055,0.9888
+w1096,18-03-22, SG, The News Minute,0.043,0.9896
+w1097,18-03-22, SG, CMC Markets,0.068,0.9598
+w1098,18-03-22, SG, Yahoo Singapore News,0.024,0.9861
+w1099,18-03-22, SG, YourStory.com,0.038,0.9989
+w1101,18-03-22, SG, Catch News,0.093,-0.5859
+w1102,18-03-22, SG, Marketing Interactive,0.063,0.5106
+w1104,18-03-22, SG, Marketing Interactive,0.147,-0.1531
+w1106,18-03-22, SG, Business Insider,0.05,-0.0711
+w1107,18-03-22, SG, AsiaOne,0.068,-0.7427
+w1108,18-03-22, SG, Yahoo Singapore News,0.0,0.0
+w1109,18-03-22, SG, The Independent,0.066,0.907
+w1110,18-03-22, SG, Yahoo News,0.041,-0.5267
+w1111,18-03-22, SG, Yahoo Singapore News,0.016,0.9749
+w1115,18-03-22, SG, The Independent,0.046,0.0825
+w1116,18-03-22, SG, The News Minute,0.097,-0.2404
+w1117,18-03-22, SG, The News Minute,0.05,0.9947
+w1118,18-03-22, SG, Catch News,0.0,0.891
+w1119,18-03-22, SG, YourStory.com,0.0,0.7351
+w1120,18-03-22, SG, Catch News,0.0,0.6808
+w1121,18-03-22, IN, Oneindia,0.011,0.9853
+w1122,18-03-22, IN, The Quint,0.067,0.3182
+w1125,18-03-22, IN, Economic Times,0.08,-0.324
+w1126,18-03-22, IN, Economic Times,0.034,0.999
+w1127,18-03-22, IN, Livemint,0.065,0.804
+w1128,18-03-22, LK, The Sunday Times Sri Lanka,0.046,0.9456
+w1129,18-03-22, LK, Sri Lanka Guardian,0.069,0.999
+w1130,18-03-22, LK, Daily Mirror,0.123,-0.9974
+w1134,18-03-22, BD, bdnews24.com,0.09,-0.6361
+w1135,18-03-22, MY, The Edge Markets MY,0.053,0.9947
+w1136,18-03-22, MY, The Edge Markets MY,0.033,0.6249
+w1138,18-03-22, MY, Malay Mail,0.108,0.9289
+w1139,18-03-22, MY, Malay Mail,0.06,0.984
+w1140,18-03-22, MY, The Edge Markets MY,0.017,0.2617
+w1141,18-03-22, MY, Malay Mail,0.12,-0.9955
+w1142,18-03-22, MY, Malay Mail,0.098,-0.9445
+w1143,18-03-22, MY, The Edge Markets MY,0.023,0.4767
+w1145,18-03-22, SG, YourStory.com,0.097,-0.5267
+w1146,18-03-22, NZ, Scoop.co.nz (press release),0.094,0.9993
+w1147,18-03-22, IN, Business Standard,0.133,-0.9137
+w1148,18-03-22, IN, Firstpost,0.075,0.5627
+w1150,18-03-22, IN, Morung Express,0.023,0.9946
+w1151,18-03-22, IN, News18,0.116,-0.8271
+w1152,18-03-22, IN, The Mobile Indian,0.043,0.992
+w1153,18-03-22, IN, Analytics India Magazine,0.033,0.8187
+w1154,18-03-22, IN, India Today,0.184,-0.9983
+w1157,18-03-22, IN, Trak.in (blog),0.07,-0.128
+w1158,18-03-22, IN, Economic Times,0.035,0.9978
+w1159,18-03-22, IN, The Quint,0.066,0.7579
+w1161,18-03-22, IN, Business Insider India,0.071,0.9983
+w1163,18-03-22, IN, Business Standard,0.048,-0.3612
+w1164,18-03-22, IN, BloombergQuint,0.057,0.9944
+w1165,18-03-22, IN, Business Insider India,0.091,0.9929
+w1166,18-03-22, IN, Business Standard,0.145,-0.7964
+w1169,18-03-22, IN, BloombergQuint,0.049,0.9962
+w1170,18-03-22, IN, India Today,0.093,-0.9042
+w1172,18-03-22, IE, Evening Echo Cork,0.0,0.0
+w1173,18-03-22, AU, The Sydney Morning Herald,0.055,0.9984
+w1177,18-03-22, AU, The Sydney Morning Herald,0.062,0.9916
+w1178,18-03-22, AU, CNET,0.089,-0.9521
+w1179,18-03-22, AU, The Sydney Morning Herald,0.056,0.993
+w1180,18-03-22, AU, The Sydney Morning Herald,0.071,0.998
+w1181,18-03-22, NZ, New Zealand Herald,0.068,0.995
+w1184,18-03-22, NZ, New Zealand Herald,0.085,0.9919
+w1185,18-03-22, NZ, Otago Daily Times,0.104,-0.9923
+w1186,18-03-22, US, Slate Magazine,0.093,-0.9922
+w1187,18-03-22, US, ABC News,0.083,0.4547
+w1188,18-03-22, US, The Guardian,0.041,0.9948
+w1189,18-03-22, US, ScienceAlert,0.029,0.9942
+w1190,18-03-22, US, The Guardian,0.057,0.9982
+w1191,18-03-22, US, The Times of Israel,0.101,-0.9993
+w1192,18-03-22, CA, North Shore News,0.096,0.8337
+w1200,18-03-22, CA, Prince George Citizen,0.092,0.9983
+w1201,18-03-22, CA, CBC.ca,0.072,0.2484
+w1202,18-03-22, GB, The National,0.059,0.9989
+w1204,18-03-22, GB, ...ty of Manchester (press release),0.025,0.9871
+w1205,18-03-22, GB, Evening Standard,0.063,0.7688
+w1206,18-03-22, GB, Evening Standard,0.065,0.9981
+w1208,18-03-22, GB, Verdict,0.02,0.9468
+w1209,18-03-22, GB, BBC News,0.053,0.9507
+w1210,18-03-22, GB, ITV News,0.09,0.9397
+w1211,18-03-22, IE, Irish Examiner,0.068,0.7197
+w1212,18-03-22, IE, Her.ie,0.053,0.9936
+w1214,18-03-22, IE, The Bookseller,0.092,-0.981
+w1215,18-03-22, IE, RTE.ie,0.045,0.989
+w1217,18-03-23, ZA, Citizen,0.054,-0.5859
+w1218,18-03-23, NG, TODAY.NG,0.051,0.9651
+w1219,18-03-23, NG, Concise News,0.07,0.9595
+w1221,18-03-23, NG, Pulse Nigeria,0.052,0.3703
+w1222,18-03-23, NG, Concise News,0.033,0.886
+w1224,18-03-23, GH, Pulse.com.gh,0.118,-0.9948
+w1225,18-03-23, GH, Citifmonline,0.0,0.0
+w1226,18-03-23, GH, Pulse.com.gh,0.063,0.9517
+w1227,18-03-23, GH, Pulse.com.gh,0.067,-0.8074
+w1230,18-03-23, KE, Capital FM Kenya,0.081,0.9907
+w1232,18-03-22, US, CBS News,0.057,0.7184
+w1233,18-03-22, US, TPM,0.052,0.9582
+w1234,18-03-22, US, Mother Jones,0.059,0.9951
+w1235,18-03-22, US, euronews,0.07,0.7184
+w1236,18-03-22, US, The Guardian,0.09,-0.9866
+w1237,18-03-22, US, The Guardian (blog),0.062,-0.3553
+w1239,18-03-22, US, The Guardian,0.076,-0.98
+w1240,18-03-22, US, AL.com,0.0,0.0
+w1241,18-03-22, US, BuzzFeed News,0.108,-0.9932
+w1242,18-03-22, US, Firstpost,0.074,-0.2158
+w1243,18-03-22, US, Business Insider,0.076,0.9587
+w1244,18-03-22, US, The Week Magazine,0.106,-0.9555
+w1247,18-03-23, IN, Business Standard,0.088,-0.3378
+w1248,18-03-23, IN, THE WEEK,0.053,0.802
+w1249,18-03-23, IN, Livemint,0.036,0.9877
+w1255,18-03-23, MY, Malay Mail,0.1,-0.9325
+w1256,18-03-23, MY, Malay Mail,0.072,0.7379
+w1257,18-03-23, MY, The Edge Markets MY,0.086,-0.9032
+w1258,18-03-23, MY, Daily Express,0.067,-0.7416
+w1263,18-03-23, SG, Catch News,0.0,0.0
+w1264,18-03-23, SG, Techgoondu,0.071,0.9903
+w1265,18-03-23, SG, Business Insider,0.07,0.5682
+w1266,18-03-23, SG, Yahoo Singapore News,0.048,0.8957
+w1267,18-03-23, SG, Yahoo News,0.091,-0.8074
+w1269,18-03-23, SG, YourStory.com,0.029,0.9857
+w1271,18-03-23, SG, The Independent,0.12,0.9214
+w1272,18-03-23, SG, Janta Ka Reporter,0.039,0.9866
+w1273,18-03-23, SG, Yahoo News,0.078,0.9763
+w1274,18-03-23, SG, YourStory.com,0.037,0.4588
+w1275,18-03-23, SG, Catch News,0.0,0.9081
+w1280,18-03-23, AU, The Sydney Morning Herald,0.138,-0.997
+w1281,18-03-23, AU, The Australian Financial Review,0.061,0.9923
+w1283,18-03-23, NZ, New Zealand Herald,0.062,0.9959
+w1284,18-03-23, NZ, New Zealand Herald,0.043,0.705
+w1285,18-03-23, NZ, TVNZ,0.107,-0.9951
+w1286,18-03-23, IN, News18,0.057,-0.4939
+w1288,18-03-23, IN, Firstpost,0.076,-0.5158
+w1289,18-03-23, IN, The Asian Age,0.087,-0.7594
+w1291,18-03-23, IN, The Citizen (press release),0.035,0.9911
+w1292,18-03-23, IN, ETAuto.com,0.037,0.9979
+w1294,18-03-23, IN, Business Standard,0.147,-0.9169
+w1295,18-03-23, IN, Outlook India,0.056,0.8272
+w1296,18-03-23, IN, The Quint,0.103,-0.4404
+w1298,18-03-23, GB, Daily Mail,0.0,0.0
+w1299,18-03-23, GB, BBC News,0.081,-0.9888
+w1300,18-03-23, GB, BBC News,0.098,-0.9814
+w1303,18-03-23, GB, Computer Business Review,0.066,0.9863
+w1304,18-03-23, GB, Computer Business Review,0.073,0.9823
+w1305,18-03-23, GB, Evening Standard,0.077,0.9896
+w1308,18-03-23, IE, Ethical Corporation Magazine,0.07,0.9954
+w1309,18-03-23, IE, MinuteHack (blog),0.057,0.9952
+w1311,18-03-23, AU, The Sydney Morning Herald,0.109,0.9271
+w1312,18-03-23, AU, NEWS.com.au,0.12,-0.9917
+w1313,18-03-23, AU, The Australian Financial Review,0.039,0.9633
+w1314,18-03-23, AU, Brisbane Times,0.05,0.9672
+w1315,18-03-23, AU, The Australian Financial Review,0.052,0.9983
+w1316,18-03-23, AU, Shepparton News,0.03,0.9989
+w1318,18-03-23, AU, CNET,0.042,0.9789
+w1319,18-03-23, AU, Yahoo7 News,0.103,-0.9634
+w1321,18-03-24, NG, Ripples Nigeria,0.051,0.7634
+w1323,18-03-24, KE, The Standard,0.091,0.9788
+w1324,18-03-23, US, Irish Times,0.023,0.9844
+w1325,18-03-23, US, Arkansas Online,0.044,0.7003
+w1326,18-03-23, US, The Guardian,0.043,0.9966
+w1328,18-03-23, US, Tampabay.com,0.035,0.9874
+w1329,18-03-23, US, The Guardian,0.081,0.9771
+w1330,18-03-23, US, New York Times,0.071,-0.6399
+w1331,18-03-23, US, Slate Magazine,0.073,-0.8921
+w1332,18-03-23, CA, ETCanada.com,0.088,-0.9365
+w1333,18-03-23, CA, TheChronicleHerald.ca,0.055,0.9298
+w1334,18-03-23, CA, CBC.ca,0.071,0.9134
+w1336,18-03-23, CA, Straight.com,0.033,0.9992
+w1337,18-03-23, CA, CBC.ca,0.017,0.8622
+w1339,18-03-23, GB, Pocket-lint.com,0.017,0.9997
+w1340,18-03-23, GB, BBC News,0.078,0.8967
+w1341,18-03-23, GB, The National,0.079,0.7746
+w1342,18-03-23, GB, Telegraph.co.uk,0.122,-0.9571
+w1343,18-03-23, GB, HeraldScotland,0.043,0.2846
+w1346,18-03-24, IN, India Today,0.133,-0.9217
+w1347,18-03-24, IN, The Hans India,0.07,0.6606
+w1348,18-03-24, IN, Livemint,0.064,0.9278
+w1349,18-03-24, IN, India Today,0.059,0.071
+w1350,18-03-24, IN, THE WEEK,0.087,-0.9452
+w1351,18-03-24, IN, India Today,0.092,-0.9526
+w1354,18-03-24, IN, Scroll.in,0.088,0.9758
+w1355,18-03-24, IN, Gadgets Now,0.022,0.9864
+w1356,18-03-24, LK, Hiru News,0.083,0.4767
+w1360,18-03-24, BD, bdnews24.com,0.095,-0.6908
+w1361,18-03-24, MY, Malaysiakini,0.01,0.9924
+w1364,18-03-24, MY, Malay Mail,0.057,0.2105
+w1365,18-03-24, SG, AsiaOne,0.057,0.9965
+w1366,18-03-24, SG, Yahoo News,0.067,0.3278
+w1367,18-03-24, SG, Catch News,0.071,-0.3818
+w1368,18-03-24, SG, YourStory.com,0.032,0.955
+w1370,18-03-24, SG, Catch News,0.0,0.7003
+w1371,18-03-24, PH, ABS-CBN News,0.065,-0.7076
+w1372,18-03-24, ZA, Rising Sun Chatsworth,0.083,0.9178
+w1373,18-03-24, ZA, MyBroadband,0.07,0.9757
+w1376,18-03-24, NG, Concise News,0.12,-0.9852
+w1379,18-03-24, NG, ...essAMLive (press release) (blog),0.123,-0.9621
+w1380,18-03-24, NG, Daily Post Nigeria,0.131,0.9415
+w1384,18-03-24, AU, Brisbane Times,0.072,0.7036
+w1385,18-03-24, AU, NEWS.com.au,0.055,0.9685
+w1386,18-03-24, AU, SBS,0.09,-0.802
+w1388,18-03-24, AU, The Australian Financial Review,0.07,-0.6932
+w1392,18-03-24, NZ, New Zealand Herald,0.061,0.998
+w1393,18-03-24, NZ, New Zealand Herald,0.087,0.998
+w1394,18-03-24, NZ, New Zealand Herald,0.085,0.9926
+w1396,18-03-24, NZ, Yahoo News,0.053,0.6302
+w1397,18-03-24, NZ, New Zealand Herald,0.051,-0.4175
+w1398,18-03-24, IN, India Today,0.11,-0.9526
+w1400,18-03-24, IN, Telangana Today,0.044,0.9993
+w1401,18-03-24, IN, Economic Times,0.054,0.9984
+w1402,18-03-24, IN, Economic Times,0.072,0.9965
+w1403,18-03-24, IN, Techook.com,0.038,0.9994
+w1405,18-03-24, IN, News18,0.215,-0.9477
+w1406,18-03-24, IN, Livemint,0.173,-0.9839
+w1408,18-03-24, IN, India Today,0.151,-0.9808
+w1409,18-03-24, IN, Livemint,0.095,-0.9429
+w1410,18-03-24, IN, Business Standard,0.184,-0.9738
+w1411,18-03-24, IN, Scroll.in,0.059,0.9983
+w1413,18-03-24, US, Irish Times,0.023,0.9788
+w1414,18-03-24, US, The Guardian,0.114,-0.9956
+w1415,18-03-24, US, Aljazeera.com,0.05,-0.7013
+w1416,18-03-24, US, NBCNews.com,0.053,0.9978
+w1417,18-03-24, CA, CBC.ca,0.08,0.9684
+w1419,18-03-24, CA, Straight.com,0.039,0.996
+w1420,18-03-24, CA, CBC.ca,0.092,-0.8836
+w1421,18-03-24, CA, CBC.ca,0.05,0.5994
+w1422,18-03-24, CA, CanIndia News,0.055,0.2732
+w1423,18-03-24, CA, CBC.ca,0.139,-0.9371
+w1424,18-03-24, CA, Globalnews.ca,0.034,0.765
+w1426,18-03-24, GB, kmmsam,0.061,0.9947
+w1428,18-03-24, GB, The Sun,0.131,-0.989
+w1429,18-03-24, GB, BBC News,0.1,-0.9858
+w1430,18-03-24, GB, The Times,0.017,0.9623
+w1431,18-03-24, GB, HeraldScotland,0.045,0.9985
+w1432,18-03-24, GB, HeraldScotland,0.106,-0.998
+w1433,18-03-24, GB, HeraldScotland,0.079,0.4838
+w1434,18-03-24, GB, HeraldScotland,0.115,-0.9737
+w1435,18-03-24, GB, HeraldScotland,0.064,-0.8819
+w1436,18-03-24, GB, HeraldScotland,0.09,-0.2114
+w1438,18-03-25, SG, Yahoo Singapore News,0.062,0.5812
+w1440,18-03-25, PH, Sun.Star,0.044,0.8081
+w1441,18-03-25, ZA, eNCA,0.074,-0.818
+w1442,18-03-25, NG, CHANNELS TELEVISION,0.059,0.0121
+w1443,18-03-25, NG, Pulse Nigeria,0.046,0.9447
+w1445,18-03-25, NG, Nigeria Today,0.0,0.0
+w1446,18-03-25, NG, TODAY.NG,0.062,0.2875
+w1448,18-03-25, GH, Pulse.com.gh,0.048,-0.6629
+w1449,18-03-25, GH, Pulse.com.gh,0.069,0.6587
+w1450,18-03-25, GH, Pulse.com.gh,0.067,0.8885
+w1451,18-03-25, GH, Citifmonline,0.161,-0.1531
+w1454,18-03-24, US, The Guardian,0.053,0.998
+w1455,18-03-24, US, UPI.com,0.08,0.9381
+w1456,18-03-24, US, KTVQ Billings News,0.0,0.0
+w1457,18-03-24, US, NDTV,0.011,0.8885
+w1458,18-03-24, US, Irish Times,0.066,0.8658
+w1459,18-03-24, US, The Guardian,0.06,0.8313
+w1460,18-03-24, US, Beckley Register-Herald,0.064,0.998
+w1461,18-03-25, IN, The Asian Age,0.036,0.9933
+w1462,18-03-25, IN, Digit,0.054,0.9938
+w1463,18-03-25, IN, Moneycontrol.com,0.0,0.765
+w1466,18-03-25, IN, Devdiscourse,0.058,-0.7065
+w1467,18-03-25, IN, The Quint,0.082,-0.1779
+w1468,18-03-25, IN, Business Today,0.051,0.9895
+w1469,18-03-25, IN, APN Live,0.075,-0.2322
+w1470,18-03-25, IN, BloombergQuint,0.079,-0.7575
+w1471,18-03-25, IN, http://www.newsgram.com/,0.062,0.9995
+w1472,18-03-25, IN, Scroll.in,0.107,0.9839
+w1473,18-03-25, IN, The Indian Express,0.047,0.9979
+w1474,18-03-25, IN, Telegraph India,0.097,-0.4767
+w1476,18-03-25, IN, Livemint,0.063,0.9901
+w1477,18-03-25, IN, The Asian Age,0.068,0.8939
+w1479,18-03-25, IN, The Asian Age,0.062,0.9973
+w1480,18-03-25, IN, The Asian Age,0.07,0.9967
+w1481,18-03-25, LK, Daily Mirror,0.07,0.7931
+w1482,18-03-25, MY, The Edge Markets MY,0.006,0.9468
+w1483,18-03-25, MY, The Edge Markets MY,0.054,-0.9024
+w1484,18-03-25, MY, Malay Mail,0.014,0.9606
+w1485,18-03-25, MY, The Edge Markets MY,0.069,0.0708
+w1487,18-03-25, MY, Lowyat.NET (blog),0.07,-0.7209
+w1492,18-03-25, SG, Business Insider,0.067,0.453
+w1497,18-03-25, NZ, Interest.co.nz,0.0,0.5994
+w1498,18-03-25, NZ, Indian NewsLink,0.063,0.9563
+w1499,18-03-25, NZ, Otago Daily Times,0.104,-0.7422
+w1500,18-03-25, NZ, New Zealand Herald,0.089,0.978
+w1501,18-03-25, IN, Economic Times,0.043,0.9986
+w1502,18-03-25, IN, Scroll.in,0.103,-0.8272
+w1503,18-03-25, IN, The Indian Express,0.027,0.9995
+w1504,18-03-25, IN, Morung Express,0.05,0.993
+w1505,18-03-25, IN, Oneindia,0.055,0.9795
+w1508,18-03-26, NG, TODAY.NG,0.022,0.9879
+w1509,18-03-26, GH, Pulse.com.gh,0.089,-0.9194
+w1511,18-03-26, KE, Capital FM Kenya,0.067,-0.9232
+w1512,18-03-25, US, NDTV,0.063,-0.5441
+w1513,18-03-25, US, Gizmodo,0.11,-0.9556
+w1514,18-03-25, US, The Spokesman-Review,0.101,0.7361
+w1515,18-03-25, US, Ars Technica,0.064,-0.8481
+w1516,18-03-25, US, The Guardian,0.032,0.9841
+w1517,18-03-25, US, NBCNews.com,0.028,0.9881
+w1518,18-03-25, US, MarketWatch,0.059,0.8768
+w1519,18-03-25, US, The Guardian,0.081,-0.8046
+w1520,18-03-25, CA, National Post,0.129,-0.9975
+w1522,18-03-25, CA, Globalnews.ca,0.147,-0.8779
+w1523,18-03-25, CA, Globalnews.ca,0.122,-0.9653
+w1525,18-03-25, CA, CanIndia News,0.08,-0.2711
+w1528,18-03-25, CA, Straight.com,0.04,0.9911
+w1529,18-03-25, GB, Telegraph.co.uk,0.075,-0.7038
+w1530,18-03-25, GB, BBC News,0.102,-0.9949
+w1531,18-03-25, GB, Metro Newspaper UK,0.07,-0.7824
+w1534,18-03-25, GB, BBC News,0.106,-0.9886
+w1535,18-03-25, GB, Yahoo Finance UK,0.036,0.9325
+w1536,18-03-25, GB, The Times,0.034,0.9136
+w1537,18-03-25, GB, The Times,0.022,0.9531
+w1539,18-03-25, IE, JOE,0.062,0.9719
+w1540,18-03-25, IE, The Irish Sun,0.107,-0.9512
+w1541,18-03-25, IE, Irish Examiner,0.058,0.9623
+w1543,18-03-25, AU, The Australian Financial Review,0.115,-0.9149
+w1544,18-03-25, AU, The Australian Financial Review,0.082,0.9921
+w1545,18-03-25, AU, iTnews,0.105,-0.5719
+w1550,18-03-26, MY, The Edge Markets MY,0.051,0.9974
+w1552,18-03-26, MY, Aliran,0.082,0.9991
+w1553,18-03-26, SG, YourStory.com,0.006,0.9932
+w1556,18-03-26, SG, AsiaOne,0.027,0.8848
+w1557,18-03-26, SG, Yahoo Singapore News,0.055,0.4019
+w1559,18-03-26, SG, Business Insider,0.076,-0.9194
+w1560,18-03-26, SG, YourStory.com,0.011,0.8779
+w1561,18-03-26, SG, Catch News,0.0,0.0
+w1562,18-03-26, SG, Catch News,0.062,-0.1531
+w1563,18-03-26, SG, Janta Ka Reporter,0.053,0.975
+w1564,18-03-26, SG, YourStory.com,0.033,0.9935
+w1565,18-03-26, SG, Catch News,0.107,-0.1027
+w1566,18-03-26, SG, The News Minute,0.037,0.0475
+w1567,18-03-26, SG, The News Minute,0.035,0.8507
+w1568,18-03-26, SG, Catch News,0.144,-0.8225
+w1569,18-03-26, SG, YourStory.com,0.0,0.25
+w1571,18-03-26, SG, Janta Ka Reporter,0.049,0.9912
+w1576,18-03-26, ZA, Moneyweb.co.za,0.047,0.9809
+w1578,18-03-26, ZA, Moneyweb.co.za,0.028,0.989
+w1581,18-03-26, NG, CHANNELS TELEVISION,0.116,-0.9544
+w1582,18-03-26, NG, CHANNELS TELEVISION,0.06,-0.9249
+w1583,18-03-26, NG, Ripples Nigeria,0.104,-0.9829
+w1584,18-03-26, NG, Pulse Nigeria,0.052,0.4645
+w1586,18-03-26, NG, Daily Post Nigeria,0.051,0.9533
+w1587,18-03-26, NG, NAIJA.NG,0.12,-0.8316
+w1588,18-03-26, NG, TODAY.NG,0.044,0.9449
+w1592,18-03-26, IN, ...for Defence Studies and Analyses,0.041,0.9968
+w1593,18-03-26, IN, Business Standard,0.055,-0.743
+w1594,18-03-26, IN, Gadgets Now,0.029,0.9393
+w1595,18-03-26, IN, Digit,0.015,0.9955
+w1596,18-03-26, IN, BloombergQuint,0.037,0.8928
+w1598,18-03-26, IN, Livemint,0.045,0.9439
+w1599,18-03-26, IN, BloombergQuint,0.084,0.9891
+w1601,18-03-26, IN, BloombergQuint,0.048,0.9624
+w1602,18-03-26, IN, BloombergQuint,0.075,0.9872
+w1603,18-03-26, IN, BloombergQuint,0.043,0.4404
+w1604,18-03-26, IN, BloombergQuint,0.084,-0.922
+w1607,18-03-26, IN, The Asian Age,0.088,-0.8634
+w1608,18-03-26, IN, Livemint,0.043,0.9805
+w1609,18-03-26, IN, Business Standard,0.088,-0.3378
+w1612,18-03-26, IN, The Indian Express,0.073,0.9808
+w1613,18-03-26, IN, Outlook India,0.05,0.9914
+w1614,18-03-26, IN, Business Standard,0.076,0.5386
+w1615,18-03-26, IN, India Today,0.043,0.8409
+w1617,18-03-26, IN, Livemint,0.04,0.9984
+w1619,18-03-26, IN, Business Standard,0.0,0.296
+w1620,18-03-26, IN, Business Standard,0.128,-0.6597
+w1622,18-03-26, LK, Sri Lanka Guardian,0.038,0.9991
+w1626,18-03-26, AU, Livewire Markets,0.045,0.9807
+w1627,18-03-26, AU, ABC Online,0.123,-0.9941
+w1628,18-03-26, NZ, Newsroom,0.102,-0.9637
+w1629,18-03-26, NZ, New Zealand Herald,0.068,0.9581
+w1630,18-03-26, NZ, New Zealand Herald,0.055,0.9516
+w1631,18-03-26, NZ, New Zealand Herald,0.063,-0.3071
+w1633,18-03-26, NZ, The Spinoff,0.052,0.9991
+w1634,18-03-26, NZ, New Zealand Herald,0.07,0.9909
+w1635,18-03-26, US, New York Times,0.081,-0.971
+w1636,18-03-26, US, New York Times,0.097,-0.979
+w1637,18-03-26, CA, Globalnews.ca,0.018,0.5106
+w1638,18-03-26, CA, CBC.ca,0.033,0.9738
+w1639,18-03-26, CA, National Post,0.126,-0.9966
+w1640,18-03-26, CA, Winnipeg Free Press,0.038,0.9927
+w1642,18-03-26, CA, CanIndia News,0.07,0.9006
+w1643,18-03-26, CA, CanIndia News,0.053,0.9042
+w1644,18-03-26, CA, Globalnews.ca,0.082,-0.81
+w1646,18-03-26, CA, CBC.ca,0.033,0.2716
+w1647,18-03-26, CA, BNN,0.074,-0.8573
+w1648,18-03-26, CA, Globalnews.ca,0.039,0.7506
+w1649,18-03-26, GB, The New European,0.103,0.9849
+w1650,18-03-26, GB, Yahoo News UK,0.086,-0.9645
+w1651,18-03-26, GB, The Register,0.128,-0.9981
+w1652,18-03-26, GB, Telegraph.co.uk,0.178,-0.9915
+w1654,18-03-26, IE, RTE.ie,0.061,0.7269
+w1655,18-03-26, IE, Irish Examiner,0.063,0.9799
+w1656,18-03-26, IE, TelecomTV,0.082,0.9373
+w1657,18-03-26, AU, Yahoo7 News,0.055,0.9974
+w1658,18-03-26, AU, The Australian Financial Review,0.038,0.9776
+w1659,18-03-26, AU, Yahoo7 News,0.059,0.4019
+w1662,18-03-27, KE, The Standard,0.108,0.9851
+w1663,18-03-27, KE, Tuko.co.ke,0.148,-0.9767
+w1664,18-03-27, KE, Capital FM Kenya,0.047,0.9485
+w1665,18-03-27, KE, Nairobi News,0.122,-0.9817
+w1666,18-03-27, KE, The Standard,0.119,-0.9803
+w1668,18-03-26, US, Mother Jones,0.045,0.9495
+w1669,18-03-26, US, Engadget,0.086,-0.9294
+w1670,18-03-26, US, Chicago Tribune,0.083,-0.9744
+w1671,18-03-26, US, Daily Beast,0.033,0.6808
+w1672,18-03-26, US, ABC News,0.142,-0.9977
+w1673,18-03-26, US, New York Times,0.0,0.6369
+w1674,18-03-26, US, Slate Magazine,0.036,0.9994
+w1675,18-03-26, US, Business Insider,0.038,0.9983
+w1676,18-03-26, US, Fox News,0.099,-0.0072
+w1677,18-03-26, US, New York Daily News,0.061,0.9675
+w1679,18-03-27, NG, THISDAY Newspapers,0.107,-0.9967
+w1680,18-03-27, NG, TODAY.NG,0.073,0.9802
+w1681,18-03-27, NG, THISDAY Newspapers,0.045,0.9906
+w1683,18-03-27, NG, Wetinhappen Magazine (blog),0.058,0.7413
+w1685,18-03-27, GH, Pulse.com.gh,0.061,-0.7489
+w1687,18-03-27, GH, Pulse.com.gh,0.1,-0.9445
+w1688,18-03-27, IN, Business Standard,0.078,0.4449
+w1689,18-03-27, IN, Livemint,0.054,0.9987
+w1690,18-03-27, IN, Livemint,0.071,0.9981
+w1691,18-03-27, IN, The Quint,0.106,-0.128
+w1692,18-03-27, IN, Economic Times,0.054,0.9907
+w1693,18-03-27, IN, The Quint,0.089,-0.1027
+w1694,18-03-27, IN, The Asian Age,0.061,0.9753
+w1696,18-03-27, IN, Scroll.in,0.071,0.98
+w1697,18-03-27, IN, News18,0.049,-0.296
+w1698,18-03-27, IN, Livemint,0.056,0.9629
+w1699,18-03-27, PK, The Express Tribune,0.046,0.9227
+w1700,18-03-27, MY, The Edge Markets MY,0.036,0.9117
+w1701,18-03-27, MY, The Edge Markets MY,0.049,0.1531
+w1702,18-03-27, MY, New Straits Times Online,0.051,0.9944
+w1704,18-03-27, SG, Catch News,0.0,0.0
+w1705,18-03-27, SG, The News Minute,0.081,0.5378
+w1706,18-03-27, SG, The News Minute,0.058,-0.8748
+w1707,18-03-27, SG, Business Insider,0.134,-0.9976
+w1708,18-03-27, SG, YourStory.com,0.016,0.9747
+w1710,18-03-27, PH, Sun.Star,0.018,0.9546
+w1711,18-03-27, HK, Hong Kong Standard (press release),0.0,0.25
+w1717,18-03-27, NZ, New Zealand Herald,0.124,-0.9995
+w1718,18-03-27, NZ, The Spinoff,0.054,0.9982
+w1719,18-03-27, IN, ETBrandEquity.com (blog),0.055,0.9977
+w1720,18-03-27, IN, News18,0.098,-0.7351
+w1721,18-03-27, IN, Scroll.in,0.087,0.7685
+w1722,18-03-27, IN, Economic Times,0.066,0.9971
+w1724,18-03-27, IN, Business Standard,0.0,0.0772
+w1725,18-03-27, IN, India Today,0.07,-0.1932
+w1727,18-03-27, IN, The Asian Age,0.077,0.94
+w1729,18-03-27, CA, CBC.ca,0.074,0.1263
+w1731,18-03-27, GB, BBC News,0.076,0.228
+w1732,18-03-27, GB, Yahoo Finance UK,0.043,0.9541
+w1733,18-03-27, GB, Evening Standard,0.06,0.9968
+w1734,18-03-27, GB, BBC News,0.109,-0.9935
+w1735,18-03-27, GB, Evening Standard,0.108,-0.997
+w1736,18-03-27, GB, Telegraph.co.uk,0.079,0.9618
+w1738,18-03-27, GB, Design Week,0.059,0.9955
+w1741,18-03-27, GB, The National,0.086,-0.9928
+w1743,18-03-27, IE, The Bookseller,0.082,-0.9734
+w1744,18-03-27, IE, RTE.ie,0.072,0.961
+w1745,18-03-27, AU, The Australian Financial Review,0.061,0.9888
+w1746,18-03-27, AU, NEWS.com.au,0.061,-0.8845
+w1750,18-03-27, AU, SBS,0.106,-0.9779
+w1752,18-03-27, AU, CNET,0.105,-0.9468
+w1753,18-03-27, AU, The Sydney Morning Herald,0.072,0.9884
+w1754,18-03-27, AU, The Sydney Morning Herald,0.107,-0.9932
+w1756,18-03-27, AU, PC Authority,0.066,0.9661
+w1757,18-03-27, AU, MuMbrella,0.049,0.9982
+w1758,18-03-27, AU, Gizmodo Australia,0.08,-0.7106
+w1759,18-03-28, ZA, ITWeb,0.041,0.4337
+w1760,18-03-28, NG, NAIJA.NG,0.106,-0.9451
+w1761,18-03-28, NG, Pulse Nigeria,0.027,0.967
+w1762,18-03-28, NG, Pulse Nigeria,0.038,-0.3759
+w1764,18-03-28, NG, ...t Nigeria (press release) (blog),0.077,-0.952
+w1765,18-03-28, NG, Guardian (blog),0.082,0.781
+w1767,18-03-28, GH, Pulse.com.gh,0.031,0.2263
+w1768,18-03-28, GH, Pulse.com.gh,0.068,0.9993
+w1770,18-03-28, GH, Pulse.com.gh,0.041,0.8607
+w1771,18-03-28, JM, Loop Jamaica,0.081,-0.9799
+w1772,18-03-27, US, The American Prospect,0.065,0.9976
+w1773,18-03-27, US, Chicago Tribune,0.087,-0.3277
+w1774,18-03-27, US, The Times of Israel,0.083,-0.9993
+w1775,18-03-27, US, BuzzFeed News,0.022,0.9586
+w1776,18-03-27, US, MarketWatch,0.066,-0.8779
+w1777,18-03-27, US, MarketWatch,0.062,0.8941
+w1779,18-03-27, CA, VICE,0.042,0.9987
+w1781,18-03-27, CA, 570 News,0.044,0.9969
+w1784,18-03-27, CA, Business in Vancouver,0.042,0.9977
+w1786,18-03-28, IN, Economic Times,0.055,0.9713
+w1787,18-03-28, IN, DailyO,0.079,0.5817
+w1790,18-03-28, IN, News18,0.028,-0.2023
+w1791,18-03-28, IN, Livemint,0.019,0.9868
+w1792,18-03-28, IN, The Hans India,0.047,0.7184
+w1793,18-03-28, IN, Business Insider India,0.082,0.9624
+w1794,18-03-28, IN, Economic Times,0.077,0.8833
+w1795,18-03-28, IN, Livemint,0.039,0.9974
+w1799,18-03-28, MY, The Edge Markets MY,0.038,0.8957
+w1800,18-03-28, MY, New Straits Times Online,0.029,0.1298
+w1801,18-03-28, SG, Yahoo News,0.056,0.961
+w1802,18-03-28, SG, The New Paper,0.064,0.4404
+w1803,18-03-28, SG, The News Minute,0.039,0.1406
+w1804,18-03-28, SG, YourStory.com,0.026,0.9964
+w1805,18-03-28, SG, The News Minute,0.027,0.9941
+w1806,18-03-28, SG, Business Insider,0.036,0.8749
+w1807,18-03-28, SG, YourStory.com,0.02,0.9979
+w1808,18-03-28, SG, AsiaOne,0.083,-0.0516
+w1809,18-03-28, SG, Marketing Interactive,0.0,0.7351
+w1810,18-03-28, SG, Catch News,0.0,0.0
+w1811,18-03-28, SG, Janta Ka Reporter,0.093,-0.9591
+w1813,18-03-28, PH, CNN Philippines,0.036,0.8968
+w1814,18-03-28, PH, Philippine Star,0.062,0.9578
+w1816,18-03-28, ZA, Memeburn,0.043,0.9923
+w1817,18-03-28, ZA, eNCA,0.058,-0.0711
+w1818,18-03-28, ZA, eNCA,0.058,-0.0711
+w1819,18-03-28, ZA, Inside Education,0.073,0.9726
+w1822,18-03-28, AU, AdNews,0.043,0.9821
+w1823,18-03-28, AU, The Australian Financial Review,0.054,0.9847
+w1824,18-03-28, AU, CNET,0.063,0.465
+w1826,18-03-28, AU, The Sydney Morning Herald,0.085,0.9809
+w1827,18-03-28, NZ, New Zealand Herald,0.119,0.9728
+w1828,18-03-28, NZ, Indian NewsLink,0.111,-0.5347
+w1829,18-03-28, NZ, New Zealand Herald,0.067,0.825
+w1830,18-03-28, NZ, New Zealand Herald,0.025,0.9036
+w1831,18-03-28, NZ, Scoop.co.nz (press release),0.075,-0.8283
+w1832,18-03-28, IN, Gadgets Now,0.059,-0.128
+w1833,18-03-28, IN, Entrackr (satire),0.029,0.9911
+w1836,18-03-28, IN, Economic Times,0.043,0.9854
+w1838,18-03-28, IN, India Today,0.05,0.5499
+w1840,18-03-28, IN, Livemint,0.064,-0.1587
+w1842,18-03-28, IN, India Today,0.049,0.9936
+w1843,18-03-28, IN, Free Press Journal,0.094,-0.9578
+w1844,18-03-28, IN, Livemint,0.038,0.9977
+w1845,18-03-28, IN, Business Standard,0.0,0.296
+w1846,18-03-28, IN, The Asian Age,0.041,0.9632
+w1849,18-03-28, US, The Guardian (blog),0.103,0.9809
+w1850,18-03-28, US, The Mercury News,0.062,-0.8308
+w1851,18-03-28, US, wnep.com,0.077,0.8101
+w1852,18-03-28, US, USA TODAY,0.061,0.4289
+w1853,18-03-28, US, Fortune,0.058,0.9962
+w1854,18-03-28, US, 6abc.com,0.06,0.7579
+w1855,18-03-28, US, New York Times,0.0,0.0
+w1856,18-03-28, US, CBS News,0.059,0.0516
+w1857,18-03-28, US, New York Times,0.033,0.9954
+w1858,18-03-28, US, The Nation.,0.098,-0.9925
+w1859,18-03-28, CA, CBC.ca,0.048,-0.1045
+w1860,18-03-28, CA, CTV News,0.018,0.8885
+w1861,18-03-28, CA, CBC.ca,0.042,0.4391
+w1862,18-03-28, CA, CBC.ca,0.066,0.517
+w1863,18-03-28, CA, CBC.ca,0.11,-0.5589
+w1865,18-03-28, CA, TheTyee.ca,0.0,0.6369
+w1866,18-03-28, CA, National Post,0.114,-0.9964
+w1867,18-03-28, GB, The National,0.044,0.9575
+w1868,18-03-28, GB, IT PRO,0.0,0.34
+w1869,18-03-28, GB, The Register,0.137,-0.9994
+w1870,18-03-28, GB, www.computing.co.uk,0.068,0.9383
+w1871,18-03-28, GB, Evening Standard,0.069,0.9688
+w1872,18-03-28, GB, ...ty of Manchester (press release),0.059,0.9973
+w1873,18-03-28, GB, Evening Standard,0.023,0.9961
+w1875,18-03-28, GB, The Register,0.145,-0.9955
+w1876,18-03-28, IE, Capital.com,0.077,0.9927
+w1878,18-03-28, IE, Waterford Today,0.031,0.9979
+w1879,18-03-28, AU, Pursuit,0.056,0.9997
+w1880,18-03-28, AU, NEWS.com.au,0.04,0.653
+w1881,18-03-28, AU, Yahoo7 News,0.061,-0.3575
+w1882,18-03-29, IN, Business Standard,0.124,-0.7713
+w1883,18-03-29, IN, Economic Times,0.054,0.9918
+w1885,18-03-29, PK, The Express Tribune,0.039,0.9028
+w1890,18-03-29, MY, The Edge Markets MY,0.046,0.9306
+w1893,18-03-29, MY, Malay Mail,0.07,-0.9052
+w1894,18-03-29, MY, Malay Mail,0.04,-0.7173
+w1895,18-03-29, MY, The Edge Markets MY,0.073,-0.9522
+w1896,18-03-29, MY, Malay Mail,0.049,0.8934
+w1900,18-03-29, SG, Billionaire BLLNR | Singapore,0.051,0.9975
+w1901,18-03-29, SG, Yahoo News,0.042,0.3612
+w1902,18-03-29, SG, YourStory.com,0.117,-0.6705
+w1903,18-03-29, SG, Yahoo Singapore News,0.021,0.9991
+w1904,18-03-29, SG, Yahoo News,0.042,0.9933
+w1905,18-03-29, SG, YourStory.com,0.0,0.0
+w1908,18-03-29, SG, The Independent,0.097,0.9873
+w1909,18-03-29, HK, Hong Kong Standard (press release),0.0,0.25
+w1910,18-03-29, ZA, ITWeb,0.065,-0.3679
+w1911,18-03-29, ZA, Media Update,0.033,0.9993
+w1912,18-03-29, ZA, Alberton Record.,0.057,0.9983
+w1913,18-03-29, NG, Pulse Nigeria,0.074,-0.9368
+w1914,18-03-29, GH, Pulse.com.gh,0.109,-0.9783
+w1915,18-03-29, KE, SDE Entertainment News,0.057,0.9944
+w1916,18-03-29, KE, ...ess Daily (press release) (blog),0.065,0.7506
+w1918,18-03-28, US, The Guardian,0.029,0.8822
+w1919,18-03-28, US, ABC News,0.064,0.9681
+w1926,18-03-29, GB, TechRadar,0.0,0.7096
+w1927,18-03-29, GB, CNET,0.094,-0.2374
+w1928,18-03-29, IE, The Irish Sun,0.115,-0.9906
+w1931,18-03-29, IE, RTE.ie,0.023,0.8313
+w1932,18-03-29, IE, Ethical Corporation Magazine,0.058,0.9971
+w1933,18-03-29, IE, Irish Examiner,0.092,-0.7247
+w1934,18-03-29, AU, The Sydney Morning Herald,0.073,0.6121
+w1935,18-03-29, AU, CNET,0.101,-0.6808
+w1936,18-03-29, AU, NEWS.com.au,0.06,0.9757
+w1938,18-03-29, AU, The Sydney Morning Herald,0.069,0.9946
+w1940,18-03-29, AU, BIT,0.051,0.9953
+w1941,18-03-29, IN, BloombergQuint,0.017,0.9891
+w1943,18-03-29, IN, Economic Times,0.075,0.9936
+w1944,18-03-29, IN, VCCircle,0.0,0.8834
+w1945,18-03-29, IN, DailyO,0.056,0.8341
+w1947,18-03-29, IN, BloombergQuint,0.018,0.9777
+w1951,18-03-29, IN, Livemint,0.069,0.9403
+w1953,18-03-30, IN, Scroll.in,0.121,-0.9982
+w1955,18-03-30, IN, Scroll.in,0.038,0.9995
+w1956,18-03-30, IN, MediaNama.com,0.0,0.2023
+w1957,18-03-30, IN, Business Today,0.033,0.9989
+w1958,18-03-30, IN, Daily Pioneer,0.0,0.0
+w1959,18-03-30, IN, Business Insider India,0.128,-0.994
+w1960,18-03-30, IN, The Asian Age,0.044,0.9958
+w1962,18-03-30, MY, Malaysiakini,0.095,-0.9929
+w1963,18-03-30, SG, The News Minute,0.051,-0.2076
+w1964,18-03-30, SG, Catch News,0.276,-0.9274
+w1965,18-03-30, SG, The News Minute,0.039,0.2185
+w1971,18-03-30, NG, Ripples Nigeria,0.051,0.9464
+w1975,18-03-30, KE, SDE Entertainment News,0.033,0.9921
+w1976,18-03-30, KE, Kenya Broadcasting Corporation,0.049,0.9156
+w1978,18-03-29, US, Times Higher Education (THE),0.069,0.9826
+w1979,18-03-29, US, The Guardian,0.074,0.979
+w1980,18-03-29, US, Dallas Observer,0.048,0.9972
+w1981,18-03-29, US, The Guardian (blog),0.062,0.9853
+w1982,18-03-29, US, Engadget,0.029,0.9684
+w1983,18-03-29, US, Slate Magazine,0.033,0.9877
+w1984,18-03-29, CA, ...ctive Investors USA & Canada,0.051,0.9925
+w1986,18-03-29, CA, CBC.ca,0.039,0.9061
+w1987,18-03-31, IN, The Indian Express,0.081,0.9979
+w1988,18-03-31, IN, The Indian Express,0.038,0.9993
+w1989,18-03-31, IN, Economic Times,0.075,0.9974
+w1990,18-03-31, IN, Scroll.in,0.117,0.7709
+w1991,18-03-31, IN, India Today,0.081,-0.8978
+w1992,18-03-31, IN, THE WEEK,0.086,-0.9699
+w1993,18-03-31, IN, Economic Times,0.054,0.999
+w1994,18-03-31, IN, Economic Times,0.12,-0.9748
+w1996,18-03-31, IN, Scroll.in,0.043,0.8787
+w1998,18-03-31, SG, The Sunday Guardian,0.06,0.985
+w2000,18-03-30, US, Brookings Institution (blog),0.123,-0.9961
+w2001,18-03-30, US, WIRED,0.087,0.9923
+w2003,18-03-30, CA, CanIndia News,0.058,-0.8519
+w2004,18-03-30, GB, Worcester News,0.077,0.9713
+w2005,18-03-30, GB, The New European,0.066,0.9991
+w2006,18-03-30, GB, The Argus,0.076,0.9959
+w2007,18-03-30, GB, Daily Mail,0.083,-0.5719
+w2008,18-03-30, GB, The Times,0.029,0.5574
+w2009,18-03-30, GB, GamesRadar,0.164,-0.5719
+w2010,18-03-30, GB, The Register,0.18,-0.9993
+w2011,18-03-30, GB, Daily Mail,0.0,0.0
+w2012,18-03-30, GB, BBC News,0.041,0.9999
+w2016,18-03-30, IE, Siliconrepublic.com,0.078,0.9942
+w2017,18-03-30, IE, Evening Echo Cork,0.0,0.6486
+w2018,18-03-30, AU, NEWS.com.au,0.09,-0.9865
+w2019,18-03-30, AU, NEWS.com.au,0.072,-0.3555
+w2020,18-03-30, AU, NEWS.com.au,0.103,-0.9787
+w2021,18-03-30, AU, CNET,0.068,0.9962
+w2022,18-03-30, AU, SBS,0.142,-0.9881
+w2023,18-03-30, AU, Brisbane Times,0.054,0.9972
+w2024,18-03-30, AU, CNET,0.072,-0.8514
+w2025,18-03-30, AU, The Australian Financial Review,0.164,-0.9772
+w2027,18-03-30, NZ, New Zealand Herald,0.029,0.9977
+w2028,18-03-30, NZ, New Zealand Herald,0.071,-0.6938
+w2029,18-04-01, CA, CBC.ca,0.108,-0.9014
+w2030,18-04-01, CA, Yahoo News,0.038,0.6816
+w2031,18-04-01, CA, News1130,0.089,0.8976
+w2032,18-04-01, CA, CBC.ca,0.064,0.5709
+w2033,18-04-01, GB, HeraldScotland,0.13,0.9874
+w2035,18-04-01, IE, The Irish Sun,0.127,-0.995
+w2037,18-04-01, AU, NEWS.com.au,0.127,-0.9155
+w2038,18-04-01, NZ, New Zealand Herald,0.079,-0.9059
+w2039,18-04-01, NZ, New Zealand Herald,0.021,0.9944
+w2040,18-04-01, NZ, Interest.co.nz,0.0,0.5994
+w2041,18-04-01, IN, Economic Times,0.05,0.9862
+w2044,18-04-01, IN, Business Insider India,0.113,-0.9982
+w2046,18-04-01, IN, HuffPost India,0.06,0.998
+w2047,18-04-01, IN, Business Standard,0.117,-0.8555
+w2049,18-04-01, MY, The Edge Markets MY,0.066,-0.9442
+w2051,18-04-01, NG, Wetinhappen Magazine (blog),0.073,-0.0997
+w2052,18-04-01, NG, Nigeria Today,0.0,0.0
+w2053,18-04-01, NG, TODAY.NG,0.043,0.9861
+w2054,18-04-01, NG, NAIJA.NG,0.12,-0.8126
+w2055,18-04-01, NG, Daily Post Nigeria,0.045,0.3013
+w2056,18-04-01, NG, Concise News,0.072,-0.7115
+w2057,18-03-31, US, Duke Chronicle,0.074,0.7661
+w2058,18-03-31, US, Chicago Daily Herald,0.0,0.4939
+w2059,18-03-31, US, Aljazeera.com,0.089,-0.9883
+w2060,18-03-31, CA, CBC.ca,0.0,0.933
+w2061,18-03-31, CA, National Post,0.129,-0.9945
+w2062,18-03-31, CA, Globalnews.ca,0.127,-0.9701
+w2063,18-03-31, CA, CBC.ca,0.14,-0.9478
+w2064,18-03-31, CA, Winnipeg Free Press,0.043,0.9915
+w2065,18-03-31, GB, Cherwell Online,0.061,0.8726
+w2066,18-03-31, GB, Telegraph.co.uk,0.118,-0.8298
+w2067,18-03-31, GB, Telegraph.co.uk,0.161,-0.9875
+w2070,18-04-02, NZ, Indian NewsLink,0.045,0.9996
+w2073,18-04-02, MY, Malay Mail,0.05,0.8542
+w2075,18-04-02, MY, Malay Mail,0.04,-0.6705
+w2076,18-04-02, MY, The Edge Markets MY,0.04,0.9998
+w2077,18-04-02, MY, Malay Mail,0.122,-0.9722
+w2078,18-04-02, SG, YourStory.com,0.05,-0.0772
+w2081,18-04-02, SG, YourStory.com,0.0,0.4215
+w2083,18-04-02, SG, Business Insider,0.032,-0.0387
+w2084,18-04-02, PH, CNN Philippines,0.051,0.8912
+w2086,18-04-02, ZA, eNCA,0.066,-0.6808
+w2087,18-04-02, ZA, Citizen,0.047,0.6597
+w2088,18-04-02, NG, Wetinhappen Magazine (blog),0.091,-0.9979
+w2090,18-04-02, NG, Concise News,0.055,-0.3222
+w2092,18-04-02, NG, TODAY.NG,0.049,0.8552
+w2094,18-04-02, NG, Ripples Nigeria,0.055,0.7444
+w2095,18-04-02, KE, Nairobi News,0.105,0.9824
+w2096,18-04-01, CA, Globalnews.ca,0.0,0.7506
+w2101,18-04-03, SG, YourStory.com,0.034,0.999
+w2102,18-04-03, SG, YourStory.com,0.196,-0.9042
+w2104,18-04-03, ZA, Memeburn,0.056,0.9985
+w2105,18-04-03, NG, Osun Defender (blog),0.052,0.9282
+w2107,18-04-03, GH, Pulse.com.gh,0.081,0.0745
+w2109,18-04-02, US, MarketWatch,0.034,0.999
+w2110,18-04-02, US, New York Times,0.044,-0.2263
+w2111,18-04-02, US, Bloomberg,0.067,-0.7269
+w2112,18-04-02, US, NBCNews.com,0.167,-0.9962
+w2113,18-04-02, US, New York Daily News,0.027,0.9977
+w2114,18-04-02, US, MarketWatch,0.061,0.9844
+w2115,18-04-02, US, Fox News,0.088,0.956
+w2117,18-04-02, CA, Belleville Intelligencer,0.0,0.6369
+w2118,18-04-02, CA, FYI Music News,0.07,0.9962
+w2120,18-04-02, CA, Dataconomy,0.072,0.987
+w2121,18-04-02, CA, National Post,0.086,0.9742
+w2123,18-04-02, GB, Yahoo News UK,0.062,-0.8903
+w2124,18-04-02, GB, BBC News,0.093,-0.9329
+w2126,18-04-02, IE, Irish Examiner,0.064,0.7648
+w2127,18-04-02, AU, The Australian Financial Review,0.122,-0.8853
+w2128,18-04-02, AU, The Australian Financial Review,0.126,-0.9912
+w2129,18-04-02, AU, The Sydney Morning Herald,0.043,-0.9081
+w2131,18-04-02, AU, NEWS.com.au,0.087,-0.6439
+w2132,18-04-02, NZ, New Zealand Herald,0.078,-0.7867
+w2135,18-04-04, ZA, eNCA,0.071,0.9549
+w2136,18-04-04, ZA, News24,0.0,0.4588
+w2137,18-04-04, ZA, HuffPost South Africa,0.053,0.9196
+w2139,18-04-04, NG, TODAY.NG,0.091,-0.0056
+w2141,18-04-04, NG, Pulse Nigeria,0.1,-0.9919
+w2142,18-04-04, NG, THISDAY Newspapers,0.096,-0.9441
+w2143,18-04-04, NG, Pulse Nigeria,0.031,0.9108
+w2145,18-04-04, NG, Nigerian Entertainment Today,0.04,0.9907
+w2147,18-04-04, GH, Pulse.com.gh,0.064,0.4489
+w2148,18-04-04, GH, Pulse.com.gh,0.046,0.3182
+w2149,18-04-04, KE, ...ess Daily (press release) (blog),0.062,-0.469
+w2150,18-04-04, JM, Loop Jamaica,0.102,-0.9966
+w2151,18-04-04, JM, Loop Jamaica,0.108,-0.9945
+w2154,18-04-03, US, NBCNews.com,0.098,0.9949
+w2155,18-04-03, US, USA TODAY,0.091,0.708
+w2156,18-04-03, US, Irish Times,0.109,0.3818
+w2157,18-04-03, US, Co.Design (blog),0.035,0.9989
+w2159,18-04-03, GB, The Register,0.122,-0.9923
+w2160,18-04-03, GB, Yahoo News UK,0.054,0.9895
+w2162,18-04-03, AU, The Australian Financial Review,0.076,0.9998
+w2163,18-04-03, AU, The Sydney Morning Herald,0.102,-0.2725
+w2164,18-04-03, AU, The Sydney Morning Herald,0.096,-0.9699
+w2165,18-04-03, IN, Business Today,0.089,0.7519
+w2167,18-04-04, NZ, New Zealand Herald,0.13,-0.9966
+w2169,18-04-04, IN, The Indian Express,0.05,0.7279
+w2170,18-04-04, IN, India Today,0.056,0.9927
+w2171,18-04-04, IN, India Today,0.056,-0.7424
+w2172,18-04-04, IN, India Today,0.053,-0.7469
+w2173,18-04-04, IN, VCCircle,0.0,0.743
+w2174,18-04-04, IN, Scroll.in,0.074,0.9977
+w2176,18-04-04, IN, Scroll.in,0.078,0.9525
+w2178,18-04-04, IN, Fortune India,0.062,0.9476
+w2180,18-04-04, IN, BloombergQuint,0.076,-0.934
+w2181,18-04-04, PK, The News International (blog),0.07,-0.7579
+w2183,18-04-04, PK, The Express Tribune,0.104,0.9926
+w2187,18-04-04, MY, New Straits Times Online,0.032,0.2532
+w2188,18-04-04, MY, The Edge Markets MY,0.044,-0.4754
+w2189,18-04-04, MY, Malay Mail,0.057,-0.5789
+w2192,18-04-04, SG, The New Paper,0.045,0.983
+w2195,18-04-04, SG, Yahoo News,0.054,0.8808
+w2196,18-04-04, SG, The Independent,0.05,0.8572
+w2197,18-04-04, SG, Yahoo Singapore News,0.014,0.8891
+w2198,18-04-04, HK, Hong Kong Standard (press release),0.0,0.25
+w2199,18-04-04, ZA, eNCA,0.063,-0.9132
+w2202,18-04-04, IE, The Parliament Magazine,0.0,0.0
+w2203,18-04-04, IE, RTE.ie,0.025,0.9979
+w2205,18-04-04, IE, Interesting Engineering,0.067,0.931
+w2206,18-04-04, IE, Irish Examiner,0.111,-0.9245
+w2209,18-04-04, IE, RTE.ie,0.055,0.9928
+w2212,18-04-04, AU, iTnews,0.086,0.8481
+w2213,18-04-04, AU, The Australian Financial Review,0.032,0.9877
+w2214,18-04-04, AU, NEWS.com.au,0.044,0.9385
+w2215,18-04-04, AU, The Sydney Morning Herald,0.099,0.9881
+w2218,18-04-04, AU, CRN Australia,0.085,0.9529
+w2222,18-04-04, AU, AdNews,0.049,0.9258
+w2223,18-04-04, NZ, New Zealand Herald,0.059,-0.8574
+w2225,18-04-04, NZ, New Zealand Herald,0.056,0.9383
+w2226,18-04-05, KE, Kenya Broadcasting Corporation,0.088,-0.999
+w2227,18-04-04, US, CNET,0.047,0.9939
+w2228,18-04-04, US, The Guardian,0.029,0.9961
+w2229,18-04-04, US, The Times of Israel,0.167,-0.9999
+w2230,18-04-04, US, The Guardian,0.032,0.9024
+w2231,18-04-04, US, New York Times,0.058,-0.4019
+w2232,18-04-04, US, Gizmodo,0.053,0.7318
+w2233,18-04-04, US, New York Times,0.046,0.9538
+w2235,18-04-04, US, TNW,0.012,0.743
+w2237,18-04-04, CA, Globalnews.ca,0.0,0.3818
+w2240,18-04-04, CA, VICE News,0.038,0.8294
+w2243,18-04-04, CA, CBC.ca,0.034,0.8647
+w2244,18-04-04, CA, News1130,0.077,0.8649
+w2246,18-04-04, CA, Straight.com,0.041,0.9942
+w2247,18-04-04, GB, ITV News,0.071,-0.9359
+w2249,18-04-04, GB, CNET,0.047,0.9318
+w2252,18-04-04, GB, Metro Newspaper UK,0.067,0.7231
+w2253,18-04-04, GB, Evening Standard,0.052,0.9884
+w2255,18-04-05, SG, Marketing Interactive,0.091,0.4019
+w2256,18-04-05, SG, Catch News,0.0,0.0
+w2258,18-04-05, SG, Yahoo News,0.033,0.991
+w2259,18-04-05, SG, The Independent,0.074,0.8047
+w2260,18-04-05, SG, Business Insider,0.037,0.9937
+w2261,18-04-05, SG, YourStory.com,0.0,0.0
+w2263,18-04-05, SG, Catch News,0.0,0.7351
+w2264,18-04-05, PH, CNN Philippines,0.046,-0.8271
+w2265,18-04-05, HK, Hong Kong Standard (press release),0.0,0.25
+w2269,18-04-05, NG, Pulse Nigeria,0.135,-0.9963
+w2272,18-04-05, NG, Lagos (press release),0.041,0.994
+w2273,18-04-05, GH, Pulse.com.gh,0.04,0.5719
+w2274,18-04-05, GH, Pulse.com.gh,0.021,0.9892
+w2275,18-04-05, GH, Myjoyonline.com,0.105,-0.9943
+w2276,18-04-05, GH, Pulse.com.gh,0.027,0.9842
+w2280,18-04-05, IE, The Irish Sun,0.143,-0.9964
+w2281,18-04-05, IE, Mobile World Live,0.0,0.2732
+w2282,18-04-05, IE, Evening Echo Cork,0.0,0.6705
+w2283,18-04-05, AU, NEWS.com.au,0.13,-0.9863
+w2284,18-04-05, AU, NEWS.com.au,0.078,0.9195
+w2286,18-04-05, AU, Yahoo7 News,0.034,0.9058
+w2288,18-04-05, NZ, New Zealand Herald,0.067,-0.4019
+w2290,18-04-05, IN, News18,0.052,0.6808
+w2292,18-04-05, IN, Business Standard,0.0,0.296
+w2294,18-04-05, IN, Gadgets Now,0.058,0.9722
+w2297,18-04-05, IN, BloombergQuint,0.07,-0.25
+w2298,18-04-05, IN, Business Insider India,0.09,0.9934
+w2299,18-04-05, IN, ETtech.com,0.022,0.9918
+w2300,18-04-05, IN, PCMag India,0.048,0.552
+w2301,18-04-05, IN, Business Standard,0.033,0.7351
+w2302,18-04-05, IN, India Today,0.052,-0.8286
+w2305,18-04-05, MY, The Edge Markets MY,0.07,0.4889
+w2306,18-04-05, MY, The Edge Markets MY,0.042,0.5316
+w2307,18-04-05, MY, SAYS,0.02,0.9969
+w2308,18-04-05, MY, Aliran,0.071,0.9994
+w2311,18-04-05, US, Quartz,0.053,0.9661
+w2312,18-04-05, US, WLS-TV,0.062,0.6249
+w2313,18-04-05, US, NPR,0.039,0.9964
+w2314,18-04-05, US, BuzzFeed News,0.063,0.9784
+w2315,18-04-05, US, Slate Magazine,0.099,0.8704
+w2316,18-04-05, US, Slate Magazine,0.018,0.9899
+w2317,18-04-05, US, NBCNews.com,0.046,0.9773
+w2319,18-04-05, CA, BNN,0.011,0.9888
+w2320,18-04-05, CA, Globalnews.ca,0.0,0.3818
+w2321,18-04-05, CA, CBC.ca,0.04,0.9574
+w2322,18-04-05, CA, Straight.com,0.032,0.996
+w2324,18-04-05, CA, Kamloops This Week,0.093,-0.9686
+w2325,18-04-05, CA, Globalnews.ca,0.138,-0.4215
+w2326,18-04-05, CA, Globalnews.ca,0.095,-0.9271
+w2328,18-04-05, GB, Yahoo Finance UK,0.052,0.9835
+w2330,18-04-05, GB, www.computing.co.uk,0.072,0.7673
+w2331,18-04-05, GB, LBC,0.025,0.9799
+w2332,18-04-05, GB, BBC News,0.097,-0.8959
+w2334,18-04-05, GB, Yahoo Finance UK,0.07,-0.2437
+w2335,18-04-05, GB, Metro Newspaper UK,0.01,0.5994
+w2336,18-04-05, GB, The Times,0.03,0.6597
+w2337,18-04-05, GB, The Market Mogul,0.09,0.9982
+w2339,18-04-05, IE, Siliconrepublic.com,0.058,0.999
+w2340,18-04-05, IE, JOE,0.088,-0.5719
+w2341,18-04-05, IE, Irish Times,0.086,0.7717
+w2344,18-04-06, MY, Malay Mail,0.06,0.9742
+w2345,18-04-06, MY, The Edge Markets MY,0.078,-0.9136
+w2346,18-04-06, MY, Malaysiakini,0.047,0.4472
+w2347,18-04-06, SG, Yahoo Singapore News,0.071,-0.8964
+w2348,18-04-06, SG, Business Insider,0.051,0.4587
+w2352,18-04-06, SG, Singapore Business Review,0.038,0.9977
+w2353,18-04-06, PH, ABS-CBN News,0.06,0.8615
+w2354,18-04-06, PH, ABS-CBN News,0.052,0.895
+w2355,18-04-06, HK, Hong Kong Standard (press release),0.0,0.25
+w2356,18-04-06, HK, Hong Kong Standard (press release),0.0,0.25
+w2358,18-04-06, ZA, ITWeb,0.042,0.9304
+w2360,18-04-06, NG, Nigerian Entertainment Today,0.049,0.9952
+w2361,18-04-06, NG, Pulse Nigeria,0.12,-0.9896
+w2362,18-04-06, NG, Pulse Nigeria,0.052,0.872
+w2364,18-04-06, NG, Pulse Nigeria,0.049,0.9461
+w2365,18-04-06, NG, NAIJA.NG,0.132,-0.9618
+w2366,18-04-06, NG, TODAY.NG,0.054,0.7111
+w2369,18-04-06, GH, Pulse.com.gh,0.061,0.1154
+w2370,18-04-06, JM, Loop Jamaica,0.112,-0.9922
+w2371,18-04-06, JM, Loop Jamaica,0.112,-0.9958
+w2373,18-04-05, US, NDTV,0.033,0.2732
+w2374,18-04-05, US, The INQUIRER,0.103,-0.9403
+w2375,18-04-05, US, The Guardian,0.066,0.9673
+w2377,18-04-06, GB, HeraldScotland,0.1,0.976
+w2378,18-04-06, IE, Siliconrepublic.com,0.027,0.9974
+w2379,18-04-06, IE, Her.ie,0.054,0.997
+w2381,18-04-06, IE, Siliconrepublic.com,0.073,0.9952
+w2383,18-04-06, AU, CNET,0.017,0.8442
+w2384,18-04-06, AU, Yahoo7 News,0.026,0.5908
+w2386,18-04-06, AU, CNET,0.053,-0.5739
+w2389,18-04-06, AU, The Australian Financial Review,0.056,0.6428
+w2390,18-04-06, AU, The Australian Financial Review,0.044,-0.8442
+w2391,18-04-06, AU, Yahoo7 News,0.079,-0.8964
+w2392,18-04-06, NZ, New Zealand Herald,0.073,-0.809
+w2393,18-04-06, NZ, New Zealand Herald,0.091,-0.9783
+w2394,18-04-06, NZ, New Zealand Herald,0.054,-0.1027
+w2395,18-04-06, NZ, New Zealand Herald,0.039,0.9315
+w2396,18-04-06, IN, BloombergQuint,0.084,-0.9694
+w2397,18-04-06, IN, Scroll.in,0.061,0.8374
+w2399,18-04-06, IN, Devdiscourse,0.015,0.969
+w2402,18-04-06, IN, Economic Times,0.052,0.4075
+w2403,18-04-06, IN, Economic Times,0.038,0.9976
+w2404,18-04-06, IN, The Indian Express,0.061,0.9556
+w2405,18-04-06, IN, MediaNama.com,0.0,0.2023
+w2406,18-04-06, IN, News18,0.0,0.1027
+w2410,18-04-06, MY, The Edge Markets MY,0.082,-0.9194
+w2411,18-04-06, MY, The Edge Markets MY,0.097,-0.9375
+w2412,18-04-07, SG, The News Minute,0.049,-0.8126
+w2413,18-04-07, SG, The News Minute,0.071,0.9614
+w2414,18-04-07, PH, Manila Bulletin,0.01,0.9929
+w2416,18-04-07, NG, Ripples Nigeria,0.114,-0.947
+w2417,18-04-07, NG, TODAY.NG,0.042,0.8062
+w2418,18-04-07, NG, Pulse Nigeria,0.094,-0.9971
+w2419,18-04-07, KE, The Standard,0.06,0.9888
+w2421,18-04-07, KE, Nairobi News,0.036,0.9974
+w2422,18-04-06, US, New York Post,0.049,0.9838
+w2423,18-04-06, US, WEAR,0.074,0.9478
+w2424,18-04-06, US, The Guardian,0.114,-0.994
+w2425,18-04-06, US, WBFO,0.053,0.9999
+w2426,18-04-06, US, NDTV,0.011,0.8442
+w2427,18-04-06, US, The Guardian,0.094,-0.9925
+w2428,18-04-06, US, RT,0.063,-0.5657
+w2429,18-04-06, US, Business Insider,0.109,-0.7637
+w2430,18-04-06, US, KDRV,0.372,-0.9081
+w2431,18-04-06, CA, Globalnews.ca,0.104,-0.9761
+w2436,18-04-06, CA, CanIndia News,0.04,0.9958
+w2438,18-04-06, GB, Proactive Investors UK,0.062,0.9989
+w2440,18-04-06, GB, Cosmopolitan.com,0.079,-0.8022
+w2442,18-04-06, GB, www.v3.co.uk,0.052,-0.9633
+w2443,18-04-06, GB, Evening Standard,0.073,0.1444
+w2444,18-04-08, SG, AsiaOne,0.036,0.9948
+w2445,18-04-08, NG, Concise News,0.08,0.973
+w2447,18-04-08, KE, ...ess Daily (press release) (blog),0.068,-0.0234
+w2448,18-04-07, US, Firstpost,0.077,-0.9066
+w2449,18-04-07, US, KERA News,0.063,0.984
+w2450,18-04-07, US, The Guardian,0.066,0.977
+w2452,18-04-07, US, The Guardian,0.084,0.8128
+w2454,18-04-07, CA, Globalnews.ca,0.0,0.886
+w2456,18-04-07, CA, Winnipeg Free Press,0.041,0.9986
+w2457,18-04-07, CA, CBC.ca,0.037,0.9747
+w2458,18-04-07, CA, CBC.ca,0.051,0.8551
+w2459,18-04-07, GB, HeraldScotland,0.04,0.9936
+w2460,18-04-07, GB, Daily Mail,0.029,-0.0516
+w2463,18-04-07, NZ, New Zealand Herald,0.068,0.5632
+w2464,18-04-07, IN, Economic Times,0.063,0.9989
+w2466,18-04-07, IN, Scroll.in,0.095,0.9609
+w2467,18-04-07, IN, Deccan Chronicle,0.019,0.4767
+w2468,18-04-07, IN, Oneindia,0.053,0.9618
+w2470,18-04-07, LK, The Sunday Times Sri Lanka,0.077,0.9955
+w2472,18-04-07, SG, Catch News,0.101,-0.7351
+w2474,18-04-08, CA, Times Colonist,0.054,0.9867
+w2476,18-04-08, GB, The Register,0.123,-0.9897
+w2480,18-04-08, AU, Gizmodo Australia,0.08,-0.6804
+w2481,18-04-08, AU, Pursuit,0.048,0.9998
+w2482,18-04-08, NZ, Scoop.co.nz (press release),0.09,0.9991
+w2483,18-04-08, NZ, New Zealand Herald,0.103,-0.9879
+w2484,18-04-08, NZ, Scoop.co.nz,0.027,0.9911
+w2487,18-04-08, NZ, Scoop.co.nz,0.048,0.9969
+w2488,18-04-08, NZ, Otago Daily Times,0.087,-0.9537
+w2490,18-04-08, NZ, TVNZ,0.065,-0.9586
+w2491,18-04-08, NZ, New Zealand Herald,0.026,0.959
+w2492,18-04-08, NZ, New Zealand Herald,0.052,0.9516
+w2493,18-04-08, IN, The Indian Express,0.095,0.7129
+w2494,18-04-08, IN, Livemint,0.0,0.0
+w2495,18-04-08, IN, Livemint,0.045,0.9972
+w2498,18-04-08, IN, BloombergQuint,0.054,-0.4543
+w2501,18-04-08, MY, New Straits Times Online,0.084,-0.6319
+w2502,18-04-08, MY, The Edge Markets MY,0.079,-0.8481
+w2503,18-04-08, SG, The New Paper,0.077,0.8879
+w2505,18-04-08, SG, Catch News,0.0,0.0
+w2506,18-04-08, SG, Campaign Asia-Pacific,0.033,0.9925
+w2508,18-04-09, AU, NEWS.com.au,0.065,0.9692
+w2509,18-04-09, AU, The Australian Financial Review,0.033,0.9901
+w2510,18-04-09, AU, CNET,0.019,0.9517
+w2513,18-04-09, AU, MuMbrella,0.04,0.9992
+w2516,18-04-09, AU, NEWS.com.au,0.063,0.9624
+w2519,18-04-09, NZ, New Zealand Herald,0.103,-0.7033
+w2520,18-04-09, NZ, Yahoo News,0.112,0.953
+w2522,18-04-09, IN, Atlantic Council (blog),0.229,-0.8223
+w2523,18-04-09, IN, Business Insider India,0.082,0.0739
+w2527,18-04-09, IN, Atlantic Council (blog),0.0,0.8126
+w2528,18-04-09, IN, The Quint,0.086,0.0972
+w2529,18-04-09, IN, Business Insider India,0.092,0.3233
+w2530,18-04-09, IN, India Today,0.036,-0.3929
+w2531,18-04-09, IN, Livemint,0.057,0.9898
+w2532,18-04-09, IN, Livemint,0.095,-0.9602
+w2534,18-04-09, BD, bdnews24.com,0.072,-0.4196
+w2535,18-04-08, US, Toledo Blade,0.037,0.9902
+w2536,18-04-08, US, Salon,0.038,0.9931
+w2537,18-04-08, US, The Boston Globe,0.052,0.9621
+w2539,18-04-08, US, New York Times,0.045,0.998
+w2540,18-04-08, US, Mother Jones,0.053,0.9947
+w2541,18-04-08, US, MarketWatch,0.076,-0.8351
+w2544,18-04-08, CA, The London Free Press,0.098,-0.3797
+w2548,18-04-10, PK, The News International (blog),0.076,0.9896
+w2549,18-04-09, US, Dallas Observer,0.093,-0.1279
+w2550,18-04-09, US, Daily Beast,0.093,0.9931
+w2551,18-04-09, US, Vanity Fair,0.089,0.9921
+w2552,18-04-09, US, New York Post,0.051,0.97
+w2554,18-04-09, US, Business Insider,0.059,0.98
+w2555,18-04-09, US, MarketWatch,0.068,0.8162
+w2556,18-04-09, US, The Times of Israel,0.081,0.8371
+w2558,18-04-09, US, New York Times,0.039,0.9789
+w2559,18-04-09, US, BuzzFeed News,0.069,0.1195
+w2564,18-04-09, CA, CBC.ca,0.061,0.5651
+w2565,18-04-09, CA, CBC.ca,0.049,0.9371
+w2567,18-04-09, CA, BNN,0.034,0.9934
+w2568,18-04-09, CA, autoevolution,0.0,0.0
+w2569,18-04-09, GB, IT PRO,0.0,0.0
+w2570,18-04-09, GB, Evening Standard,0.114,-0.9772
+w2571,18-04-09, GB, BBC News,0.085,0.9975
+w2573,18-04-09, IE, Irish Examiner,0.104,0.974
+w2574,18-04-09, IE, TelecomTV,0.058,0.9915
+w2575,18-04-09, IE, Interesting Engineering,0.062,0.9947
+w2576,18-04-09, IE, PublicTechnology,0.0,0.0
+w2577,18-04-09, IE, JOE,0.073,0.9413
+w2578,18-04-09, AU, E! Online,0.07,0.9964
+w2613,18-04-17, IN, Moneycontrol.com,0.087,0.5267
+w2614,18-04-17, IN, Economic Times,0.054,0.9878
+w2622,18-04-17, SG, The News Minute,0.109,-0.9883
+w2623,18-04-17, SG, Yahoo Singapore News,0.04,0.9956
+w2625,18-04-17, SG, Business Insider,0.062,0.9508
+w2626,18-04-17, SG, YourStory.com,0.017,0.9987
+w2627,18-04-17, SG, Yahoo Singapore News,0.053,-0.8765
+w2628,18-04-17, PH, Philippine Star,0.036,0.9915
+w2631,18-04-17, ZA, Moneyweb.co.za,0.066,0.9848
+w2632,18-04-17, ZA, Moneyweb.co.za,0.056,0.9907
+w2635,18-04-17, NG, Nigeria Today,0.0,0.0
+w2636,18-04-17, NG, CHANNELS TELEVISION,0.05,-0.8437
+w2637,18-04-17, NG, TODAY.NG,0.042,0.9467
+w2638,18-04-17, GH, Pulse.com.gh,0.083,0.9184
+w2639,18-04-17, KE, TechTrendsKE (press release) (blog),0.024,0.9797
+w2640,18-04-17, KE, The Standard,0.103,-0.9022
+w2641,18-04-16, US, Irish Times,0.097,0.9118
+w2642,18-04-16, US, The Guardian,0.084,-0.9895
+w2643,18-04-16, CA, Squamish Chief,0.062,0.9981
+w2644,18-04-16, CA, London Free Press (Blogs) (blog),0.084,0.9952
+w2646,18-04-16, GB, Alphr,0.07,0.9857
+w2647,18-04-16, GB, The National,0.087,-0.8987
+w2649,18-04-16, IE, RTE.ie,0.041,0.9975
+w2650,18-04-16, IE, Irish Examiner,0.078,0.3037
+w2652,18-04-16, IE, Irish Examiner,0.086,-0.9896
+w2654,18-04-16, AU, Mediaweek,0.052,0.9964
+w2656,18-04-16, AU, Yahoo7 News,0.078,-0.8135
+w2659,18-04-16, NZ, New Zealand Herald,0.099,-0.9801
+w2660,18-04-16, IN, THE WEEK,0.023,0.93
+w2661,18-04-16, IN, Yahoo News,0.022,0.975
+w2662,18-04-16, IN, Livemint,0.021,0.9923
+w2663,18-04-16, IN, Economic Times,0.047,0.9923
+w2664,18-04-16, IN, DailyO,0.132,-0.9939
+w2666,18-04-16, MY, The Edge Markets MY,0.04,0.7906
+w2667,18-04-16, SG, Yahoo News,0.023,0.975
+w2668,18-04-16, SG, Yahoo Singapore News,0.03,0.9072
+w2669,18-04-16, SG, Business Insider,0.018,0.6284
+w2670,18-04-16, SG, AsiaOne,0.07,-0.8225
+w2671,18-04-16, SG, Yahoo Singapore News,0.083,0.9336
+w2672,18-04-16, SG, Business Insider,0.044,0.9607
+w2675,18-04-16, PH, Sun.Star,0.064,0.9373
+w2676,18-04-16, PH, Sun.Star,0.047,0.6724
+w2677,18-04-16, PH, CNN Philippines,0.083,0.6644
+w2678,18-04-16, PH, Sun.Star,0.043,0.9664
+w2679,18-04-16, PH, Philippine Star,0.045,0.994
+w2680,18-04-16, PH, Manila Bulletin,0.06,0.9978
+w2681,18-04-16, PH, ABS-CBN News,0.06,-0.5465
+w2683,18-04-16, GH, Pulse.com.gh,0.055,0.8462
+w2684,18-04-16, GH, Pulse.com.gh,0.046,0.9679
+w2685,18-04-16, KE, ...ess Daily (press release) (blog),0.04,0.9881
+w2686,18-04-15, US, New York Times,0.177,-0.998
+w2687,18-04-15, US, The Guardian,0.079,0.5773
+w2688,18-04-15, CA, Globalnews.ca,0.138,-0.9401
+w2689,18-04-15, CA, Globalnews.ca,0.16,-0.9551
+w2692,18-04-15, AU, Brisbane Times,0.134,-0.9987
+w2693,18-04-15, AU, The Sydney Morning Herald,0.057,0.9989
+w2694,18-04-15, AU, The Australian Financial Review,0.082,-0.6542
+w2695,18-04-15, AU, The Sydney Morning Herald,0.068,0.9814
+w2696,18-04-15, AU, AdNews,0.061,0.9979
+w2697,18-04-15, NZ, Indian NewsLink,0.097,0.9682
+w2698,18-04-15, IN, Livemint,0.035,0.9932
+w2699,18-04-15, IN, The Asian Age,0.087,0.9172
+w2701,18-04-14, US, The Outline,0.103,-0.978
+w2703,18-04-14, CA, Winnipeg Free Press,0.071,0.9245
+w2704,18-04-14, CA, Winnipeg Free Press,0.045,0.997
+w2705,18-04-14, CA, Winnipeg Free Press,0.078,0.966
+w2706,18-04-14, CA, News1130,0.069,0.9756
+w2707,18-04-14, IN, BloombergQuint,0.038,0.9871
+w2709,18-04-14, LK, EconomyNext,0.077,0.0
+w2713,18-04-13, US, WIRED,0.074,0.9963
+w2714,18-04-13, US, TIME,0.046,0.9999
+w2715,18-04-13, US, The Atlantic,0.037,0.8238
+w2716,18-04-13, US, Slate Magazine,0.048,0.9988
+w2717,18-04-13, CA, CBC.ca,0.086,-0.6605
+w2720,18-04-13, CA, CBC.ca,0.031,0.981
+w2721,18-04-13, GB, CNET,0.019,0.9722
+w2722,18-04-13, GB, BBC News,0.052,0.9956
+w2724,18-04-13, GB, Aberdeen Evening Express,0.0,0.0
+w2727,18-04-13, AU, The Canberra Times,0.047,0.998
+w2729,18-04-13, NZ, Otago Daily Times,0.115,-0.9945
+w2732,18-04-13, IN, Economic Times,0.029,0.998
+w2735,18-04-13, IN, Economic Times,0.046,0.928
+w2739,18-04-13, MY, The Edge Markets MY,0.094,-0.9891
+w2740,18-04-13, MY, The Edge Markets MY,0.053,0.2838
+w2741,18-04-13, SG, Yahoo News,0.046,0.9744
+w2742,18-04-13, SG, Yahoo Singapore News,0.016,0.9951
+w2743,18-04-13, SG, YourStory.com,0.0,0.0
+w2744,18-04-13, SG, YourStory.com,0.0,0.9669
+w2746,18-04-13, SG, Business Insider,0.04,-0.7003
+w2747,18-04-13, SG, Yahoo Singapore News,0.019,0.9325
+w2748,18-04-13, PH, Philippine Star,0.031,0.9915
+w2749,18-04-13, PH, Sun.Star,0.065,0.9868
+w2750,18-04-13, PH, Sun.Star,0.042,0.5215
+w2751,18-04-13, PH, ABS-CBN News,0.084,-0.8453
+w2752,18-04-13, PH, Philippine Star,0.049,0.9937
+w2753,18-04-13, PH, Sun.Star,0.028,0.9601
+w2754,18-04-13, ZA, News24,0.0,0.6908
+w2759,18-04-12, US, Business Insider,0.061,0.6139
+w2760,18-04-12, US, Gizmodo,0.023,0.999
+w2761,18-04-12, US, Marketplace.org,0.035,0.9988
+w2762,18-04-12, US, Business Insider,0.037,-0.7009
+w2763,18-04-12, GB, Evening Standard,0.078,0.9953
+w2764,18-04-12, IE, Siliconrepublic.com,0.058,0.9973
+w2765,18-04-12, AU, CNET,0.053,0.7351
+w2766,18-04-12, AU, Yahoo7 News,0.035,0.9783
+w2767,18-04-12, AU, Byron Shire News,0.056,0.9962
+w2768,18-04-12, AU, The Australian Financial Review,0.015,0.9983
+w2769,18-04-12, AU, Yahoo7 News,0.019,0.1779
+w2770,18-04-12, AU, CNET,0.047,0.9979
+w2771,18-04-12, IN, http://www.newsgram.com/,0.049,0.9963
+w2772,18-04-12, IN, Oneindia,0.09,0.9414
+w2773,18-04-12, IN, Oneindia,0.023,0.9849
+w2774,18-04-12, IN, Gadgets Now,0.062,0.9631
+w2776,18-04-12, IN, The Asian Age,0.085,-0.9685
+w2777,18-04-12, IN, The Quint,0.106,-0.5574
+w2778,18-04-12, IN, MediaNama.com,0.0,0.0
+w2779,18-04-12, IN, The Asian Age,0.048,0.998
+w2782,18-04-12, MY, The Edge Markets MY,0.066,-0.9659
+w2783,18-04-12, MY, The Edge Markets MY,0.083,-0.9277
+w2784,18-04-12, SG, Catch News,0.146,-0.8126
+w2785,18-04-12, SG, Yahoo Singapore News,0.018,0.1779
+w2786,18-04-12, SG, Yahoo News,0.022,0.9192
+w2787,18-04-12, SG, YourStory.com,0.052,0.9993
+w2788,18-04-12, SG, YourStory.com,0.0,0.2732
+w2790,18-04-12, PH, ABS-CBN News,0.069,0.3061
+w2791,18-04-12, PH, ABS-CBN News,0.052,0.895
+w2792,18-04-12, PH, CNN Philippines,0.067,-0.9636
+w2793,18-04-12, HK, Hong Kong Standard (press release),0.0,0.25
+w2794,18-04-11, US, New York Times,0.021,0.995
+w2795,18-04-11, US, Fortune,0.018,0.9987
+w2796,18-04-11, US, The Times of Israel,0.163,-1.0
+w2797,18-04-11, US, CBS News,0.046,0.0516
+w2798,18-04-11, US, ABC News,0.072,0.2737
+w2799,18-04-11, US, The Guardian,0.067,0.997
+w2800,18-04-11, US, The Guardian,0.098,0.6261
+w2801,18-04-11, US, New York Times,0.0,0.0
+w2802,18-04-11, US, Gizmodo,0.051,0.9778
+w2803,18-04-11, US, The Mercury News,0.051,0.9844
+w2804,18-04-11, US, Bloomberg,0.04,0.9975
+w2805,18-04-11, US, 89.3 KPCC,0.023,0.9953
+w2806,18-04-11, US, Fast Company,0.044,0.9343
+w2807,18-04-11, US, BullionVault,0.062,0.9981
+w2808,18-04-11, US, Kotaku,0.052,0.9885
+w2809,18-04-11, US, Business Insider,0.083,-0.9635
+w2810,18-04-11, US, The Boston Globe,0.075,0.0531
+w2811,18-04-11, US, New York Times,0.051,0.9871
+w2812,18-04-11, US, Slate Magazine,0.067,0.9788
+w2813,18-04-11, US, The Punch,0.071,0.9909
+w2815,18-04-11, CA, CBC.ca,0.025,0.9827
+w2816,18-04-11, CA, ...ctive Investors USA & Canada,0.055,0.9988
+w2824,18-04-11, GB, Pocket-lint.com,0.031,0.9865
+w2825,18-04-11, GB, Evening Standard,0.09,-0.7475
+w2827,18-04-11, GB, Eureka News,0.123,-0.9975
+w2828,18-04-11, GB, London South East (blog),0.0,0.9694
+w2830,18-04-11, GB, BBC News,0.073,-0.8767
+w2831,18-04-11, GB, Evening Standard,0.091,0.993
+w2832,18-04-11, GB, World Finance,0.033,0.9872
+w2833,18-04-11, GB, Isle of Wight County Press,0.072,0.6804
+w2834,18-04-11, IE, Irish Examiner,0.074,-0.9274
+w2835,18-04-11, IE, JOE,0.097,0.9966
+w2837,18-04-11, IE, RTE.ie,0.045,0.9853
+w2838,18-04-11, AU, B&T,0.069,0.9997
+w2840,18-04-11, AU, The Sydney Morning Herald,0.093,0.9845
+w2841,18-04-11, AU, charlestonchronicle.net,0.069,0.966
+w2842,18-04-11, AU, ABC Local,0.057,0.9926
+w2843,18-04-11, AU, NEWS.com.au,0.071,0.9543
+w2844,18-04-11, AU, NEWS.com.au,0.07,0.9694
+w2845,18-04-11, AU, BIT,0.068,0.9929
+w2846,18-04-11, AU, NEWS.com.au,0.047,0.9966
+w2847,18-04-11, AU, CNET,0.058,0.9956
+w2848,18-04-11, AU, NEWS.com.au,0.113,-0.9948
+w2849,18-04-11, AU, NEWS.com.au,0.096,0.9966
+w2850,18-04-11, AU, The Australian Financial Review,0.051,0.9966
+w2853,18-04-11, AU, CNET,0.052,0.9682
+w2854,18-04-11, NZ, New Zealand Herald,0.062,0.9526
+w2855,18-04-11, NZ, The National Business Review,0.024,0.3612
+w2856,18-04-11, NZ, New Zealand Herald,0.068,0.9968
+w2857,18-04-11, NZ, New Zealand Herald,0.085,0.6776
+w2858,18-04-11, NZ, New Zealand Herald,0.136,-0.9745
+w2860,18-04-11, NZ, New Zealand Herald,0.112,-0.9952
+w2861,18-04-11, IN, BloombergQuint,0.071,-0.4306
+w2863,18-04-11, IN, India Today,0.062,0.9939
+w2864,18-04-11, IN, India Today,0.074,0.9914
+w2866,18-04-11, IN, Times Now,0.045,0.9897
+w2867,18-04-11, IN, Livemint,0.025,0.9896
+w2869,18-04-11, IN, News18,0.064,-0.2732
+w2871,18-04-11, IN, ETBrandEquity.com,0.054,0.9976
+w2872,18-04-11, IN, Business Insider India,0.092,0.6652
+w2873,18-04-11, IN, BloombergQuint,0.02,0.9918
+w2875,18-04-11, IN, The Asian Age,0.099,-0.9615
+w2876,18-04-11, IN, BloombergQuint,0.073,0.4843
+w2877,18-04-11, IN, India Today,0.06,0.644
+w2878,18-04-11, IN, Gadgets Now,0.052,0.9833
+w2880,18-04-11, IN, afaqs,0.068,-0.9647
+w2881,18-04-11, IN, Livemint,0.0,0.0
+w2884,18-04-11, IN, BloombergQuint,0.053,0.9935
+w2885,18-04-11, IN, Livemint,0.069,-0.4215
+w2886,18-04-11, IN, The Indian Express,0.074,0.9864
+w2887,18-04-11, IN, Livemint,0.042,-0.4019
+w2888,18-04-11, PK, The Express Tribune,0.057,0.9927
+w2890,18-04-11, MY, Malay Mail,0.007,0.8402
+w2892,18-04-11, SG, YourStory.com,0.021,0.8312
+w2894,18-04-11, SG, Yahoo News,0.019,0.959
+w2896,18-04-11, SG, Yahoo News,0.118,-0.9867
+w2897,18-04-11, SG, Yahoo News,0.063,0.9444
+w2898,18-04-11, SG, Yahoo News,0.029,0.9923
+w2900,18-04-11, SG, The New Paper,0.057,0.9368
+w2901,18-04-11, HK, EJ Insight,0.06,0.6465
+w2903,18-04-11, ZA, BusinessTech,0.044,0.9927
+w2905,18-04-11, ZA, Moneyweb.co.za,0.057,0.9796
+w2906,18-04-11, ZA, HuffPost South Africa,0.042,0.9972
+w2907,18-04-11, NG, Nigerian Entertainment Today,0.057,0.9969
+w2908,18-04-11, NG, Pulse Nigeria,0.093,-0.9638
+w2909,18-04-11, NG, Pulse Nigeria,0.043,0.9609
+w2911,18-04-11, NG, Daily Post Nigeria,0.053,0.9555
+w2913,18-04-11, GH, Pulse.com.gh,0.079,-0.9513
+w2914,18-04-11, GH, Pulse.com.gh,0.059,0.8481
+w2915,18-04-11, GH, Pulse.com.gh,0.103,-0.9638
+w2916,18-04-11, GH, Pulse.com.gh,0.057,0.7096
+w2919,18-04-10, US, Fast Company,0.048,0.9928
+w2921,18-04-10, US, Gizmodo,0.023,0.9941
+w2922,18-04-10, US, New York Times,0.071,0.9783
+w2924,18-04-10, US, TechCrunch,0.115,-0.9857
+w2925,18-04-10, US, TIME,0.037,0.9932
+w2926,18-04-10, US, Colorado Springs Gazette,0.049,0.9984
+w2927,18-04-10, US, Gizmodo,0.066,0.9955
+w2928,18-04-10, US, WIRED,0.091,-0.9922
+w2929,18-04-10, US, Chicago Tribune,0.108,-0.9937
+w2930,18-04-10, US, Popular Science,0.056,0.9997
+w2931,18-04-10, US, The Guardian,0.061,0.9935
+w2932,18-04-10, US, 9to5Mac,0.063,0.9896
+w2933,18-04-10, US, Fox News,0.086,0.6221
+w2934,18-04-10, US, New York Times,0.07,0.8838
+w2935,18-04-10, CA, Globalnews.ca,0.117,-0.9132
+w2941,18-04-10, GB, The Sun,0.102,-0.9887
+w2942,18-04-10, GB, Lovin Malta (press release),0.049,0.4019
+w2943,18-04-10, GB, Milford Mercury,0.061,0.9738
+w2944,18-04-10, GB, The Sun,0.114,-0.9567
+w2945,18-04-10, GB, Evening Standard,0.078,-0.0651
+w2948,18-04-10, GB, Isle of Wight County Press,0.055,0.7351
+w2949,18-04-10, GB, The Register,0.146,-0.9977
+w2950,18-04-10, GB, TechRadar,0.038,0.34
+w2951,18-04-10, GB, BBC News,0.089,-0.0554
+w2953,18-04-10, IE, The Irish Sun,0.118,-0.9938
+w2954,18-04-10, IE, Irish Examiner,0.097,-0.9444
+w2955,18-04-10, IE, RTE.ie,0.065,0.9354
+w2958,18-04-10, AU, NEWS.com.au,0.092,0.947
+w2960,18-04-10, AU, iTnews,0.084,0.2844
+w2962,18-04-10, AU, CNET,0.075,0.4748
+w2963,18-04-10, AU, NEWS.com.au,0.126,-0.9993
+w2964,18-04-10, AU, Yahoo7 News,0.0,0.0
+w2965,18-04-10, AU, Gizmodo Australia,0.095,0.9714
+w2967,18-04-10, AU, Gizmodo Australia,0.062,0.99
+w2968,18-04-10, AU, Gatton Star,0.049,0.994
+w2969,18-04-10, AU, Gizmodo Australia,0.073,0.995
+w2970,18-04-10, AU, SmartCompany.com.au,0.071,0.9976
+w2971,18-04-10, AU, The Australian Financial Review,0.099,0.9954
+w2975,18-04-10, NZ, The National Business Review,0.041,-0.4215
+w2976,18-04-10, NZ, New Zealand Herald,0.072,0.9897
+w2977,18-04-10, NZ, New Zealand Herald,0.048,0.9958
+w2979,18-04-10, NZ, Yahoo News,0.067,0.9687
+w2980,18-04-10, NZ, New Zealand Herald,0.074,-0.7335
+w2981,18-04-10, NZ, The National Business Review,0.0,0.5106
+w2982,18-04-10, IN, BloombergQuint,0.081,0.9917
+w2983,18-04-10, IN, The Indian Express,0.08,0.8813
+w2984,18-04-10, IN, Business Standard,0.039,0.5859
+w2985,18-04-10, IN, The Indian Express,0.068,0.9946
+w2987,18-04-10, IN, The Asian Age,0.07,0.8744
+w2989,18-04-10, IN, India Today,0.063,0.9978
+w2990,18-04-10, IN, Business Insider India,0.08,0.9802
+w2991,18-04-10, IN, BloombergQuint,0.051,0.9979
+w2992,18-04-10, IN, Times Now,0.05,0.9828
+w2993,18-04-10, IN, India Today,0.082,0.9838
+w2994,18-04-10, IN, The Quint,0.112,-0.5574
+w2995,18-04-10, IN, Times Now,0.079,0.9874
+w2997,18-04-10, IN, News18,0.026,0.9974
+w2998,18-04-10, IN, India Today,0.038,0.8977
+w2999,18-04-10, IN, NewsBytes,0.076,0.8561
+w3001,18-04-10, IN, India Today,0.061,0.9723
